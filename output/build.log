@@ -1,0 +1,25 @@
+NeuroX Demand Dashboard — 2026-07-27
+Data since: 2025-01-01 (quarterly; brands since 2025-06-01)
+
+Running commercial + open-auction queries + 7 deals chunks + 6 brand chunks (2 in flight)…
+  ✓ commercial activity: 818 rows
+  ✓ open auction: 1,769 ad_name×quarter rows
+  ✓ deals 2025-01-01: 1,008 rows
+  ✓ deals 2025-04-01: 2,508 rows
+  ✓ deals 2025-07-01: 5,013 rows
+  ✓ deals 2025-10-01: 3,829 rows
+  ✓ deals 2026-01-01: 2,874 rows
+  ✓ deals 2026-04-01: 4,069 rows
+  ✓ deals 2026-07-01: 2,102 rows
+  ✓ brands 2025-06-01: 50,293 rows
+  ✓ brands 2025-07-01: 87,815 rows
+  ✓ brands 2025-10-01: 85,876 rows
+  ✓ brands 2026-01-01: 73,286 rows
+  ✓ brands 2026-04-01: 78,751 rows
+  ✓ brands 2026-07-01: 42,157 rows
+  ✓ deals total: 21,403 rows · brands total: 418,178 rows
+  ✓ CSVs written to output/
+  ✓ 7 quarters (2025-01-01 → 2026-07-01), 59 DSPs, 1,769 OA rows, 818 commercial rows, 418,178 brand rows
+
+✓ HTML saved: /Users/jperez/Desktop/Seedtag/notebooks/adex_demand_dashboard/output/adex_dashboard.html  (92.5 MB)
+  Self-contained file — open it directly or share it: /Users/jperez/Desktop/Seedtag/notebooks/adex_demand_dashboard/output/adex_dashboard.html

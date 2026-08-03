@@ -1,0 +1,12 @@
+# secrets
+prj-jdpa-*.json
+*.json
+!package.json
+!uv.lock
+.env
+
+# noise
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
