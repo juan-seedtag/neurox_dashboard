@@ -136,9 +136,11 @@ h2,h3,h4{{font-family:'Instrument Sans',sans-serif;font-weight:600}}
 .report-header{{display:flex;align-items:center;gap:16px;padding:24px 32px;border-bottom:1px solid var(--border);background:var(--surface);position:relative}}
 .report-header h1{{font-size:26px}}
 .report-header .subtitle{{color:var(--text-subtle);font-size:13px;margin-top:3px}}
-.header-meta{{position:absolute;top:18px;right:64px;text-align:right;font-size:11px;color:var(--text-muted);background:var(--surface-2);padding:6px 12px;border-radius:6px;border:1px solid var(--border)}}
-.header-meta .lbl{{font-size:10px;color:var(--text-subtle)}}
-.header-meta .val{{font-weight:600;color:var(--text);white-space:nowrap}}
+#updated-toggle{{position:fixed;top:16px;right:60px;width:36px;height:36px;display:inline-flex;align-items:center;justify-content:center;background:var(--surface);color:var(--text);border:1px solid var(--border);border-radius:50%;cursor:pointer;z-index:10000;box-shadow:0 2px 8px rgba(0,0,0,.08);transition:transform 150ms;font-size:16px}}
+#updated-toggle:hover{{transform:scale(1.05)}}
+#updated-pop{{display:none;position:fixed;top:58px;right:16px;z-index:10001;text-align:right;font-size:11px;color:var(--text-muted);background:var(--surface);padding:8px 14px;border-radius:8px;border:1px solid var(--border);box-shadow:0 8px 24px rgba(0,0,0,.15)}}
+#updated-pop .lbl{{font-size:10px;color:var(--text-subtle)}}
+#updated-pop .val{{font-weight:600;color:var(--text);white-space:nowrap}}
 
 #theme-toggle{{position:fixed;top:16px;right:16px;width:36px;height:36px;display:inline-flex;align-items:center;justify-content:center;background:var(--surface);color:var(--text);border:1px solid var(--border);border-radius:50%;cursor:pointer;z-index:10000;box-shadow:0 2px 8px rgba(0,0,0,.08);transition:transform 150ms}}
 #theme-toggle:hover{{transform:scale(1.05)}}
@@ -292,7 +294,7 @@ footer.report-footer img{{opacity:.75}}
 
 @media (max-width:768px){{
   .tab-panel{{padding:18px 16px}} .report-header{{padding:16px}} .tabs-bar{{padding:10px 16px 0}}
-  .header-meta{{display:none}} .search-box{{min-width:100%}}
+  .search-box{{min-width:100%}}
 }}
 </style>
 </head>
@@ -309,11 +311,20 @@ footer.report-footer img{{opacity:.75}}
     <h1>NeuroX Demand Dashboard</h1>
     <div class="subtitle">Analytics Team &middot; Revenue Gross (USD) &middot; NeuroX scope (no Reseller, no Direct business lines) &middot; quarterly</div>
   </div>
-  <div class="header-meta">
-    <div class="lbl">Last updated</div>
-    <div class="val">{now}</div>
-  </div>
 </header>
+
+<button id="updated-toggle" aria-label="Show last update time" title="Last update"
+        onclick="var p=document.getElementById('updated-pop');p.style.display=p.style.display==='block'?'none':'block';event.stopPropagation()">🕐</button>
+<div id="updated-pop">
+  <div class="lbl">Last updated</div>
+  <div class="val">{now}</div>
+</div>
+<script>
+document.addEventListener('click',function(e){{
+  var p=document.getElementById('updated-pop');
+  if(p.style.display==='block'&&!p.contains(e.target))p.style.display='none';
+}});
+</script>
 
 <!-- Section bar: the two top-level areas of the holistic dashboard -->
 <div class="section-bar">
