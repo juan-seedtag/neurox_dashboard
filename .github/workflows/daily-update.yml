@@ -1,0 +1,72 @@
+name: Daily data update
+
+on:
+  schedule:
+    # GitHub cron is UTC. 10:00 UTC = 12:00 Madrid during CEST (summer).
+    # In winter (CET) this fires at 11:00 local — adjust to '0 11 * * *' after
+    # the October DST change if the exact local hour matters.
+    - cron: '0 10 * * *'
+  workflow_dispatch: {}   # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          python-version: '3.13'
+
+      - name: Write Trino OAuth token
+        env:
+          SEEDTAG_TOKEN_JSON: ${{ secrets.SEEDTAG_TOKEN_JSON }}
+        run: |
+          if [ -z "$SEEDTAG_TOKEN_JSON" ]; then
+            echo "::error::SEEDTAG_TOKEN_JSON secret is not set (contents of ~/.config/seedtag/token.json)"
+            exit 1
+          fi
+          mkdir -p ~/.config/seedtag
+          printf '%s' "$SEEDTAG_TOKEN_JSON" > ~/.config/seedtag/token.json
+          chmod 600 ~/.config/seedtag/token.json
+
+      - name: Write Drive service account (optional)
+        env:
+          DRIVE_SA_JSON_CONTENT: ${{ secrets.DRIVE_SA_JSON }}
+        run: |
+          if [ -n "$DRIVE_SA_JSON_CONTENT" ]; then
+            printf '%s' "$DRIVE_SA_JSON_CONTENT" > prj-jdpa-560863a21518.json
+            chmod 600 prj-jdpa-560863a21518.json
+            echo "UPLOAD_FLAG=--upload" >> "$GITHUB_ENV"
+          else
+            echo "DRIVE_SA_JSON secret not set — skipping Drive upload"
+            echo "UPLOAD_FLAG=" >> "$GITHUB_ENV"
+          fi
+
+      - name: Build dashboard (full Trino refresh)
+        env:
+          TRINO_USER: juanperez@seedtag.com
+        run: uv run python generate_report_v2.py $UPLOAD_FLAG
+
+      - name: Commit refreshed data
+        run: |
+          rm -f prj-jdpa-560863a21518.json   # never let the SA key near the commit
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/
+          if git diff --cached --quiet; then
+            echo "No data changes — nothing to commit"
+            exit 0
+          fi
+          git commit -m "data: daily refresh $(date -u +%F)"
+          git pull --rebase origin main
+          git push origin main
