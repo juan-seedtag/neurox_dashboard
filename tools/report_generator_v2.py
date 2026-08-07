@@ -194,6 +194,7 @@ html[data-theme="dark"] #theme-toggle .icon-moon{{display:inline}}
 .subtab-btn.active{{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}}
 .subtab-panel{{display:none}}
 .subtab-panel.active{{display:block}}
+.wk-ord{{display:inline-flex;align-items:center;justify-content:center;width:15px;height:15px;border-radius:50%;background:rgba(0,0,0,.18);font-size:10px;font-weight:700;margin-right:5px}}
 
 .section-title{{font-size:16px;font-weight:600;margin:26px 0 12px;display:flex;align-items:center;gap:8px}}
 .section-title:first-child{{margin-top:0}}
@@ -440,10 +441,8 @@ footer.report-footer img{{opacity:.75}}
   </div>
   <div class="card">
     <div class="card-header">📅 Weekly Revenue — WoW
-      <span class="flabel" style="margin-left:8px">Group by</span>
-      <button class="subtab-btn wk-dim active" data-dim="bl" onclick="wkDimToggle('bl')">Business Line</button>
-      <button class="subtab-btn wk-dim" data-dim="ct" onclick="wkDimToggle('ct')">Connection Type</button>
-      <button class="subtab-btn wk-dim" data-dim="pf" onclick="wkDimToggle('pf')">Product Format</button>
+      <span class="flabel" style="margin-left:8px" title="Click to add/remove a segment — the click order sets the column order">Group by · click order = column order</span>
+      <span id="wk-dim-chips"></span>
       <div class="spacer"></div>
       <button class="btn-csv" onclick="wkCSV()">📥 CSV</button>
     </div>
@@ -1292,17 +1291,28 @@ function brandCSV(){{
 // Format (chip toggles, at least one always on). Columns: current week, previous
 // week, WoW USD, WoW %. Sorted by WoW USD variation desc. Global filters apply.
 const WK_DIMS=[
-  {{key:'bl', label:'Business Line',   field:'business_line'}},
-  {{key:'ct', label:'Connection Type', field:'connection_type'}},
-  {{key:'pf', label:'Product Format',  field:'product_category'}},
+  {{key:'bl',  label:'Business Line',   field:'business_line'}},
+  {{key:'ct',  label:'Connection Type', field:'connection_type'}},
+  {{key:'pf',  label:'Product Format',  field:'product_category'}},
+  {{key:'dsp', label:'DSP Group',       field:'dsp_group_name'}},
+  {{key:'cva', label:'ClearVu Account', field:'clearvu_account'}},
 ];
-const wkActive=new Set(['bl']);
+// Ordered list of active segment keys — the CLICK ORDER is the column order.
+let wkOrder=['bl'];
+const wkDims=()=>wkOrder.map(k=>WK_DIMS.find(x=>x.key===k));
+function wkRenderChips(){{
+  document.getElementById('wk-dim-chips').innerHTML=WK_DIMS.map(x=>{{
+    const i=wkOrder.indexOf(x.key);
+    return `<button class="subtab-btn wk-dim${{i>=0?' active':''}}" onclick="wkDimToggle('${{x.key}}')">${{i>=0?`<span class="wk-ord">${{i+1}}</span>`:''}}${{x.label}}</button>`;
+  }}).join(' ');
+}}
 function wkDimToggle(key){{
-  if(wkActive.has(key)){{
-    if(wkActive.size===1) return;              // keep at least one dimension
-    wkActive.delete(key);
-  }} else wkActive.add(key);
-  document.querySelectorAll('.wk-dim').forEach(b=>b.classList.toggle('active',wkActive.has(b.dataset.dim)));
+  const i=wkOrder.indexOf(key);
+  if(i>=0){{
+    if(wkOrder.length===1) return;             // keep at least one dimension
+    wkOrder.splice(i,1);
+  }} else wkOrder.push(key);                    // appended = last column
+  wkRenderChips();
   wkPage=1; buildWk(); renderWk();
 }}
 // Window labels from the build date (rolling weeks, not ISO calendar weeks)
@@ -1313,13 +1323,14 @@ const WK_WINDOWS=(()=>{{
 }})();
 let WK=[], WK_TOTAL=null;
 function buildWk(){{
-  const dims=WK_DIMS.filter(x=>wkActive.has(x.key));
+  const dims=wkDims();
   const map=new Map();
   WK_TOTAL={{cur:0,prev:0}};
   filt(WK_ROWS,'wk').forEach(r=>{{
-    const key=dims.map(x=>r[x.field]??'—').join('\\u0001');
+    const vals=dims.map(x=>{{const v=r[x.field];return (v==null||v===''||v==='nan')?'—':v;}});
+    const key=vals.join('\\u0001');
     let e=map.get(key);
-    if(!e){{e={{vals:dims.map(x=>r[x.field]??'—'),cur:0,prev:0}};map.set(key,e);}}
+    if(!e){{e={{vals,cur:0,prev:0}};map.set(key,e);}}
     const v=Number(r.rev_gross)||0;
     if(r.period==='current_week'){{e.cur+=v;WK_TOTAL.cur+=v;}}
     else if(r.period==='previous_week'){{e.prev+=v;WK_TOTAL.prev+=v;}}
@@ -1345,7 +1356,7 @@ function wkRow(vals,cur,prev,cls){{
     wkUsdCell(cur,prev)+wkPctCell(cur,prev)+'</tr>';
 }}
 function renderWk(){{
-  const dims=WK_DIMS.filter(x=>wkActive.has(x.key));
+  const dims=wkDims();
   document.getElementById('wk-sub').childNodes[0].textContent =
     `Week-over-week revenue — rolling 7-day windows: current ${{WK_WINDOWS.cur}} vs previous ${{WK_WINDOWS.prev}}. Sorted by WoW USD variation. `;
   document.getElementById('wk-head').innerHTML =
@@ -1367,7 +1378,7 @@ function renderWk(){{
   renderPagination('wk-pag',pages,wkPage,p=>{{wkPage=p;renderWk();}});
 }}
 function wkCSV(){{
-  const dims=WK_DIMS.filter(x=>wkActive.has(x.key));
+  const dims=wkDims();
   const header=[...dims.map(x=>x.label),`Current Week (${{WK_WINDOWS.cur}})`,`Previous Week (${{WK_WINDOWS.prev}})`,'WoW USD','WoW %'];
   const rowOf=(vals,cur,prev)=>[...vals,Math.round(cur*100)/100,Math.round(prev*100)/100,
     Math.round((cur-prev)*100)/100, prev?((cur/prev-1)*100).toFixed(1)+'%':''];
@@ -1627,6 +1638,7 @@ function rebuildAll(){{
 }}
 document.addEventListener('DOMContentLoaded',()=>{{
   buildFilters();
+  wkRenderChips();
   rebuildAll();
 }});
 </script>

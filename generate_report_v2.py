@@ -290,17 +290,13 @@ def build_dashboard(date_from: str) -> str:
     _round_rev(brand_rows)
     _round_rev(weekly_rows)
 
-    # Stable names (used by --from-csv rebuilds) + dated copies for history.
+    # Stable names only (used by --from-csv rebuilds) — each build replaces the
+    # previous file in place; git history keeps the daily versions.
     save_csv(rows, OUTPUT_DIR / "adex_deals.csv")
-    save_csv(rows, OUTPUT_DIR / f"adex_deals_{TODAY}.csv")
     save_csv(oa_rows, OUTPUT_DIR / "adex_open_auction.csv")
-    save_csv(oa_rows, OUTPUT_DIR / f"adex_open_auction_{TODAY}.csv")
     save_csv(com_rows, OUTPUT_DIR / "adex_commercial.csv")
-    save_csv(com_rows, OUTPUT_DIR / f"adex_commercial_{TODAY}.csv")
     save_csv(brand_rows, OUTPUT_DIR / "adex_brands.csv")
-    save_csv(brand_rows, OUTPUT_DIR / f"adex_brands_{TODAY}.csv")
     save_csv(weekly_rows, OUTPUT_DIR / "adex_weekly.csv")
-    save_csv(weekly_rows, OUTPUT_DIR / f"adex_weekly_{TODAY}.csv")
     save_csv(cq3_baseline, OUTPUT_DIR / "adex_cq3_baseline.csv")
     save_csv(cq3_followup, OUTPUT_DIR / "adex_cq3_followup.csv")
     save_csv(cq3_new, OUTPUT_DIR / "adex_cq3_new_deals.csv")

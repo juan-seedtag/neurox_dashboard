@@ -7,10 +7,10 @@
 --   previous_week = [current_date - 14 days, current_date - 7 days)
 -- NeuroX scope, consistent with the Commercial Activity tab: no Reseller, no
 -- Direct / External business lines, Conversant-via-Conversant → Direct.
--- The report groups client-side by any combination of business_line,
--- connection_type and product_category (user-selectable), computing
--- WoW USD / % variation sorted by USD variation desc. dsp_group_name and
--- channel_id are kept in the grain to power the global filters.
+-- The report groups client-side by any ordered combination of business_line,
+-- connection_type, product_category, dsp_group_name and clearvu_account
+-- (user-selectable segments), computing WoW USD / % variation sorted by USD
+-- variation desc. channel_id is kept in the grain for the global filters.
 --
 -- No placeholders — the windows anchor on current_date at query time.
 -- =============================================================================
@@ -29,6 +29,7 @@ SELECT
     , business_line
     , product_category
     , dsp_group_name
+    , clearvu_account
     , channel_id
     , SUM(revenue_gross) AS rev_gross
 FROM reporting_adex_demand
@@ -38,6 +39,6 @@ WHERE 1=1
   AND business_line NOT LIKE '%External%'
   AND date >= current_date - INTERVAL '14' DAY
   AND date <  current_date
-GROUP BY 1, 2, 3, 4, 5, 6
+GROUP BY 1, 2, 3, 4, 5, 6, 7
 HAVING SUM(revenue_gross) > 0
 ORDER BY rev_gross DESC
