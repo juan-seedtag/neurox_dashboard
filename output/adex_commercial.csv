@@ -1042,6 +1042,7 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-04-01,Direct,PMP Web - O&O,Online Video,Xandr,AppNexus,5.68,996
 2026-07-01,Direct,Select - BFM,Display,Viant,Viant,5.37,5041
 2026-04-01,BidSwitch,Open Auction - BFM,Display,Infillion,Infillion,5.37,7852
+2026-07-01,Direct,Select - BFM,Display,Viant,Viant,5.37,5041
 2026-01-01,BidSwitch,Open Auction - BFM,Display,OnSpot Data,OnSpot Data,5.36,8097
 2026-07-01,BidSwitch,DSP Marketplace - BFM,CTV,Samsung DSP,Samsung DSP,5.26,521
 2026-07-01,BidSwitch,PMP - Curation,Online Video,DV360,DBM,5.06,393
@@ -1110,8 +1111,8 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-04-01,Direct,Open Auction - BFM,CTV,Media Pulse,Media Pulse,0.84,55
 2025-01-01,Direct,Select - BFM,CTV,MadHive,MadHive,0.82,51
 2025-04-01,BidSwitch,Open Auction - BFM,CTV,Between Exchange,Between Exchange,0.77,991
-2026-01-01,Direct,Open Auction - BFM,CTV,Zeasn,Zeasn,0.76,123
 2026-07-01,Direct,Open Auction - BFM,CTV,Zeasn,Zeasn,0.76,100
+2026-01-01,Direct,Open Auction - BFM,CTV,Zeasn,Zeasn,0.76,123
 2025-10-01,BidSwitch,Open Auction - BFM,Display,Knorex,Knorex,0.71,378
 2026-01-01,BidSwitch,Open Auction - BFM,Display,Streamworx Lda.,Streamworx Lda.,0.66,343
 2025-04-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.64,25
@@ -1128,9 +1129,10 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-07-01,BidSwitch,Select - BFM,CTV,Sportradar,Sportradar,0.39,7
 2026-04-01,Direct,Open Auction - BFM,Display,Stirista,Stirista,0.36,361
 2026-04-01,BidSwitch,Open Auction - BFM,Display,Quantcast,Quantcast,0.32,1540
+2025-01-01,Direct,DSP Marketplace - BFM,CTV,SmartyAds,SmartyAds,0.31,8
 2026-07-01,BidSwitch,Open Auction - BFM,Display,Knorex,Knorex,0.31,66
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.31,13
-2025-01-01,Direct,DSP Marketplace - BFM,CTV,SmartyAds,SmartyAds,0.31,8
+2025-07-01,BidSwitch,Open Auction - BFM,Display,Samsung DSP,Samsung DSP,0.3,85
 2025-07-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.3,27
 2025-07-01,BidSwitch,Open Auction - BFM,Display,Samsung DSP,Samsung DSP,0.3,85
 2026-04-01,BidSwitch,Open Auction - BFM,Display,Between Exchange,Between Exchange,0.29,29
@@ -1139,9 +1141,10 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-01-01,BidSwitch,Open Auction - BFM,Display,AdElement,AdElement,0.25,713
 2026-01-01,Direct,Open Auction - BFM,CTV,Cepia,Cepia,0.22,219
 2025-04-01,Direct,Open Auction - BFM,CTV,BidSwitch,Bidswitch,0.21,55
-2025-10-01,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,IPONWEB BidCore,0.2,169
 2025-07-01,BidSwitch,Open Auction - BFM,CTV,Adform,Adform,0.2,43
+2025-10-01,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,IPONWEB BidCore,0.2,169
 2025-01-01,Direct,DSP Marketplace - BFM,Display,Yahoo DSP,Yahoo DSP,0.2,96
+2025-07-01,Direct,Open Auction - BFM,Display,BidSwitch,Bidswitch,0.19,129
 2026-04-01,BidSwitch,Open Auction - BFM,Display,Aroscop,Aroscop,0.19,64
 2025-07-01,Direct,Open Auction - BFM,Display,BidSwitch,Bidswitch,0.19,129
 2025-07-01,Direct,DSP Marketplace - BFM,CTV,4INFO,4INFO,0.18,9015525
@@ -1151,14 +1154,15 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-01-01,Direct,Open Auction - BFM,CTV,4INFO,4INFO,0.13,17
 2026-04-01,Direct,Open Auction - BFM,CTV,ZetaBidswitch,ZetaBidswitch,0.13,9
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,Adform,Adform,0.13,19
-2026-07-01,BidSwitch,Open Auction - BFM,Display,Zeta DSP,Zeta DSP,0.12,99
 2025-07-01,BidSwitch,Open Auction - BFM,Display,Between Exchange,Between Exchange,0.12,117
+2026-07-01,BidSwitch,Open Auction - BFM,Display,Zeta DSP,Zeta DSP,0.12,99
 2026-07-01,BidSwitch,Open Auction - BFM,CTV,Madopi,Madopi,0.12,14
 2025-04-01,BidSwitch,Open Auction - BFM,CTV,Adform,Adform,0.11,42
 2026-01-01,BidSwitch,Open Auction - BFM,CTV,Adform,Adform,0.11,236
 2025-07-01,Direct,DSP Marketplace - BFM,Display,Beeswax,Beeswax,0.11,120
 2026-07-01,Direct,Open Auction - BFM,CTV,SamsungBidswitch,SamsungBidswitch,0.1,9
 2026-04-01,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,IPONWEB BidCore,0.1,62
+2026-07-01,Direct,Open Auction - BFM,CTV,SamsungBidswitch,SamsungBidswitch,0.1,9
 2026-04-01,Direct,Open Auction - BFM,CTV,Equativ,Equativ,0.09,8
 2025-07-01,BidSwitch,Open Auction - BFM,Display,Amazon DSP,Amazon DSP,0.08,144
 2026-07-01,Direct,Open Auction - BFM,Display,BidSwitch,Bidswitch,0.07,328
@@ -1170,32 +1174,32 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-07-01,BidSwitch,Open Auction - BFM,Display,Aroscop,Aroscop,0.06,27
 2025-01-01,BidSwitch,Open Auction - BFM,Display,Amazon DSP,Amazon DSP,0.05,123
 2026-04-01,BidSwitch,PMP CTV - O&O,CTV,Amazon DSP,Amazon DSP,0.05,1
+2025-01-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.04,3
 2026-01-01,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,IPONWEB BidCore,0.04,25
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,Between Exchange,Between Exchange,0.04,36
-2025-01-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.04,3
 2026-07-01,BidSwitch,Open Auction - BFM,Display,Webeye,Webeye,0.03,71
-2026-07-01,Direct,Open Auction - BFM,Display,Stirista,Stirista,0.03,43
-2025-10-01,Direct,Open Auction - BFM,CTV,Stirista,Stirista,0.03,4
-2025-01-01,BidSwitch,Open Auction - BFM,Display,Adform,Adform,0.03,421
 2026-01-01,Direct,Open Auction - BFM,Display,BidSwitch,Bidswitch,0.03,185
+2026-07-01,Direct,Open Auction - BFM,Display,Stirista,Stirista,0.03,43
+2025-01-01,BidSwitch,Open Auction - BFM,Display,Adform,Adform,0.03,421
+2025-10-01,Direct,Open Auction - BFM,CTV,Stirista,Stirista,0.03,4
 2026-04-01,Direct,DSP Marketplace - BFM,Display,Conversant,Epsilon (Conversant),0.03,4
 2026-04-01,BidSwitch,Open Auction - BFM,CTV,Quantcast,Quantcast,0.03,4
-2025-01-01,Direct,Select - BFM,CTV,Xandr,AppNexus,0.02,2
+2025-04-01,BidSwitch,Open Auction - BFM,Display,Lift,Lift,0.02,11
 2025-07-01,BidSwitch,Open Auction - BFM,Display,Adform,Adform,0.02,77
 2026-01-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.02,3
-2025-10-01,BidSwitch,Open Auction - BFM,Display,Adform,Adform,0.02,5
-2025-04-01,BidSwitch,Open Auction - BFM,Display,Lift,Lift,0.02,11
 2026-01-01,BidSwitch,Open Auction - BFM,CTV,Excelate,Excelate,0.02,9
+2025-10-01,BidSwitch,Open Auction - BFM,Display,Adform,Adform,0.02,5
+2025-01-01,Direct,Select - BFM,CTV,Xandr,AppNexus,0.02,2
 2026-07-01,Direct,Open Auction - BFM,CTV,BidSwitch,Bidswitch,0.02,7
 2025-10-01,BidSwitch,Open Auction - Seedtag,Online Video,AdMixerBidswitch,AdMixerBidswitch,0.02,36
-2026-07-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.01,1
 2025-04-01,BidSwitch,Open Auction - BFM,Display,Zeta DSP,Zeta DSP,0.01,142
-2026-04-01,BidSwitch,Open Auction - BFM,CTV,Between Exchange,Between Exchange,0.01,1
-2025-10-01,BidSwitch,Open Auction - BFM,Display,Streamworx Lda.,Streamworx Lda.,0.01,9
 2025-10-01,Direct,DSP Marketplace - BFM,Display,Conversant,Epsilon (Conversant),0.01,38
-2025-01-01,BidSwitch,Select - BFM,CTV,Infillion,Infillion,0.01,1
 2026-07-01,BidSwitch,Open Auction - BFM,Display,Madopi,Madopi,0.01,4
+2025-01-01,BidSwitch,Select - BFM,CTV,Infillion,Infillion,0.01,1
+2026-07-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.01,1
+2026-04-01,BidSwitch,Open Auction - BFM,CTV,Between Exchange,Between Exchange,0.01,1
 2025-10-01,Direct,DSP Marketplace - BFM,Display,TheTradeDesk,TheTradeDesk,0.01,1
+2025-10-01,BidSwitch,Open Auction - BFM,Display,Streamworx Lda.,Streamworx Lda.,0.01,9
 2026-01-01,Direct,DSP Marketplace - BFM,Display,Conversant,Epsilon (Conversant),0.01,1
 2025-07-01,BidSwitch,Open Auction - Seedtag,Native,StackAdapt,StackAdapt,0.01,2
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,4INFO,4INFO,0.0,23399905

@@ -1,13 +1,13 @@
 quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_prev_year,impressions,outgoing_bids
-2026-04-01,Pubmatic,CTV SeedTag,1086148.97,,332338.39,,0,0
-2026-04-01,Viant,Viant - CTV - 1st Price,850294.16,,363223.14,,0,0
-2025-07-01,Viant,Viant - CTV - 1st Price,837228.04,,,303782.28,0,0
+2026-04-01,Pubmatic,CTV SeedTag,1086148.97,,341463.56,,0,0
+2026-04-01,Viant,Viant - CTV - 1st Price,850294.16,,374234.62,,0,0
+2025-07-01,Viant,Viant - CTV - 1st Price,837228.04,,,313730.14,0,0
 2025-10-01,TheTradeDesk,TTD - CTV (1st Price),772022.37,,,,0,0
 2025-10-01,Viant,Viant - CTV - 1st Price,732169.46,,,,0,0
 2025-01-01,Viant,Viant - CTV - 1st Price,726492.85,,,,0,0
-2026-04-01,StackAdapt,StackAdapt - CTV - Open Auction,653158.22,,147844.79,,0,0
+2026-04-01,StackAdapt,StackAdapt - CTV - Open Auction,653158.22,,153383.56,,0,0
 2025-04-01,Viant,Viant - CTV - 1st Price,648717.79,,,,0,0
-2025-07-01,TheTradeDesk,TTD - CTV (1st Price),628795.89,,,208909.38,0,0
+2025-07-01,TheTradeDesk,TTD - CTV (1st Price),628795.89,,,215064.63,0,0
 2026-01-01,Pubmatic,CTV SeedTag,551738.58,,,,0,0
 2026-01-01,Viant,Viant - CTV - 1st Price,521454.41,,,,0,0
 2025-10-01,Pubmatic,CTV SeedTag,517384.86,,,,0,0
@@ -16,61 +16,61 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-01-01,StackAdapt,StackAdapt - CTV - Open Auction,446024.25,,,,0,0
 2025-01-01,TheTradeDesk,TTD - CTV (1st Price),418309.83,,,,0,0
 2025-10-01,StackAdapt,StackAdapt - CTV - Open Auction,382867.33,,,,0,0
-2026-04-01,TheTradeDesk,TTD - CTV (1st Price),351977.68,,109081.78,,0,0
+2026-04-01,TheTradeDesk,TTD - CTV (1st Price),351977.68,,112739.33,,0,0
 2026-07-01,StackAdapt,StackAdapt - CTV - Open Auction,337331.69,337331.69,,,0,0
 2026-07-01,Pubmatic,CTV SeedTag,282707.69,282707.69,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant - Web - Open Auction - Seedtag,273831.28,,,100475.1,0,0
-2025-07-01,Pubmatic,CTV SeedTag,231282.24,,,2167.63,0,0
+2025-07-01,Epsilon (Conversant),Conversant - Web - Open Auction - Seedtag,273831.28,,,105724.55,0,0
+2025-07-01,Pubmatic,CTV SeedTag,231282.24,,,2460.87,0,0
 2025-10-01,LoopMe,LoopMe - Open Auction - CTV,222608.37,,,,0,0
 2025-01-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price,218721.89,,,,0,0
 2025-04-01,SimpliFi,SimpliFi - CTV - 1st Price,205432.01,,,,0,0
-2026-04-01,Beeswax,Beeswax - CTV - Open Auction EAST,204716.91,,102527.41,,0,0
-2025-07-01,StackAdapt,StackAdapt - CTV - Open Auction,193883.27,,,75721.02,0,0
+2026-04-01,Beeswax,Beeswax - CTV - Open Auction EAST,204716.91,,104176.36,,0,0
+2025-07-01,StackAdapt,StackAdapt - CTV - Open Auction,193883.27,,,77474.05,0,0
 2026-07-01,Viant,Viant - CTV - 1st Price,184502.62,184502.62,,,0,0
 2025-04-01,Zeta DSP,Bidswitch - CTV - 1st Price,181928.01,,,,0,0
 2026-07-01,Pubmatic,Seedtag,169625.59,169625.59,,,0,0
 2026-07-01,Amobee,Amobee - CTV - 1st Price,169042.71,169042.71,,,0,0
 2025-04-01,Basis Technologies,Basis - CTV - oRTB - (US),168684.98,,,,0,0
 2026-01-01,Amobee,Amobee - CTV - 1st Price,166137.93,,,,0,0
-2025-07-01,SimpliFi,SimpliFi - CTV - 1st Price,165260.68,,,59172.64,0,0
+2025-07-01,SimpliFi,SimpliFi - CTV - 1st Price,165260.68,,,61022.16,0,0
 2025-10-01,Amobee,Amobee - CTV - 1st Price,160900.29,,,,0,0
 2025-01-01,Zeta DSP,Bidswitch - CTV - 1st Price,156185.31,,,,0,0
 2026-01-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price,149503.29,,,,0,0
 2025-10-01,Basis Technologies,Basis - CTV - oRTB - (US),149298.25,,,,0,0
-2025-07-01,Basis Technologies,Basis - CTV - oRTB - (US),148690.22,,,42437.17,0,0
+2025-07-01,Basis Technologies,Basis - CTV - oRTB - (US),148690.22,,,43782.69,0,0
 2025-04-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price,145212.04,,,,0,0
 2026-01-01,Beeswax,Beeswax - CTV - Open Auction EAST,140460.06,,,,0,0
-2026-04-01,Amobee,Amobee - CTV - 1st Price,135177.92,,47947.62,,0,0
+2026-04-01,Amobee,Amobee - CTV - 1st Price,135177.92,,49272.28,,0,0
 2025-01-01,Beeswax,Beeswax - CTV - Open Auction EAST,134734.43,,,,0,0
 2026-01-01,Zeta DSP,Bidswitch - CTV - 1st Price,127194.32,,,,0,0
 2026-07-01,TheTradeDesk,TTD - CTV (1st Price),124911.41,124911.41,,,0,0
 2025-10-01,Lemma DSP,Lemma DSP CTV Ad,120984.36,,,,0,0
-2025-07-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price,120450.48,,,55090.79,0,0
+2025-07-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price,120450.48,,,56481.03,0,0
 2025-04-01,StackAdapt,StackAdapt - CTV - Open Auction,119340.46,,,,0,0
-2025-07-01,LoopMe,LoopMe - Open Auction - CTV,119310.18,,,38512.88,0,0
+2025-07-01,LoopMe,LoopMe - Open Auction - CTV,119310.18,,,40047.85,0,0
 2025-10-01,Beeswax,Beeswax - CTV - Open Auction EAST,115947.14,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant - Web - Open Auction - Seedtag,114755.27,,,,0,0
 2025-10-01,DV360,Bidswitch - CTV - 1st Price,112199.73,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant - CTV - Open Auction,108863.59,,,,0,0
 2025-10-01,SimpliFi,SimpliFi - CTV - 1st Price,102354.66,,,,0,0
-2025-07-01,Zeta DSP,Bidswitch - CTV - 1st Price,97947.92,,,53722.98,0,0
+2025-07-01,Zeta DSP,Bidswitch - CTV - 1st Price,97947.92,,,55073.67,0,0
 2026-07-01,Beeswax,Beeswax - CTV - Open Auction EAST,95835.74,95835.74,,,0,0
 2025-10-01,Epsilon (Conversant),Conversant - CTV - Open Auction,94128.33,,,,0,0
 2025-10-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price,92085.11,,,,0,0
 2025-01-01,Basis Technologies,Basis - CTV - oRTB - (US),90595.5,,,,0,0
 2026-01-01,Basis Technologies,Basis - CTV - oRTB - (US),90166.34,,,,0,0
-2025-07-01,Lemma DSP,Lemma DSP CTV Ad,86676.82,,,32544.72,0,0
+2025-07-01,Lemma DSP,Lemma DSP CTV Ad,86676.82,,,32848.25,0,0
 2025-01-01,Epsilon (Conversant),Conversant Pluto CTV (204778),86013.35,,,,0,0
 2025-10-01,Epsilon (Conversant),Conversant - Web - Open Auction - Seedtag,83357.19,,,,0,0
 2025-04-01,LoopMe,LoopMe - Open Auction - CTV,81278.79,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant - CTV - Open Auction,80806.41,,,,0,0
-2025-07-01,Beeswax,Beeswax - CTV - Open Auction EAST,80548.81,,,10548.01,0,0
-2025-07-01,DV360,Bidswitch - CTV - 1st Price,79284.29,,,33354.29,0,0
-2025-07-01,Adtelligent,Adtelligent - CTV - A+E Networks $15,78019.52,,,36692.1,0,0
+2025-07-01,Beeswax,Beeswax - CTV - Open Auction EAST,80548.81,,,10818.97,0,0
+2025-07-01,DV360,Bidswitch - CTV - 1st Price,79284.29,,,34459.33,0,0
+2025-07-01,Adtelligent,Adtelligent - CTV - A+E Networks $15,78019.52,,,38133.64,0,0
 2025-04-01,Adtelligent,Adtelligent - CTV - A+E Networks $15,76484.78,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant - CTV - Open Auction,74666.58,,,19988.91,0,0
-2026-04-01,Beeswax,Beeswax UR Improvement Tier 1 (High UR),72443.27,,47164.95,,0,0
-2025-07-01,TheTradeDesk,TTD - APP [Display],72434.24,,,34359.03,0,0
+2025-07-01,Epsilon (Conversant),Conversant - CTV - Open Auction,74666.58,,,21081.42,0,0
+2026-04-01,Beeswax,Beeswax UR Improvement Tier 1 (High UR),72443.27,,48050.12,,0,0
+2025-07-01,TheTradeDesk,TTD - APP [Display],72434.24,,,35142.16,0,0
 2025-10-01,Sharethrough,Sharethrough CTV Video,72355.07,,,,0,0
 2025-04-01,Viant,Viant - MW,70604.72,,,,0,0
 2025-04-01,Xandr,Xandr CTV,70478.15,,,,0,0
@@ -88,100 +88,100 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Basis Technologies,Centro Display Web,62052.85,,,,0,0
 2025-01-01,Basis Technologies,Centro Video Web (1st Price),61199.87,,,,0,0
 2025-04-01,GroundTruth,GroundTruth Video CTV,60923.33,,,,0,0
-2026-04-01,Basis Technologies,Basis - CTV - oRTB - (US),60216.71,,21019.87,,0,0
-2025-07-01,Amobee,Amobee - CTV - 1st Price,59019.82,,,26391.77,0,0
+2026-04-01,Basis Technologies,Basis - CTV - oRTB - (US),60216.71,,21885.35,,0,0
+2025-07-01,Amobee,Amobee - CTV - 1st Price,59019.82,,,27009.33,0,0
 2025-01-01,StackAdapt,StackAdapt - CTV - Open Auction,58897.79,,,,0,0
 2025-01-01,Basis Technologies,Centro Display Web,58633.14,,,,0,0
-2025-07-01,Viant,Viant - MW,58354.72,,,18454.44,0,0
-2026-04-01,Zeta DSP,Bidswitch - CTV - 1st Price,58107.54,,39609.97,,0,0
+2025-07-01,Viant,Viant - MW,58354.72,,,18756.81,0,0
+2026-04-01,Zeta DSP,Bidswitch - CTV - 1st Price,58107.54,,40259.1,,0,0
 2025-01-01,Lemma DSP,Lemma DSP CTV Ad,57444.87,,,,0,0
 2025-04-01,DV360,Bidswitch - CTV - 1st Price,56220.98,,,,0,0
 2025-10-01,Amazon DSP,Bidswitch - Seedtag,55513.72,,,,0,0
-2025-07-01,4INFO,4INFO - CTV - 1st Price,55162.75,,,13774.38,0,0
-2026-04-01,Beeswax,Beeswax UR Improvement Tier 2 (Mid UR),55061.37,,24152.25,,0,0
+2025-07-01,4INFO,4INFO - CTV - 1st Price,55162.75,,,15178.18,0,0
+2026-04-01,Beeswax,Beeswax UR Improvement Tier 2 (Mid UR),55061.37,,24488.41,,0,0
 2025-10-01,Beeswax,Beeswax UR Improvement Tier 1 (High UR),55056.2,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant Pluto CTV (204778),53770.67,,,,0,0
 2025-10-01,Beeswax,Beeswax UR Improvement Tier 2 (Mid UR),52688.32,,,,0,0
 2025-01-01,Adtelligent,Adtelligent - CTV - A+E Networks $15,51856.03,,,,0,0
 2026-01-01,Beeswax,Beeswax UR Improvement Tier 1 (High UR),51036.99,,,,0,0
-2025-07-01,Sharethrough,Sharethrough CTV Video,50359.87,,,10703.89,0,0
-2025-07-01,Amazon DSP,Bidswitch - APP 1st Price,50178.21,,,4754.56,0,0
+2025-07-01,Sharethrough,Sharethrough CTV Video,50359.87,,,10973.26,0,0
+2025-07-01,Amazon DSP,Bidswitch - APP 1st Price,50178.21,,,4754.59,0,0
 2025-04-01,Beeswax,Beeswax - CTV - Open Auction EAST,49925.96,,,,0,0
 2026-07-01,Beeswax,Beeswax UR Improvement Tier 2 (Mid UR),49310.07,49310.07,,,0,0
-2025-07-01,Beeswax,Beeswax UR Improvement Tier 1 (High UR),48410.52,,,4424.45,0,0
+2025-07-01,Beeswax,Beeswax UR Improvement Tier 1 (High UR),48410.52,,,4574.17,0,0
 2026-01-01,Yahoo DSP,Yahoo - In-App,47935.54,,,,0,0
-2025-07-01,DV360,Bidswitch - Seedtag,47674.08,,,19518.47,0,0
+2025-07-01,DV360,Bidswitch - Seedtag,47674.08,,,19988.97,0,0
 2026-07-01,Beeswax,Beeswax - CTV - Open Auction WEST,47460.01,47460.01,,,0,0
-2026-04-01,Adtelligent,Adtelligent - CTV - A+E Networks $15,46356.77,,23611.27,,0,0
+2026-04-01,Adtelligent,Adtelligent - CTV - A+E Networks $15,46356.77,,24225.07,,0,0
 2025-10-01,Viant,Viant - MW,45994.34,,,,0,0
 2025-04-01,Adtheorent,Ad Theorent - CTV - 1st Price,45503.33,,,,0,0
 2025-01-01,Infillion,Bidswitch - CTV - 1st Price,44930.11,,,,0,0
 2026-01-01,DV360,Bidswitch - Seedtag,44622.93,,,,0,0
 2026-01-01,Xandr,Xandr CTV,42381.13,,,,0,0
-2026-04-01,Beeswax,Beeswax - CTV - Open Auction WEST,42354.53,,8168.55,,0,0
-2025-07-01,Basis Technologies,Centro Video Web (1st Price),42055.61,,,14656.05,0,0
+2026-04-01,Beeswax,Beeswax - CTV - Open Auction WEST,42354.53,,8322.53,,0,0
+2025-07-01,Basis Technologies,Centro Video Web (1st Price),42055.61,,,15074.63,0,0
 2025-10-01,Viant,Viant - MW - 1st Price,41869.34,,,,0,0
 2025-01-01,Viant,Viant - Desktop,41752.49,,,,0,0
 2026-07-01,Basis Technologies,Basis - CTV - oRTB - (US),41466.25,41466.25,,,0,0
-2025-07-01,Xandr,Xandr CTV,41404.62,,,18530.42,0,0
+2025-07-01,Xandr,Xandr CTV,41404.62,,,18922.96,0,0
 2025-01-01,Xandr,Xandr CTV,41205.0,,,,0,0
 2026-01-01,TheTradeDesk,TTD - APP,41135.07,,,,0,0
-2026-04-01,Yahoo DSP,Yahoo - In-App,40874.92,,8157.95,,0,0
-2025-07-01,Viant,Viant - Desktop,40731.41,,,20457.52,0,0
-2025-07-01,Basis Technologies,Centro Display Web,40697.25,,,15949.92,0,0
+2026-04-01,Yahoo DSP,Yahoo - In-App,40874.92,,8328.12,,0,0
+2025-07-01,Viant,Viant - Desktop,40731.41,,,20763.49,0,0
+2025-07-01,Basis Technologies,Centro Display Web,40697.25,,,16348.0,0,0
 2026-01-01,Beeswax,Beeswax UR Improvement Tier 2 (Mid UR),40055.14,,,,0,0
 2025-04-01,Amobee,Amobee - CTV - 1st Price,39451.27,,,,0,0
 2025-10-01,Basis Technologies,Centro Video Web (1st Price),39067.85,,,,0,0
 2026-01-01,Sharethrough,Sharethrough CTV Video,38880.56,,,,0,0
 2025-10-01,Yahoo DSP,Yahoo - CTV - Open Auction,38801.14,,,,0,0
-2026-04-01,Sharethrough,Sharethrough CTV Video,38557.57,,26149.35,,0,0
+2026-04-01,Sharethrough,Sharethrough CTV Video,38557.57,,26498.36,,0,0
 2026-01-01,Lemma DSP,Lemma DSP CTV Ad,38293.23,,,,0,0
-2025-07-01,TheTradeDesk,TTD - APP,38003.95,,,15386.72,0,0
+2025-07-01,TheTradeDesk,TTD - APP,38003.95,,,15680.67,0,0
 2025-04-01,Beeswax,Beeswax UR Improvement Tier 2 (Mid UR),37719.25,,,,0,0
 2026-07-01,Pubmatic,SEEDTAG (DON'T USE),37233.06,37233.06,,,0,0
-2026-04-01,DV360,Bidswitch - CTV - 1st Price,36394.91,,8481.46,,0,0
+2026-04-01,DV360,Bidswitch - CTV - 1st Price,36394.91,,8814.9,,0,0
 2025-10-01,Adtelligent,Adtelligent - CTV - A+E Networks $15,36286.48,,,,0,0
 2026-07-01,StackAdapt,Seedtag,36176.72,36176.72,,,0,0
 2025-04-01,GroundTruth,GroundTruth Video CTV - No LatLong,35388.9,,,,0,0
 2025-10-01,TheTradeDesk,TTD - APP,35346.22,,,,0,0
 2025-04-01,TheTradeDesk,TTD - APP,35133.22,,,,0,0
-2026-04-01,TheTradeDesk,TTD - APP [Display],34942.94,,13176.49,,0,0
+2026-04-01,TheTradeDesk,TTD - APP [Display],34942.94,,13493.8,,0,0
 2025-10-01,TheTradeDesk,TTD - APP [Display],34628.31,,,,0,0
 2025-01-01,Adtheorent,Ad Theorent - Desktop/MW Display,34116.47,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant - Web - Open Auction - Video,32728.78,,,,0,0
 2025-10-01,GroundTruth,GroundTruth Video CTV,32145.59,,,,0,0
 2026-01-01,Adtelligent,Adtelligent - CTV - A+E Networks $15,31489.85,,,,0,0
 2025-01-01,GroundTruth,GroundTruth Video CTV,31356.62,,,,0,0
-2025-07-01,Beeswax,Beeswax UR Improvement Tier 2 (Mid UR),30946.39,,,6201.99,0,0
+2025-07-01,Beeswax,Beeswax UR Improvement Tier 2 (Mid UR),30946.39,,,6359.6,0,0
 2025-04-01,Amazon DSP,Bidswitch - Seedtag,30453.0,,,,0,0
 2025-01-01,SimpliFi,SimpliFi - CTV - 1st Price,30399.33,,,,0,0
-2025-07-01,GroundTruth,GroundTruth Video CTV,30202.41,,,9414.43,0,0
+2025-07-01,GroundTruth,GroundTruth Video CTV,30202.41,,,9641.44,0,0
 2025-04-01,Amazon DSP,Bidswitch - APP 1st Price,28936.14,,,,0,0
-2025-07-01,Walmart,TTD - CTV (1st Price),28641.7,,,23863.81,0,0
+2025-07-01,Walmart,TTD - CTV (1st Price),28641.7,,,24249.75,0,0
 2025-01-01,TheTradeDesk,TTD - APP [Display],28431.74,,,,0,0
 2025-10-01,Sharethrough,Sharethrough Web (Open Auction),27310.8,,,,0,0
 2025-01-01,DV360,Bidswitch - Desktop - 1st Price (HB),26865.95,,,,0,0
 2025-01-01,Yahoo DSP,Yahoo - CTV - Open Auction,26551.63,,,,0,0
-2026-04-01,Xandr,Xandr CTV,26382.13,,12885.71,,0,0
-2025-07-01,TheTradeDesk,TTD - Desktop - 1st Price (HB),26208.75,,,12772.38,0,0
+2026-04-01,Xandr,Xandr CTV,26382.13,,13294.61,,0,0
+2025-07-01,TheTradeDesk,TTD - Desktop - 1st Price (HB),26208.75,,,13016.12,0,0
 2025-04-01,Sharethrough,Sharethrough Web (Open Auction),25973.27,,,,0,0
 2025-01-01,Beeswax,Beeswax - CTV - Open Auction - Paramount,25778.73,,,,0,0
-2025-07-01,Viant,Viant - MW - 1st Price,25393.85,,,236.22,0,0
+2025-07-01,Viant,Viant - MW - 1st Price,25393.85,,,471.76,0,0
 2026-01-01,TheTradeDesk,TTD - APP [Display],24315.25,,,,0,0
 2026-01-01,Basis Technologies,Centro Video Web (1st Price),24093.44,,,,0,0
 2025-01-01,SundaySky,SundaySky - Desktop - 1st Price,23854.06,,,,0,0
 2025-01-01,Amobee,Amobee - CTV - 1st Price,23844.94,,,,0,0
 2025-04-01,DV360,Bidswitch - Seedtag,23811.84,,,,0,0
-2025-07-01,Amazon DSP,Bidswitch - Seedtag,23716.91,,,7766.87,0,0
+2025-07-01,Amazon DSP,Bidswitch - Seedtag,23716.91,,,7955.03,0,0
 2026-01-01,Amazon DSP,Bidswitch - Seedtag,23296.89,,,,0,0
 2025-01-01,Viant,Viant - APP,23121.94,,,,0,0
 2025-01-01,GroundTruth,GroundTruth Video CTV - No LatLong,23054.67,,,,0,0
 2026-01-01,DV360,Bidswitch - CTV - 1st Price,22947.96,,,,0,0
-2025-07-01,Adtheorent,Ad Theorent - CTV - 1st Price,22709.76,,,13306.84,0,0
+2025-07-01,Adtheorent,Ad Theorent - CTV - 1st Price,22709.76,,,13650.52,0,0
 2026-07-01,DV360,Bidswitch - CTV - 1st Price,22442.84,22442.84,,,0,0
 2026-01-01,StackAdapt,StackAdapt - CTV - Open Auction - Efficiency Monitoring,22276.0,,,,0,0
-2026-04-01,Viant,Viant - CTV (Charter),22273.03,,8922.83,,0,0
-2025-07-01,TheTradeDesk,TTD - CTV (LG Ads Only),22164.19,,,15255.36,0,0
+2026-04-01,Viant,Viant - CTV (Charter),22273.03,,9130.43,,0,0
+2025-07-01,TheTradeDesk,TTD - CTV (LG Ads Only),22164.19,,,15442.71,0,0
 2025-04-01,SmartyAds,SmartyAds - CTV (Samsung),22068.46,,,,0,0
 2025-04-01,Walmart,TTD - CTV (1st Price),21872.67,,,,0,0
 2025-10-01,DV360,Bidswitch - Seedtag,21758.45,,,,0,0
@@ -189,65 +189,65 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,SimpliFi,SimpliFi - APP [Display],21071.47,,,,0,0
 2025-04-01,Basis Technologies,Centro Display InApp,20745.94,,,,0,0
 2025-01-01,Viant,Viant - MW [Display],20510.09,,,,0,0
-2026-04-01,StackAdapt,StackAdapt - CTV - Open Auction - Efficiency Monitoring,20307.66,,8461.65,,0,0
+2026-04-01,StackAdapt,StackAdapt - CTV - Open Auction - Efficiency Monitoring,20307.66,,8608.44,,0,0
 2026-01-01,Viant,Viant - MW - 1st Price,20044.57,,,,0,0
 2025-01-01,MadHive,MadHive - CTV - 1st Price,20017.68,,,,0,0
 2025-04-01,TheTradeDesk,TTD - Desktop - 1st Price (HB),19583.34,,,,0,0
 2025-04-01,Yahoo DSP,Yahoo - CTV - Open Auction,18856.36,,,,0,0
 2026-04-01,Pubmatic,SEEDTAG (DON'T USE),18766.15,,,,0,0
 2026-01-01,Viant,Viant - MW,18710.77,,,,0,0
-2026-04-01,Adtelligent,Adtelligent - CTV (Price Targeted),18679.1,,5977.34,,0,0
+2026-04-01,Adtelligent,Adtelligent - CTV (Price Targeted),18679.1,,6056.22,,0,0
 2025-04-01,MadHive,MadHive - CTV - 1st Price,18141.71,,,,0,0
 2026-07-01,Yahoo DSP,Yahoo - In-App,18012.98,18012.98,,,0,0
 2025-10-01,SmartyAds,SmartyAds - CTV (Samsung),17932.55,,,,0,0
 2025-10-01,TheTradeDesk,TTD - Desktop - 1st Price (HB),17832.01,,,,0,0
-2025-07-01,Yahoo DSP,Yahoo - CTV - Open Auction,17808.06,,,5904.77,0,0
-2025-07-01,Sharethrough,Sharethrough Web (Open Auction),17377.03,,,4951.52,0,0
-2026-04-01,Lemma DSP,Lemma DSP CTV Ad,17319.05,,7586.3,,0,0
+2025-07-01,Yahoo DSP,Yahoo - CTV - Open Auction,17808.06,,,6039.86,0,0
+2025-07-01,Sharethrough,Sharethrough Web (Open Auction),17377.03,,,5113.59,0,0
+2026-04-01,Lemma DSP,Lemma DSP CTV Ad,17319.05,,7679.97,,0,0
 2025-01-01,TheTradeDesk,TTD - MW [Display],17248.85,,,,0,0
 2025-10-01,StackAdapt,StackAdapt - CTV - Open Auction - Efficiency Monitoring,17121.87,,,,0,0
 2026-01-01,StackAdapt,StackAdapt - CTV - Open Auction (Canada),16457.28,,,,0,0
-2025-07-01,SmartyAds,SmartyAds - CTV (Samsung),16054.19,,,8603.09,0,0
+2025-07-01,SmartyAds,SmartyAds - CTV (Samsung),16054.19,,,8901.97,0,0
 2025-10-01,StackAdapt,StackAdapt - CTV - Open Auction (Canada),16016.79,,,,0,0
-2025-07-01,SimpliFi,SimpliFi - Web (1st Price),15739.7,,,5195.02,0,0
+2025-07-01,SimpliFi,SimpliFi - Web (1st Price),15739.7,,,5329.78,0,0
 2025-10-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction,15667.88,,,,0,0
 2025-10-01,Viant,Viant - Desktop,15429.85,,,,0,0
 2025-04-01,Adtheorent,Ad Theorent - Desktop/MW Display,15222.54,,,,0,0
-2025-07-01,Quantcast,Bidswitch - Seedtag,15120.17,,,4864.24,0,0
+2025-07-01,Quantcast,Bidswitch - Seedtag,15120.17,,,5063.42,0,0
 2025-04-01,Seedtag,Seedtag - Open Auction-  Ads.txt Updated CTV Supply  ,14942.23,,,,0,0
 2025-04-01,SimpliFi,SimpliFi - Web (1st Price),14899.71,,,,0,0
 2025-04-01,MadHive,MadHive - CTV - 1st Price (Paramount OA),14791.57,,,,0,0
-2025-07-01,StackAdapt,StackAdapt - CTV - Open Auction - Efficiency Monitoring,14505.32,,,5881.25,0,0
-2025-07-01,SundaySky,SundaySky - MW - 1st Price,14359.28,,,5791.35,0,0
+2025-07-01,StackAdapt,StackAdapt - CTV - Open Auction - Efficiency Monitoring,14505.32,,,6063.23,0,0
+2025-07-01,SundaySky,SundaySky - MW - 1st Price,14359.28,,,5953.11,0,0
 2025-04-01,Sharethrough,Sharethrough InApp Video (Open Auction),14342.79,,,,0,0
 2025-01-01,Seedtag,Seedtag - Open Auction - CTV,14213.18,,,,0,0
-2025-07-01,Basis Technologies,Centro Display InApp,14176.13,,,5640.87,0,0
+2025-07-01,Basis Technologies,Centro Display InApp,14176.13,,,5774.31,0,0
 2025-10-01,Amazon DSP,Bidswitch - MW - 1st Price (HB),14124.97,,,,0,0
 2025-04-01,Viant,Viant - APP [Display],13910.18,,,,0,0
 2025-10-01,Adtheorent,Ad Theorent - CTV - 1st Price,13887.72,,,,0,0
-2025-07-01,Amazon DSP,Bidswitch - MW - 1st Price (HB),13836.78,,,538.31,0,0
+2025-07-01,Amazon DSP,Bidswitch - MW - 1st Price (HB),13836.78,,,539.03,0,0
 2025-01-01,Adtheorent,Ad Theorent - Desktop/MW - 1st Price,13815.1,,,,0,0
 2025-01-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction,13480.1,,,,0,0
-2026-04-01,Adtheorent,Ad Theorent - CTV - 1st Price,13336.36,,3139.55,,0,0
+2026-04-01,Adtheorent,Ad Theorent - CTV - 1st Price,13336.36,,3339.73,,0,0
 2025-04-01,SundaySky,SundaySky - MW - 1st Price,13292.25,,,,0,0
 2025-04-01,Adtheorent,Ad Theorent - Desktop/MW - 1st Price,13279.99,,,,0,0
-2025-07-01,SundaySky,SundaySky - Desktop - 1st Price,13275.89,,,5767.76,0,0
+2025-07-01,SundaySky,SundaySky - Desktop - 1st Price,13275.89,,,5903.72,0,0
 2025-01-01,Basis Technologies,Centro Display InApp,13250.99,,,,0,0
 2025-04-01,Marketing Architects -RTB,Marketing Architects - CTV - EW Scripps LAT,12992.87,,,,0,0
-2025-07-01,LoopMe,LoopMe DSP Lottery Campaign copy (deal mimic),12645.8,,,5037.44,0,0
-2025-07-01,SimpliFi,SimpliFi - APP [Display],12643.9,,,6418.07,0,0
+2025-07-01,LoopMe,LoopMe DSP Lottery Campaign copy (deal mimic),12645.8,,,5314.99,0,0
+2025-07-01,SimpliFi,SimpliFi - APP [Display],12643.9,,,6527.8,0,0
 2026-07-01,StackAdapt,StackAdapt - CTV - Open Auction - Efficiency Monitoring,12610.64,12610.64,,,0,0
-2026-04-01,TheTradeDesk,TTD - APP,12331.25,,4669.12,,0,0
+2026-04-01,TheTradeDesk,TTD - APP,12331.25,,4776.24,,0,0
 2026-07-01,Adtelligent,Adtelligent - CTV - A+E Networks $15,12239.55,12239.55,,,0,0
 2025-01-01,Adtheorent,Ad Theorent - CTV - 1st Price,12222.47,,,,0,0
 2025-01-01,Demandbase,DemandBase - CTV,11980.54,,,,0,0
 2025-04-01,Sharethrough,Sharethrough CTV Video,11942.95,,,,0,0
-2026-04-01,Viant,Viant - MW - 1st Price,11926.2,,4221.95,,0,0
+2026-04-01,Viant,Viant - MW - 1st Price,11926.2,,4337.84,,0,0
 2025-10-01,Viant,Viant - Desktop - 1st Price,11916.28,,,,0,0
 2026-07-01,Yahoo DSP,Seedtag,11905.55,11905.55,,,0,0
 2025-01-01,Viant,Viant - Desktop [Display],11870.75,,,,0,0
 2025-10-01,Quantcast,Bidswitch - Seedtag,11848.98,,,,0,0
-2025-07-01,TheTradeDesk,TTD - MW - 1st Price (HB),11832.96,,,4658.24,0,0
+2025-07-01,TheTradeDesk,TTD - MW - 1st Price (HB),11832.96,,,4809.28,0,0
 2026-01-01,Lemma DSP,Lemma DSP Inapp Video,11819.95,,,,0,0
 2025-01-01,Sharethrough,Sharethrough InApp Video (Open Auction),11810.92,,,,0,0
 2025-01-01,MadHive,MadHive - CTV - 1st Price (Paramount OA),11743.89,,,,0,0
@@ -261,31 +261,31 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Amazon DSP,Bidswitch - MW - 1st Price (HB),11023.23,,,,0,0
 2026-01-01,Sharethrough,Sharethrough Web (Open Auction),10940.0,,,,0,0
 2026-01-01,Adtheorent,Ad Theorent - CTV - 1st Price,10877.45,,,,0,0
-2025-07-01,Sharethrough,Sharethrough InApp Video (Open Auction),10865.36,,,2996.49,0,0
+2025-07-01,Sharethrough,Sharethrough InApp Video (Open Auction),10865.36,,,3137.03,0,0
 2026-07-01,LoopMe,LoopMe - Open Auction - CTV,10841.14,10841.14,,,0,0
 2025-04-01,Marketing Architects -RTB,Marketing Architects - OTT,10773.31,,,,0,0
-2025-07-01,Sharethrough,Sharethrough CTV Video - Shamrock Farms Bundle Optimized,10674.47,,,5678.81,0,0
-2026-04-01,Viant,Viant - MW,10564.17,,3738.99,,0,0
+2025-07-01,Sharethrough,Sharethrough CTV Video - Shamrock Farms Bundle Optimized,10674.47,,,5729.56,0,0
+2026-04-01,Viant,Viant - MW,10564.17,,3843.36,,0,0
 2025-04-01,Walmart,TTD - APP [Display],10541.76,,,,0,0
 2025-04-01,SundaySky,SundaySky - Desktop - 1st Price,10532.98,,,,0,0
 2025-01-01,SimpliFi,SimpliFi - Web (1st Price),10421.26,,,,0,0
 2025-04-01,SimpliFi,SimpliFi - APP - 1st Price,10125.94,,,,0,0
 2025-01-01,SmartyAds,SmartyAds - CTV (Samsung),9901.62,,,,0,0
-2025-07-01,SimpliFi,SimpliFi - APP - 1st Price,9852.24,,,3528.49,0,0
+2025-07-01,SimpliFi,SimpliFi - APP - 1st Price,9852.24,,,3620.32,0,0
 2025-10-01,SimpliFi,SimpliFi - Web (1st Price),9815.63,,,,0,0
 2025-04-01,TheTradeDesk,TTD - CTV (LG Ads Only),9694.7,,,,0,0
 2025-10-01,Adtheorent,Ad Theorent - Desktop/MW - 1st Price,9605.09,,,,0,0
-2025-07-01,Adtheorent,Ad Theorent - Desktop/MW - 1st Price,9572.0,,,3782.94,0,0
+2025-07-01,Adtheorent,Ad Theorent - Desktop/MW - 1st Price,9572.0,,,3850.94,0,0
 2026-01-01,Viant,Viant - CTV (Charter),9383.87,,,,0,0
 2026-07-01,Adtheorent,Ad Theorent - CTV - 1st Price,9216.25,9216.25,,,0,0
 2025-07-01,TheTradeDesk,TTD - CTV - oRTB (Canada),9196.52,,,,0,0
 2025-04-01,Viant,Viant - MW [Display],9166.4,,,,0,0
-2025-07-01,TheTradeDesk,TTD - MW [Display],9120.45,,,4541.27,0,0
-2025-07-01,MadHive,MadHive - CTV - 1st Price,8983.18,,,6170.12,0,0
+2025-07-01,TheTradeDesk,TTD - MW [Display],9120.45,,,4665.67,0,0
+2025-07-01,MadHive,MadHive - CTV - 1st Price,8983.18,,,6263.87,0,0
 2025-10-01,SmartyAds,SmartyAds - CTV (Canada),8964.78,,,,0,0
 2025-01-01,Sharethrough,Sharethrough Web (Open Auction),8783.81,,,,0,0
-2025-07-01,Walmart,TTD - APP [Display],8519.93,,,4582.62,0,0
-2025-07-01,Viant,Viant - Desktop - 1st Price,8518.56,,,313.05,0,0
+2025-07-01,Walmart,TTD - APP [Display],8519.93,,,4712.32,0,0
+2025-07-01,Viant,Viant - Desktop - 1st Price,8518.56,,,469.44,0,0
 2025-10-01,Infillion,Bidswitch - CTV - 1st Price,8290.06,,,,0,0
 2026-07-01,Amobee,Seedtag,8187.09,8187.09,,,0,0
 2026-07-01,TheTradeDesk,TTD - APP [Display],8112.74,8112.74,,,0,0
@@ -294,23 +294,23 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-01-01,Viant,Viant - Desktop,7942.79,,,,0,0
 2025-01-01,TheTradeDesk,TTD - Desktop [Display],7763.52,,,,0,0
 2025-04-01,Sharethrough,Sharethrough CTV Video - Shamrock Farms Bundle Optimized,7720.87,,,,0,0
-2025-07-01,Walmart,TTD - APP,7612.08,,,731.86,0,0
+2025-07-01,Walmart,TTD - APP,7612.08,,,762.73,0,0
 2026-01-01,LoopMe,LoopMe DSP Lottery Campaign copy (deal mimic),7500.86,,,,0,0
-2026-04-01,Adtheorent,Ad Theorent - Desktop/MW - 1st Price,7491.41,,4497.75,,0,0
+2026-04-01,Adtheorent,Ad Theorent - Desktop/MW - 1st Price,7491.41,,4516.16,,0,0
 2025-04-01,Beeswax,Beeswax UR Improvement Tier 1 (High UR),7473.88,,,,0,0
 2025-01-01,Viant,Viant - APP [Display],7424.42,,,,0,0
-2026-04-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price,7389.44,,5641.17,,0,0
+2026-04-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price,7389.44,,5681.05,,0,0
 2026-07-01,Sharethrough,Sharethrough CTV Video,7361.37,7361.37,,,0,0
 2025-04-01,Seedtag,Seedtag - Open Auction - CTV,7360.35,,,,0,0
 2025-10-01,SundaySky,SundaySky - Desktop - 1st Price,7357.72,,,,0,0
-2026-04-01,Yahoo DSP,Yahoo - CTV - Open Auction- Efficiency Monitoring,7352.24,,1208.07,,0,0
+2026-04-01,Yahoo DSP,Yahoo - CTV - Open Auction- Efficiency Monitoring,7352.24,,1273.61,,0,0
 2026-01-01,TheTradeDesk,TTD - CTV - oRTB (Canada),7334.66,,,,0,0
 2025-10-01,TheTradeDesk,TTD - MW - 1st Price (HB),7282.69,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant - Web - Open Auction - Display,7182.51,,,,0,0
 2025-01-01,Storygize,Storygize - MW (1st Price),7163.56,,,,0,0
 2025-10-01,SimpliFi,SimpliFi - APP - 1st Price,7124.79,,,,0,0
 2025-01-01,TheTradeDesk,TTD - CTV (Charter),7123.59,,,,0,0
-2025-07-01,Adtheorent,Ad Theorent - Desktop/MW Display,7041.35,,,3713.08,0,0
+2025-07-01,Adtheorent,Ad Theorent - Desktop/MW Display,7041.35,,,3775.09,0,0
 2026-07-01,Viant,Seedtag,6990.85,6990.85,,,0,0
 2025-10-01,Epsilon (Conversant),Conversant - InApp - Open Auction,6986.92,,,,0,0
 2025-10-01,Viant,Viant - CTV (Charter),6983.35,,,,0,0
@@ -318,23 +318,23 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-01-01,TheTradeDesk,TTD - CTV (LG Ads Only),6893.65,,,,0,0
 2025-10-01,SundaySky,SundaySky - MW - 1st Price,6840.34,,,,0,0
 2025-04-01,SmartyAds,SmartyAds - CTV (Paramount),6765.35,,,,0,0
-2026-04-01,StackAdapt,StackAdapt - CTV - Open Auction (Canada),6714.88,,2062.03,,0,0
+2026-04-01,StackAdapt,StackAdapt - CTV - Open Auction (Canada),6714.88,,2101.67,,0,0
 2025-01-01,StackAdapt,StackAdapt - Desktop - Open Auction,6640.35,,,,0,0
 2026-01-01,Epsilon (Conversant),Conversant - InApp - Open Auction,6622.94,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Pluto CTV (204778),6594.07,,,3786.73,0,0
-2026-04-01,LoopMe,LoopMe - Open Auction - CTV,6591.98,,3957.08,,0,0
+2025-07-01,Epsilon (Conversant),Conversant Pluto CTV (204778),6594.07,,,3886.78,0,0
+2026-04-01,LoopMe,LoopMe - Open Auction - CTV,6591.98,,4100.97,,0,0
 2026-01-01,Walmart,TTD - CTV (1st Price),6587.63,,,,0,0
-2025-07-01,MadHive,MadHive - CTV - 1st Price (Paramount OA),6582.45,,,4536.2,0,0
+2025-07-01,MadHive,MadHive - CTV - 1st Price (Paramount OA),6582.45,,,4630.64,0,0
 2026-01-01,Epsilon (Conversant),Conversant - CTV - Open Auction,6483.02,,,,0,0
 2025-01-01,SundaySky,SundaySky - MW - 1st Price,6446.53,,,,0,0
 2026-01-01,TheTradeDesk,TTD - Desktop - 1st Price (HB),6445.74,,,,0,0
-2026-04-01,,TrueX FireTV AVOD,6424.98,,1663.5,,0,0
+2026-04-01,,TrueX FireTV AVOD,6424.98,,1720.32,,0,0
 2025-01-01,TheTradeDesk,TTD - MW - 1st Price (HB),6335.52,,,,0,0
 2025-01-01,SimpliFi,SimpliFi - MW [Display],6328.83,,,,0,0
 2025-01-01,Walmart,TTD - CTV (1st Price),6285.88,,,,0,0
-2026-04-01,Lemma DSP,Lemma DSP Inapp Video,6269.04,,2323.33,,0,0
+2026-04-01,Lemma DSP,Lemma DSP Inapp Video,6269.04,,2357.28,,0,0
 2026-07-01,TheTradeDesk,TTD - APP,6197.76,6197.76,,,0,0
-2025-07-01,SmartyAds,SmartyAds - CTV (Paramount),6178.04,,,2654.1,0,0
+2025-07-01,SmartyAds,SmartyAds - CTV (Paramount),6178.04,,,2873.22,0,0
 2026-01-01,Octillion,Octillion - CTV - Open,6141.13,,,,0,0
 2026-01-01,,TrueX FireTV AVOD,6092.9,,,,0,0
 2025-01-01,GroundTruth,GroundTruth Video CTV - Efficiency Monitoring,6021.47,,,,0,0
@@ -343,38 +343,38 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-07-01,Adtelligent,Adtelligent - CTV (Price Targeted),5833.84,5833.84,,,0,0
 2026-01-01,TheTradeDesk,TTD - MW - 1st Price (HB),5828.87,,,,0,0
 2025-04-01,TheTradeDesk,TTD - Desktop [Display],5767.68,,,,0,0
-2025-07-01,Viant,Viant - APP,5675.46,,,2600.41,0,0
+2025-07-01,Viant,Viant - APP,5675.46,,,2656.58,0,0
 2026-07-01,Zeta DSP,Bidswitch - CTV - 1st Price,5625.5,5625.5,,,0,0
 2025-01-01,DV360,Bidswitch - MW [Display],5620.8,,,,0,0
 2026-01-01,TheTradeDesk,TTD - CTV (LG Ads Only),5598.48,,,,0,0
 2025-10-01,TheTradeDesk,TTD - CTV (LG Ads Only),5593.31,,,,0,0
 2025-10-01,Sharethrough,Sharethrough CTV Video - Shamrock Farms Bundle Optimized,5484.83,,,,0,0
-2026-04-01,Epsilon (Conversant),Conversant - CTV - Open Auction,5294.83,,3393.83,,0,0
-2025-07-01,SimpliFi,SimpliFi - MW [Display],5221.06,,,1969.24,0,0
+2026-04-01,Epsilon (Conversant),Conversant - CTV - Open Auction,5294.83,,3410.87,,0,0
+2025-07-01,SimpliFi,SimpliFi - MW [Display],5221.06,,,2014.67,0,0
 2025-10-01,Basis Technologies,Centro Display Web,5195.09,,,,0,0
 2025-10-01,TheTradeDesk,TTD - CTV - oRTB (Canada),5191.85,,,,0,0
-2025-07-01,Viant,Viant - MW [Display],5164.45,,,2481.17,0,0
+2025-07-01,Viant,Viant - MW [Display],5164.45,,,2537.98,0,0
 2025-10-01,Adtelligent,Adtelligent - CTV,5154.41,,,,0,0
 2025-04-01,SmartyAds,SmartyAds - CTV (Streaming Apps),5139.83,,,,0,0
 2025-01-01,SimpliFi,SimpliFi - APP - 1st Price,5127.86,,,,0,0
 2026-07-01,StackAdapt,SEEDTAG (DON'T USE),5107.03,5107.03,,,0,0
-2025-07-01,StackAdapt,StackAdapt - CTV - Open Auction (Canada),5044.66,,,,0,0
+2025-07-01,StackAdapt,StackAdapt - CTV - Open Auction (Canada),5044.66,,,14.95,0,0
 2025-01-01,SimpliFi,SimpliFi - CTV - 1st Price (Glewed),5009.02,,,,0,0
 2025-04-01,Viant,Viant - Desktop [Display],4997.01,,,,0,0
-2026-04-01,SmartyAds,SmartyAds - CTV (Plex),4921.37,,1394.13,,0,0
+2026-04-01,SmartyAds,SmartyAds - CTV (Plex),4921.37,,1452.74,,0,0
 2025-04-01,StackAdapt,StackAdapt - Desktop - Open Auction,4838.21,,,,0,0
 2026-07-01,Basis Technologies,Seedtag,4797.39,4797.39,,,0,0
 2026-01-01,Yahoo DSP,Yahoo - CTV - Open Auction,4783.17,,,,0,0
-2026-04-01,OnSpot Data,Bidswitch - CTV - 1st Price,4726.98,,1690.77,,0,0
+2026-04-01,OnSpot Data,Bidswitch - CTV - 1st Price,4726.98,,1715.91,,0,0
 2026-07-01,Adtelligent,Adtelligent - CTV,4721.23,4721.23,,,0,0
-2026-04-01,Basis Technologies,Centro Video Web (1st Price),4720.01,,4469.26,,0,0
+2026-04-01,Basis Technologies,Centro Video Web (1st Price),4720.01,,4480.88,,0,0
 2025-04-01,StackAdapt,StackAdapt - CTV - Open Auction - Efficiency Monitoring,4707.33,,,,0,0
 2025-04-01,SimpliFi,SimpliFi - MW [Display],4682.49,,,,0,0
 2025-04-01,SmartyAds,SmartyAds - CTV (1st Price),4668.27,,,,0,0
 2025-04-01,535Media,535Media - oRTB CTV,4651.16,,,,0,0
-2025-07-01,Infillion,Bidswitch - CTV - 1st Price,4611.95,,,2350.3,0,0
-2025-07-01,SimpliFi,SimpliFi - Seedtag,4574.47,,,1571.16,0,0
-2026-04-01,Yahoo DSP,Yahoo - CTV - Open Auction,4572.18,,980.24,,0,0
+2025-07-01,Infillion,Bidswitch - CTV - 1st Price,4611.95,,,2364.37,0,0
+2025-07-01,SimpliFi,SimpliFi - Seedtag,4574.47,,,1614.54,0,0
+2026-04-01,Yahoo DSP,Yahoo - CTV - Open Auction,4572.18,,1024.27,,0,0
 2025-04-01,Epsilon (Conversant),Conversant - CTV - Open Auction (Charter),4557.02,,,,0,0
 2025-04-01,SimpliFi,SimpliFi - Seedtag,4515.57,,,,0,0
 2026-01-01,Basis Technologies,Centro Display InApp,4502.85,,,,0,0
@@ -384,35 +384,35 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-10-01,DV360,Bidswitch - Desktop - 1st Price (HB),4371.9,,,,0,0
 2026-04-01,DV360,Bidswitch - Seedtag,4336.92,,4336.92,,0,0
 2025-01-01,Seedtag,Seedtag - Open Auction-  Ads.txt Updated CTV Supply  ,4334.77,,,,0,0
-2026-04-01,Adtelligent,Adtelligent - CTV,4289.31,,1312.93,,0,0
+2026-04-01,Adtelligent,Adtelligent - CTV,4289.31,,1343.41,,0,0
 2025-01-01,SimpliFi,SimpliFi - Desktop [Display],4260.71,,,,0,0
 2025-01-01,DV360,Bidswitch - Desktop [Display],4242.02,,,,0,0
-2026-04-01,TheTradeDesk,TTD - Desktop - 1st Price (HB),4211.62,,1421.6,,0,0
+2026-04-01,TheTradeDesk,TTD - Desktop - 1st Price (HB),4211.62,,1468.62,,0,0
 2025-04-01,Adtheorent,Ad Theorent - APP [Display],4171.81,,,,0,0
-2026-04-01,TheTradeDesk,TTD - CTV (UK) ,4167.93,,1054.68,,0,0
+2026-04-01,TheTradeDesk,TTD - CTV (UK) ,4167.93,,1067.97,,0,0
 2026-01-01,Epsilon (Conversant),Conversant - Web - Open Auction - Seedtag,4072.18,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant - Web - Open Auction - Display,4058.18,,,,0,0
 2025-10-01,Octillion,Octillion - CTV - Open,4029.29,,,,0,0
 2026-01-01,Sharethrough,Sharethrough InApp Video (Open Auction),3985.81,,,,0,0
 2025-10-01,Amazon DSP,Bidswitch - APP 1st Price,3966.11,,,,0,0
-2026-04-01,Sharethrough,Sharethrough Web (Open Auction),3957.94,,2162.02,,0,0
+2026-04-01,Sharethrough,Sharethrough Web (Open Auction),3957.94,,2195.65,,0,0
 2025-01-01,Amobee,Amobee - Desktop/MW [Display],3933.28,,,,0,0
 2025-10-01,Yahoo DSP,Yahoo - CTV - Open Auction- Efficiency Monitoring,3928.98,,,,0,0
-2025-07-01,Viant,Viant - APP [Display],3926.54,,,2681.61,0,0
+2025-07-01,Viant,Viant - APP [Display],3926.54,,,2702.54,0,0
 2026-07-01,DBM,Seedtag,3919.59,3919.59,,,0,0
 2025-04-01,TheTradeDesk,TTD - CTV (Charter),3914.39,,,,0,0
 2025-01-01,Adtheorent,Ad Theorent - APP [Display],3879.53,,,,0,0
-2025-07-01,StackAdapt,StackAdapt - Desktop - Open Auction,3859.42,,,2504.16,0,0
-2026-04-01,Demandbase,DemandBase - CTV,3857.77,,832.96,,0,0
+2025-07-01,StackAdapt,StackAdapt - Desktop - Open Auction,3859.42,,,2523.98,0,0
+2026-04-01,Demandbase,DemandBase - CTV,3857.77,,855.29,,0,0
 2026-07-01,TheTradeDesk,TTD - CTV - oRTB (Canada),3838.32,3838.32,,,0,0
 2025-04-01,Beeswax,Beeswax - CTV - Open Auction - Paramount,3766.97,,,,0,0
 2026-01-01,Beeswax,Beeswax UR Improvement Tier 3 (Low UR),3724.72,,,,0,0
-2025-07-01,SimpliFi,SimpliFi - Desktop [Display],3723.39,,,1201.41,0,0
+2025-07-01,SimpliFi,SimpliFi - Desktop [Display],3723.39,,,1237.89,0,0
 2025-10-01,SmartyAds,SmartyAds - CTV (Plex),3722.28,,,,0,0
 2025-10-01,Viant,Viant - MW [Display],3649.44,,,,0,0
-2025-07-01,Adtelligent,Adtelligent - CTV,3640.08,,,33.08,0,0
-2026-04-01,Octillion,Octillion - CTV - Open,3501.23,,2062.56,,0,0
-2025-07-01,Viant,Viant - APP - 1st Price,3491.91,,,1256.3,0,0
+2025-07-01,Adtelligent,Adtelligent - CTV,3640.08,,,38.74,0,0
+2026-04-01,Octillion,Octillion - CTV - Open,3501.23,,2067.64,,0,0
+2025-07-01,Viant,Viant - APP - 1st Price,3491.91,,,1297.84,0,0
 2026-07-01,StackAdapt,StackAdapt - CTV - Open Auction (Canada),3479.69,3479.69,,,0,0
 2026-07-01,Viant,Viant - MW - 1st Price,3468.35,3468.35,,,0,0
 2025-01-01,Adtheorent,Ad Theorent - APP Video 1st Price,3449.21,,,,0,0
@@ -423,49 +423,49 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-10-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction - Efficiency Monitoring,3367.85,,,,0,0
 2025-04-01,Walmart,TTD - APP,3363.92,,,,0,0
 2025-04-01,SimpliFi,SimpliFi - Desktop [Display],3305.65,,,,0,0
-2025-07-01,IPONWEB BidCore,Bidswitch - CTV - 1st Price,3281.85,,,1707.09,0,0
+2025-07-01,IPONWEB BidCore,Bidswitch - CTV - 1st Price,3281.85,,,1708.12,0,0
 2025-10-01,TheTradeDesk,TTD - CTV (Charter),3268.07,,,,0,0
-2026-04-01,TheTradeDesk,TTD - MW - 1st Price (HB),3260.38,,1384.75,,0,0
-2025-07-01,SmartyAds,SmartyAds - CTV (1st Price),3257.45,,,1610.21,0,0
-2025-07-01,SmartyAds,SmartyAds - CTV (Streaming Apps),3224.79,,,1782.1,0,0
-2026-04-01,GroundTruth,GroundTruth Video CTV,3212.31,,1708.12,,0,0
+2026-04-01,TheTradeDesk,TTD - MW - 1st Price (HB),3260.38,,1415.58,,0,0
+2025-07-01,SmartyAds,SmartyAds - CTV (1st Price),3257.45,,,1703.99,0,0
+2025-07-01,SmartyAds,SmartyAds - CTV (Streaming Apps),3224.79,,,1852.04,0,0
+2026-04-01,GroundTruth,GroundTruth Video CTV,3212.31,,1714.83,,0,0
 2025-10-01,Viant,Viant - APP [Display],3191.07,,,,0,0
 2025-04-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction,3159.6,,,,0,0
 2026-01-01,TheTradeDesk,TTD - MW [Display],3145.31,,,,0,0
 2025-04-01,TheTradeDesk,TTD - MW - 1st Price (HB),3136.12,,,,0,0
 2025-10-01,LoopMe,LoopMe DSP Lottery Campaign copy (deal mimic),3114.94,,,,0,0
 2026-07-01,Viant,Viant - MW,3111.25,3111.25,,,0,0
-2026-04-01,TheTradeDesk,TTD - MW [Display],3105.87,,1752.72,,0,0
+2026-04-01,TheTradeDesk,TTD - MW [Display],3105.87,,1773.3,,0,0
 2026-07-01,Sharethrough,Sharethrough InApp Video (Open Auction),3102.58,3102.58,,,0,0
 2025-10-01,SmartyAds,SmartyAds - CTV (1st Price),3089.71,,,,0,0
 2025-10-01,SmartyAds,SmartyAds - CTV (Paramount),3074.85,,,,0,0
 2025-04-01,SmartyAds,SmartyAds - (Seedtag),3044.51,,,,0,0
 2026-01-01,,TrueX FireTV Games ,3011.64,,,,0,0
-2026-04-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction - Efficiency Monitoring,3005.63,,810.29,,0,0
+2026-04-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction - Efficiency Monitoring,3005.63,,879.36,,0,0
 2025-04-01,DV360,Bidswitch - Desktop [Display],3000.7,,,,0,0
 2026-01-01,Yahoo DSP,Yahoo - CTV - Open Auction- Efficiency Monitoring,2941.74,,,,0,0
-2026-04-01,Viant,Viant - Desktop,2941.08,,1357.09,,0,0
+2026-04-01,Viant,Viant - Desktop,2941.08,,1391.76,,0,0
 2025-10-01,Walmart,TTD - APP [Display],2904.75,,,,0,0
 2025-04-01,Viant,Viant - APP - 1st Price,2898.33,,,,0,0
 2026-01-01,Viant,Viant - MW [Display],2897.51,,,,0,0
 2025-01-01,StackAdapt,StackAdapt - CTV - Open Auction - Efficiency Monitoring,2893.32,,,,0,0
 2025-07-01,GroundTruth,GroundTruth Video CTV - No LatLong,2843.97,,,2843.97,0,0
-2025-07-01,DV360,Bidswitch - APP 1st Price,2807.73,,,326.26,0,0
+2025-07-01,DV360,Bidswitch - APP 1st Price,2807.73,,,327.6,0,0
 2025-10-01,SmartyAds,SmartyAds - CTV (Streaming Apps),2789.78,,,,0,0
-2026-04-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction,2779.85,,716.25,,0,0
+2026-04-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction,2779.85,,749.47,,0,0
 2025-04-01,DV360,Bidswitch - APP 1st Price,2757.91,,,,0,0
 2025-01-01,Beeswax,Beeswax - App - Open Auction,2757.85,,,,0,0
 2025-01-01,535Media,535Media - oRTB CTV,2740.25,,,,0,0
 2025-04-01,DV360,Bidswitch - APP,2721.19,,,,0,0
 2026-07-01,,TrueX FireTV AVOD,2709.06,2709.06,,,0,0
 2026-04-01,Epsilon (Conversant),Conversant - Web - Open Auction - Seedtag,2703.6,,2703.6,,0,0
-2026-04-01,Viant,Viant - MW [Display],2698.63,,1008.51,,0,0
+2026-04-01,Viant,Viant - MW [Display],2698.63,,1046.57,,0,0
 2025-01-01,SmartyAds,SmartyAds - CTV (1st Price),2650.04,,,,0,0
 2025-10-01,Marketing Architects -RTB,Marketing Architects - OTT,2649.73,,,,0,0
-2025-07-01,SmartyAds,SmartyAds - (Seedtag),2597.73,,,910.87,0,0
+2025-07-01,SmartyAds,SmartyAds - (Seedtag),2597.73,,,925.05,0,0
 2025-10-01,TheTradeDesk,TTD - MW [Display],2594.24,,,,0,0
 2026-01-01,GroundTruth,GroundTruth Video CTV,2588.82,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant - Web - Open Auction - Display,2560.45,,,966.2,0,0
+2025-07-01,Epsilon (Conversant),Conversant - Web - Open Auction - Display,2560.45,,,986.89,0,0
 2025-01-01,Beeswax,Beeswax - Display - Desktop/MW,2546.21,,,,0,0
 2025-10-01,Lemma DSP,Lemma DSP Inapp Video,2535.41,,,,0,0
 2026-01-01,TheTradeDesk,TTD - Desktop [Display],2517.64,,,,0,0
@@ -473,63 +473,63 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-01-01,Adtelligent,Adtelligent - CTV,2474.59,,,,0,0
 2025-01-01,Adtelligent,Adtelligent - CTV,2469.23,,,,0,0
 2025-01-01,SmartyAds,SmartyAds - CTV (Paramount),2464.42,,,,0,0
-2025-07-01,Viant,Viant - CTV (Charter),2433.35,,,400.8,0,0
+2025-07-01,Viant,Viant - CTV (Charter),2433.35,,,407.65,0,0
 2025-04-01,Viant,Viant - CTV (Charter),2433.13,,,,0,0
-2025-07-01,DV360,Bidswitch - MW [Display],2416.29,,,1545.33,0,0
+2025-07-01,DV360,Bidswitch - MW [Display],2416.29,,,1597.0,0,0
 2025-01-01,Storygize,Storygize - Desktop (1st Price),2396.76,,,,0,0
 2026-01-01,Demandbase,DemandBase - CTV,2386.18,,,,0,0
 2026-01-01,Basis Technologies,Basis - CTV - oRTB - (Canada),2368.93,,,,0,0
-2026-04-01,TheTradeDesk,TTD - Desktop [Display],2367.17,,1229.12,,0,0
-2026-04-01,TheTradeDesk,TTD - CTV (LATAM),2353.86,,1234.6,,0,0
+2026-04-01,TheTradeDesk,TTD - Desktop [Display],2367.17,,1262.12,,0,0
+2026-04-01,TheTradeDesk,TTD - CTV (LATAM),2353.86,,1236.13,,0,0
 2025-01-01,Viant,Viant - CTV (Charter),2346.75,,,,0,0
-2025-07-01,Krush Media,Krush Media Video - CTV Direct (700),2344.03,,,1571.62,0,0
+2025-07-01,Krush Media,Krush Media Video - CTV Direct (700),2344.03,,,1604.66,0,0
 2025-04-01,OnSpot Data,Bidswitch - CTV - 1st Price,2342.86,,,,0,0
 2025-01-01,DV360,Bidswitch - MW - 1st Price (HB),2324.87,,,,0,0
 2026-01-01,Adtelligent,Adtelligent - CTV (Price Targeted),2314.66,,,,0,0
 2025-10-01,,TrueX FireTV Games ,2291.52,,,,0,0
-2025-07-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction,2269.7,,,597.68,0,0
+2025-07-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction,2269.7,,,613.4,0,0
 2026-07-01,Yahoo DSP,SEEDTAG (DON'T USE),2267.57,2267.57,,,0,0
 2026-01-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction - Efficiency Monitoring,2264.28,,,,0,0
 2025-10-01,DV360,Bidswitch - CTV - 1st Price (Bundle 151908),2256.39,,,,0,0
-2025-07-01,Marketing Architects -RTB,Marketing Architects - CTV - EW Scripps LAT,2250.37,,,808.92,0,0
-2026-04-01,,TrueX FireTV Games ,2225.82,,655.38,,0,0
+2025-07-01,Marketing Architects -RTB,Marketing Architects - CTV - EW Scripps LAT,2250.37,,,814.28,0,0
+2026-04-01,,TrueX FireTV Games ,2225.82,,676.02,,0,0
 2025-10-01,Adtelligent,Adtelligent - CTV (Price Targeted),2212.06,,,,0,0
-2026-04-01,Basis Technologies,Centro Display InApp,2191.02,,447.13,,0,0
+2026-04-01,Basis Technologies,Centro Display InApp,2191.02,,505.62,,0,0
 2025-01-01,DV360,Bidswitch - APP Display,2181.39,,,,0,0
 2026-07-01,TheTradeDesk,TTD - CTV (Charter),2173.56,2173.56,,,0,0
 2025-04-01,Krush Media,Krush Media Video - CTV Direct (700),2167.66,,,,0,0
 2025-01-01,Sharethrough,Sharethrough CTV Video - Targeting away from Not Approved list,2162.91,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant - CTV - Open Auction (Charter),2143.0,,,,0,0
-2026-04-01,Viant,Viant - Desktop - 1st Price,2117.99,,1170.8,,0,0
+2026-04-01,Viant,Viant - Desktop - 1st Price,2117.99,,1191.3,,0,0
 2025-10-01,Sharethrough,Sharethrough InApp Video (Open Auction),2113.19,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant - InApp - Open Auction,2099.19,,,884.52,0,0
+2025-07-01,Epsilon (Conversant),Conversant - InApp - Open Auction,2099.19,,,900.85,0,0
 2025-01-01,GroundTruth,GroundTruth Display,2094.19,,,,0,0
-2026-04-01,Sharethrough,Sharethrough InApp Video (Open Auction),2043.75,,1361.1,,0,0
+2026-04-01,Sharethrough,Sharethrough InApp Video (Open Auction),2043.75,,1368.39,,0,0
 2025-04-01,4INFO,4INFO - CTV - 1st Price,2019.67,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant - Web - Open Auction - Video,2011.92,,,,0,0
 2025-01-01,Krush Media,Krush Media Video - CTV Direct (700),1979.4,,,,0,0
-2026-04-01,Walmart,TTD - CTV (1st Price),1978.98,,844.68,,0,0
+2026-04-01,Walmart,TTD - CTV (1st Price),1978.98,,868.66,,0,0
 2026-07-01,TheTradeDesk,TTD - Desktop - 1st Price (HB),1977.6,1977.6,,,0,0
 2026-07-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction,1945.96,1945.96,,,0,0
 2025-10-01,IPONWEB BidCore,Bidswitch - CTV - 1st Price,1943.39,,,,0,0
 2026-04-01,Yahoo DSP,SEEDTAG (DON'T USE),1919.74,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Philo CTV (125613),1892.97,,,1238.18,0,0
+2025-07-01,Epsilon (Conversant),Conversant Philo CTV (125613),1892.97,,,1270.8,0,0
 2026-04-01,TheTradeDesk,SEEDTAG (DON'T USE),1874.46,,,,0,0
-2025-07-01,DV360,Bidswitch - Desktop [Display],1828.5,,,641.79,0,0
+2025-07-01,DV360,Bidswitch - Desktop [Display],1828.5,,,742.45,0,0
 2026-01-01,Infillion,Bidswitch - CTV - 1st Price,1810.89,,,,0,0
-2025-07-01,Beeswax,Beeswax UR Improvement Tier 3 (Low UR),1785.41,,,117.53,0,0
+2025-07-01,Beeswax,Beeswax UR Improvement Tier 3 (Low UR),1785.41,,,124.47,0,0
 2026-01-01,Basis Technologies,Centro Display Web,1778.54,,,,0,0
 2026-01-01,Viant,Viant - APP [Display],1745.49,,,,0,0
 2026-07-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price,1728.68,1728.68,,,0,0
 2026-07-01,Yahoo DSP,Yahoo - CTV - Open Auction,1706.78,1706.78,,,0,0
-2026-04-01,Viant,Viant - APP [Display],1690.09,,371.46,,0,0
+2026-04-01,Viant,Viant - APP [Display],1690.09,,389.82,,0,0
 2025-10-01,Epsilon (Conversant),Conversant - Web - Open Auction - Display,1684.31,,,,0,0
 2026-07-01,Yahoo DSP,Yahoo - CTV - Open Auction- Efficiency Monitoring,1669.49,1669.49,,,0,0
 2025-01-01,TheTradeDesk,TTD - Seedtag - Pub ID Swap Test,1666.47,,,,0,0
 2026-07-01,Viant,SEEDTAG (DON'T USE),1649.98,1649.98,,,0,0
 2025-04-01,GroundTruth,GroundTruth Video CTV - Efficiency Monitoring,1645.11,,,,0,0
-2026-04-01,TheTradeDesk,TTD - CTV - oRTB (Canada),1634.96,,492.03,,0,0
-2026-04-01,Walmart,TTD - APP [Display],1625.27,,758.68,,0,0
+2026-04-01,TheTradeDesk,TTD - CTV - oRTB (Canada),1634.96,,546.32,,0,0
+2026-04-01,Walmart,TTD - APP [Display],1625.27,,770.7,,0,0
 2025-10-01,TheTradeDesk,TTD - Desktop [Display],1615.92,,,,0,0
 2025-04-01,Adtelligent,Adtelligent - CTV,1612.02,,,,0,0
 2025-04-01,SmartyAds,SmartyAds - Web [Display],1611.23,,,,0,0
@@ -538,11 +538,11 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-07-01,Adtheorent,Ad Theorent - Desktop/MW - 1st Price,1555.12,1555.12,,,0,0
 2026-07-01,TheTradeDesk,Seedtag,1547.12,1547.12,,,0,0
 2026-01-01,TheTradeDesk,TTD - CTV (Charter),1533.82,,,,0,0
-2026-04-01,Sharethrough,Sharethrough CTV Video - Shamrock Farms Bundle Optimized,1533.5,,157.37,,0,0
+2026-04-01,Sharethrough,Sharethrough CTV Video - Shamrock Farms Bundle Optimized,1533.5,,157.53,,0,0
 2026-07-01,DBM,SEEDTAG (DON'T USE),1530.02,1530.02,,,0,0
 2025-10-01,DeepIntent,DeepIntent CTV OLV Demand,1516.88,,,,0,0
 2025-01-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price (Hearst),1484.56,,,,0,0
-2025-07-01,Viant,Viant - Desktop [Display],1477.47,,,758.53,0,0
+2025-07-01,Viant,Viant - Desktop [Display],1477.47,,,779.14,0,0
 2025-10-01,,0,1460.53,,,,0,0
 2025-10-01,Knorex,Bidswitch - Seedtag,1449.71,,,,0,0
 2025-04-01,Lemma DSP,Lemma DSP Inapp Video,1439.89,,,,0,0
@@ -555,20 +555,20 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Demandbase,DemandBase - CTV,1365.43,,,,0,0
 2025-01-01,DV360,Bidswitch - Seedtag,1350.96,,,,0,0
 2026-07-01,Walmart,TTD - CTV (1st Price),1349.04,1349.04,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Vizio CTV (203828),1347.56,,,788.78,0,0
+2025-07-01,Epsilon (Conversant),Conversant Vizio CTV (203828),1347.56,,,812.68,0,0
 2025-10-01,Krush Media,Krush Media Web Video,1321.24,,,,0,0
-2025-07-01,TheTradeDesk,TTD - Desktop [Display],1300.23,,,621.05,0,0
+2025-07-01,TheTradeDesk,TTD - Desktop [Display],1300.23,,,640.12,0,0
 2025-04-01,Beeswax,Beeswax UR Improvement Tier 3 (Low UR),1296.98,,,,0,0
 2026-01-01,,Test PSA Ads,1295.35,,,,0,0
-2025-07-01,OnSpot Data,Bidswitch - CTV - 1st Price,1293.37,,,491.28,0,0
+2025-07-01,OnSpot Data,Bidswitch - CTV - 1st Price,1293.37,,,507.95,0,0
 2025-10-01,Krush Media,Krush Media Video - CTV Direct (700),1289.93,,,,0,0
-2025-07-01,Demandbase,DemandBase - CTV,1285.82,,,518.72,0,0
-2025-07-01,DV360,Bidswitch - Desktop - 1st Price (HB),1274.75,,,511.75,0,0
+2025-07-01,Demandbase,DemandBase - CTV,1285.82,,,531.91,0,0
+2025-07-01,DV360,Bidswitch - Desktop - 1st Price (HB),1274.75,,,541.74,0,0
 2026-07-01,Epsilon (Conversant),Conversant - CTV - Open Auction,1270.25,1270.25,,,0,0
 2026-01-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction,1266.16,,,,0,0
-2025-07-01,Krush Media,Krush Media Web Video,1242.57,,,135.26,0,0
+2025-07-01,Krush Media,Krush Media Web Video,1242.57,,,136.54,0,0
 2025-04-01,Epsilon (Conversant),Conversant Philo CTV (125613),1242.31,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant - Web - Open Auction - Video,1235.1,,,575.58,0,0
+2025-07-01,Epsilon (Conversant),Conversant - Web - Open Auction - Video,1235.1,,,604.16,0,0
 2025-04-01,DV360,Bidswitch - APP Display,1233.52,,,,0,0
 2026-01-01,Viant,Viant - APP - 1st Price,1221.23,,,,0,0
 2025-10-01,DV360,Bidswitch - MW - 1st Price (HB),1207.59,,,,0,0
@@ -583,36 +583,36 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Amobee,Amobee - Desktop/MW [Display],1124.71,,,,0,0
 2026-07-01,Viant,Viant - MW [Display],1123.39,1123.39,,,0,0
 2025-10-01,Viant,Viant - APP,1120.89,,,,0,0
-2026-04-01,Epsilon (Conversant),Conversant - InApp - Open Auction,1120.45,,429.11,,0,0
-2025-07-01,Yahoo DSP,Yahoo - CTV - Open Auction- Efficiency Monitoring,1114.56,,,119.6,0,0
+2026-04-01,Epsilon (Conversant),Conversant - InApp - Open Auction,1120.45,,435.7,,0,0
+2025-07-01,Yahoo DSP,Yahoo - CTV - Open Auction- Efficiency Monitoring,1114.56,,,122.1,0,0
 2025-10-01,Adtheorent,Ad Theorent - Desktop/MW Display,1095.4,,,,0,0
 2026-04-01,DBM,SEEDTAG (DON'T USE),1094.53,,,,0,0
 2025-10-01,Viant,Viant - Desktop [Display],1080.16,,,,0,0
 2025-10-01,Viant,Viant - APP - 1st Price,1078.88,,,,0,0
 2026-01-01,Walmart,TTD - APP [Display],1075.29,,,,0,0
-2025-07-01,SmartyAds,SmartyAds - Web [Display],1072.47,,,440.96,0,0
+2025-07-01,SmartyAds,SmartyAds - Web [Display],1072.47,,,448.35,0,0
 2025-04-01,Storygize,Storygize - MW (1st Price),1071.02,,,,0,0
 2025-01-01,SmartyAds,SmartyAds - (Seedtag),1066.66,,,,0,0
 2026-07-01,LoopMe,LoopMe DSP Lottery Campaign copy (deal mimic),1061.29,1061.29,,,0,0
 2025-04-01,Storygize,Storygize - Desktop (1st Price),1058.74,,,,0,0
 2025-01-01,Amazon DSP,Bidswitch - MW - 1st Price (HB),1055.76,,,,0,0
-2025-07-01,DV360,Bidswitch - MW - 1st Price (HB),1053.42,,,462.93,0,0
-2025-07-01,SmartyAds,SmartyAds - CTV (Plex),1051.71,,,254.98,0,0
-2025-07-01,Marketing Architects -RTB,Marketing Architects - OTT,1017.4,,,438.68,0,0
-2025-07-01,Octillion,Octillion - CTV - Open,1014.84,,,177.75,0,0
+2025-07-01,DV360,Bidswitch - MW - 1st Price (HB),1053.42,,,479.53,0,0
+2025-07-01,SmartyAds,SmartyAds - CTV (Plex),1051.71,,,254.99,0,0
+2025-07-01,Marketing Architects -RTB,Marketing Architects - OTT,1017.4,,,444.44,0,0
+2025-07-01,Octillion,Octillion - CTV - Open,1014.84,,,191.88,0,0
 2025-10-01,Walmart,TTD - Desktop - 1st Price (HB),1010.9,,,,0,0
 2025-04-01,Beeswax,Beeswax - Display - Desktop/MW,1009.03,,,,0,0
 2025-01-01,SmartyAds,SmartyAds - App [Display],1005.26,,,,0,0
 2025-10-01,OnSpot Data,Bidswitch - CTV - 1st Price,1002.59,,,,0,0
 2025-01-01,Amazon DSP,Bidswitch - APP,992.64,,,,0,0
 2026-01-01,Viant,Viant - Desktop [Display],992.04,,,,0,0
-2025-07-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction - Efficiency Monitoring,986.57,,,191.03,0,0
+2025-07-01,Yahoo DSP,Yahoo - Desktop MW - Open Auction - Efficiency Monitoring,986.57,,,195.47,0,0
 2026-01-01,Walmart,TTD - APP,984.25,,,,0,0
-2026-04-01,LoopMe,LoopMe DSP Lottery Campaign copy (deal mimic),978.97,,339.56,,0,0
+2026-04-01,LoopMe,LoopMe DSP Lottery Campaign copy (deal mimic),978.97,,346.19,,0,0
 2025-10-01,4INFO,4INFO - CTV - 1st Price,976.84,,,,0,0
 2026-07-01,GroundTruth,GroundTruth Video CTV,918.4,918.4,,,0,0
 2025-10-01,,The Smashing Machine,897.0,,,,0,0
-2025-07-01,TheTradeDesk,TTD - CTV (Charter),887.27,,,268.65,0,0
+2025-07-01,TheTradeDesk,TTD - CTV (Charter),887.27,,,274.06,0,0
 2025-10-01,Epsilon (Conversant),Conversant - Web - Open Auction - Video,869.5,,,,0,0
 2026-07-01,Viant,Viant - CTV (Charter),865.15,865.15,,,0,0
 2025-04-01,Octillion,Octillion - CTV - Open,862.48,,,,0,0
@@ -623,48 +623,48 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-07-01,Sharethrough,Sharethrough Web (Open Auction),834.05,834.05,,,0,0
 2026-07-01,Demandbase,DemandBase - CTV,826.94,826.94,,,0,0
 2025-10-01,,2511 - MGMPLUS - ROBIN HOOD PROMO - MGMPHD363301-01  (SERIES),826.72,,,,0,0
-2025-07-01,Lemma DSP,Lemma DSP Inapp Video,820.17,,,516.26,0,0
+2025-07-01,Lemma DSP,Lemma DSP Inapp Video,820.17,,,518.24,0,0
 2026-01-01,SundaySky,SundaySky - MW - 1st Price,817.59,,,,0,0
 2026-07-01,SmartyAds,SmartyAds - CTV (Plex),812.0,812.0,,,0,0
 2025-01-01,Walmart,TTD - APP [Display],806.13,,,,0,0
 2026-01-01,Epsilon (Conversant),Conversant - Web - Open Auction - Display,802.99,,,,0,0
-2026-04-01,Infillion,Bidswitch - CTV - 1st Price,798.44,,412.44,,0,0
-2026-04-01,Knorex,Bidswitch - CTV - 1st Price,792.46,,302.45,,0,0
+2026-04-01,Infillion,Bidswitch - CTV - 1st Price,798.44,,415.2,,0,0
+2026-04-01,Knorex,Bidswitch - CTV - 1st Price,792.46,,306.33,,0,0
 2026-07-01,Viant,Viant - Desktop,790.95,790.95,,,0,0
 2026-07-01,,TrueX FireTV Games ,787.68,787.68,,,0,0
 2025-01-01,Octillion,Octillion - CTV - Open,784.16,,,,0,0
 2026-01-01,TheTradeDesk,TTD - CTV (UK) ,783.04,,,,0,0
-2026-04-01,Basis Technologies,Centro Display Web,782.57,,306.68,,0,0
+2026-04-01,Basis Technologies,Centro Display Web,782.57,,320.25,,0,0
 2026-07-01,TheTradeDesk,TTD - MW - 1st Price (HB),775.34,775.34,,,0,0
 2025-04-01,DV360,Bidswitch - MW - 1st Price (HB),764.66,,,,0,0
 2026-07-01,Viant,Viant - APP [Display],759.26,759.26,,,0,0
-2026-04-01,Basis Technologies,Basis - CTV - oRTB - (Canada),753.71,,473.02,,0,0
+2026-04-01,Basis Technologies,Basis - CTV - oRTB - (Canada),753.71,,503.54,,0,0
 2026-07-01,TheTradeDesk,TTD - MW [Display],745.83,745.83,,,0,0
 2025-10-01,Adtheorent,Ad Theorent - APP [Display],741.84,,,,0,0
 2026-01-01,SmartyAds,SmartyAds - CTV (Samsung),741.8,,,,0,0
 2026-07-01,Basis Technologies,Centro Display InApp,740.1,740.1,,,0,0
-2025-07-01,Walmart,TTD - Desktop - 1st Price (HB),731.25,,,438.39,0,0
+2025-07-01,Walmart,TTD - Desktop - 1st Price (HB),731.25,,,451.06,0,0
 2025-01-01,Beeswax,Beeswax - CTV - Open Auction - Efficiency Monitoring,714.19,,,,0,0
-2026-04-01,Viant,Viant - APP - 1st Price,712.45,,240.24,,0,0
+2026-04-01,Viant,Viant - APP - 1st Price,712.45,,253.46,,0,0
 2025-01-01,Amobee,Amobee - Desktop/MW - 1st price,706.09,,,,0,0
 2026-07-01,DeepIntent,DeepIntent CTV OLV Demand,704.54,704.54,,,0,0
 2025-04-01,LoopMe,LoopMe DSP Lottery Campaign copy (deal mimic),699.92,,,,0,0
 2025-10-01,SimpliFi,SimpliFi - APP [Display],667.72,,,,0,0
-2025-07-01,,TrueX FireTV Games ,667.26,,,174.3,0,0
-2026-04-01,Beeswax,Beeswax UR Improvement Tier 3 (Low UR),648.74,,315.58,,0,0
-2025-07-01,Epsilon (Conversant),Conversant - CTV - Open Auction (Charter),647.45,,,188.97,0,0
+2025-07-01,,TrueX FireTV Games ,667.26,,,180.24,0,0
+2026-04-01,Beeswax,Beeswax UR Improvement Tier 3 (Low UR),648.74,,318.24,,0,0
+2025-07-01,Epsilon (Conversant),Conversant - CTV - Open Auction (Charter),647.45,,,194.21,0,0
 2025-07-01,535Media,535Media - oRTB CTV,644.87,,,644.87,0,0
-2026-04-01,Viant,Viant - APP,630.87,,208.26,,0,0
+2026-04-01,Viant,Viant - APP,630.87,,220.13,,0,0
 2026-01-01,SundaySky,SundaySky - Desktop - 1st Price,629.35,,,,0,0
 2025-10-01,GroundTruth,GroundTruth Video CTV - Efficiency Monitoring,619.07,,,,0,0
-2026-04-01,TheTradeDesk,TTD - CTV (Charter),611.94,,183.28,,0,0
+2026-04-01,TheTradeDesk,TTD - CTV (Charter),611.94,,192.9,,0,0
 2025-04-01,IPONWEB BidCore,Bidswitch - CTV - 1st Price,604.86,,,,0,0
 2025-01-01,SmartyAds,SmartyAds - Web Video,603.98,,,,0,0
 2025-01-01,Walmart,TTD - APP,599.99,,,,0,0
 2025-01-01,Krush Media,Krush Media Web Video,594.61,,,,0,0
 2025-04-01,Beeswax,Beeswax Deal - CTV - TEGNA,594.5,,,,0,0
 2025-01-01,Beeswax,Beeswax - Desktop/MW - Open Auction,590.27,,,,0,0
-2025-07-01,GroundTruth,GroundTruth Video CTV - Efficiency Monitoring,583.55,,,111.51,0,0
+2025-07-01,GroundTruth,GroundTruth Video CTV - Efficiency Monitoring,583.55,,,115.01,0,0
 2025-04-01,Walmart,TTD - Desktop - 1st Price (HB),583.31,,,,0,0
 2025-01-01,Unruly,Unruly CTV Video,580.13,,,,0,0
 2026-01-01,Knorex,Bidswitch - CTV - 1st Price,575.83,,,,0,0
@@ -672,15 +672,15 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Beeswax,Beeswax - Desktop/MW - Open Auction,566.81,,,,0,0
 2025-10-01,Epsilon (Conversant),Conversant - CTV - Open Auction (Charter),565.39,,,,0,0
 2025-01-01,Yahoo DSP,Yahoo - In-App,557.31,,,,0,0
-2025-07-01,Samsung DSP,Bidswitch - CTV - 1st Price,556.06,,,234.57,0,0
-2025-07-01,SmartyAds,SmartyAds - Web [Display] (Allow List 9.7.21),543.52,,,106.48,0,0
-2026-04-01,StackAdapt,StackAdapt - Desktop - Open Auction,539.68,,138.36,,0,0
+2025-07-01,Samsung DSP,Bidswitch - CTV - 1st Price,556.06,,,279.78,0,0
+2025-07-01,SmartyAds,SmartyAds - Web [Display] (Allow List 9.7.21),543.52,,,108.86,0,0
+2026-04-01,StackAdapt,StackAdapt - Desktop - Open Auction,539.68,,144.28,,0,0
 2026-07-01,DV360,Bidswitch - Desktop [Display],531.3,531.3,,,0,0
 2025-10-01,Knorex,Bidswitch - CTV - 1st Price,529.13,,,,0,0
 2025-10-01,TheTradeDesk,TTD - CTV (LATAM),517.21,,,,0,0
 2026-01-01,StackAdapt,StackAdapt - Desktop - Open Auction,514.02,,,,0,0
 2026-01-01,,2601 - MGMPLUS - JAN 2026 XCH - MGMP23424-13 - MOVIES,509.89,,,,0,0
-2025-07-01,Yahoo DSP,Yahoo - In-App,507.39,,,69.14,0,0
+2025-07-01,Yahoo DSP,Yahoo - In-App,507.39,,,71.71,0,0
 2025-10-01,SimpliFi,SimpliFi - MW [Display],507.0,,,,0,0
 2025-10-01,Walmart,TTD - APP,505.42,,,,0,0
 2025-01-01,Amobee,Amobee - APP 1st Price,504.89,,,,0,0
@@ -688,7 +688,7 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-07-01,Viant,Viant - Desktop - 1st Price,496.49,496.49,,,0,0
 2025-04-01,Yahoo DSP,Yahoo - CTV - Open Auction- Efficiency Monitoring,496.28,,,,0,0
 2025-10-01,Streamworx Lda.,Bidswitch - CTV - 1st Price,488.06,,,,0,0
-2026-04-01,Viant,Viant - Desktop [Display],487.68,,191.71,,0,0
+2026-04-01,Viant,Viant - Desktop [Display],487.68,,198.01,,0,0
 2025-10-01,Walmart,TTD - CTV (1st Price),480.86,,,,0,0
 2026-07-01,,2607 - MGMPLUS - JULY XCH  - MGMP23457-13 - SERIES,478.44,478.44,,,0,0
 2025-01-01,SimpliFi,SimpliFi - Seedtag,478.25,,,,0,0
@@ -700,7 +700,7 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,IPONWEB BidCore,Bidswitch - Seedtag,461.27,,,,0,0
 2026-07-01,Walmart,TTD - APP [Display],458.61,458.61,,,0,0
 2025-10-01,,2511 - MGMPLUS - ROBIN HOOD PROMO - MGMPHD363301-01 - MOVIES,457.34,,,,0,0
-2026-04-01,Adtheorent,Ad Theorent - APP Video 1st Price,453.08,,98.63,,0,0
+2026-04-01,Adtheorent,Ad Theorent - APP Video 1st Price,453.08,,100.87,,0,0
 2026-04-01,,2606 - MGMPLUS - JUNE XCH - MGMP23455-13  -  SERIES,448.36,,,,0,0
 2026-01-01,StackAdapt,StackAdapt - APP - Open Auction,448.02,,,,0,0
 2026-07-01,Lemma DSP,Lemma DSP CTV Ad,440.17,440.17,,,0,0
@@ -710,39 +710,39 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,DV360,Bidswitch - Desktop - 1st Price (HB),429.79,,,,0,0
 2025-01-01,Walmart,TTD - Desktop [Display],428.89,,,,0,0
 2025-10-01,SimpliFi,SimpliFi - Desktop [Display],427.23,,,,0,0
-2026-04-01,Adtheorent,Ad Theorent - Desktop/MW Display,422.16,,108.61,,0,0
+2026-04-01,Adtheorent,Ad Theorent - Desktop/MW Display,422.16,,115.24,,0,0
 2026-01-01,,2601 - MGMPLUS - JAN 2026 XCH - MGMP23424-13 - SERIES,418.08,,,,0,0
 2025-10-01,SmartyAds,SmartyAds - Web (Taboola),416.47,,,,0,0
 2025-04-01,Quantcast,Bidswitch - Seedtag,415.97,,,,0,0
 2026-04-01,,2605 - MGMPLUS - MAY 2026 - XCH - MGMP23448-13 - MOVIES,411.41,,,,0,0
-2026-04-01,,"2605 - MGMPLUS - MAY 2026 - FROM S4 PROMO ""Lullabies"" - MGMPHDD363412 - SERIES",407.32,,146.68,,0,0
+2026-04-01,,"2605 - MGMPLUS - MAY 2026 - FROM S4 PROMO ""Lullabies"" - MGMPHDD363412 - SERIES",407.32,,163.39,,0,0
 2025-04-01,Yahoo DSP,Yahoo - In-App,403.54,,,,0,0
-2025-07-01,Streamworx Lda.,Bidswitch - CTV - 1st Price,400.47,,,47.11,0,0
+2025-07-01,Streamworx Lda.,Bidswitch - CTV - 1st Price,400.47,,,51.87,0,0
 2025-10-01,Metax,MetaX Paramount $10.11,397.91,,,,0,0
-2026-04-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price - Roku Device Targeting Only,396.36,,275.43,,0,0
+2026-04-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price - Roku Device Targeting Only,396.36,,276.34,,0,0
 2025-04-01,Adtheorent,Ad Theorent - APP Video 1st Price,396.2,,,,0,0
-2025-07-01,SmartyAds,SmartyAds - Web (Taboola),395.22,,,40.44,0,0
-2026-04-01,Epsilon (Conversant),Conversant - Web - Open Auction - Display,388.71,,220.02,,0,0
+2025-07-01,SmartyAds,SmartyAds - Web (Taboola),395.22,,,40.78,0,0
+2026-04-01,Epsilon (Conversant),Conversant - Web - Open Auction - Display,388.71,,230.56,,0,0
 2025-01-01,Walmart,TTD - MW [Display],377.51,,,,0,0
 2025-07-01,,2507 - MGMPLUS - INSTITUTE S1 PROMO - SERIES - MGMPHD363209,367.33,,,367.33,0,0
 2025-04-01,Beeswax,Beeswax - App - Open Auction,367.3,,,,0,0
 2025-04-01,StackAdapt,StackAdapt - APP - Open Auction,359.99,,,,0,0
-2026-04-01,Yahoo DSP,Verizon - CTV (Charter),359.44,,9.62,,0,0
+2026-04-01,Yahoo DSP,Verizon - CTV (Charter),359.44,,12.06,,0,0
 2026-04-01,Amazon DSP,Bidswitch - Seedtag,354.27,,354.27,,0,0
 2025-01-01,IQM,IQM - Display - Open Auction,351.72,,,,0,0
 2025-01-01,Bidswitch,Bidswitch - Desktop - 1st Price (HB),348.37,,,,0,0
 2026-04-01,,2604 - MGMPLUS - APRIL 2026 XCH - MGMP23440-13 - SERIES,345.49,,345.49,,0,0
 2025-01-01,LoopMe,LoopMe DSP Lottery Campaign copy (deal mimic),344.83,,,,0,0
-2025-07-01,Adtheorent,Ad Theorent - APP [Display],343.34,,,117.35,0,0
-2026-04-01,Seedtag POC,SEEDTAG (DON'T USE),341.24,,0.0,,0,0
+2025-07-01,Adtheorent,Ad Theorent - APP [Display],343.34,,,118.49,0,0
+2026-04-01,Seedtag POC,SEEDTAG (DON'T USE),341.24,,5.16,,0,0
 2025-04-01,Walmart,TTD - CTV (Charter),341.24,,,,0,0
-2025-07-01,Walmart,TTD - CTV (LG Ads Only),339.63,,,314.66,0,0
-2025-07-01,SmartyAds,SmartyAds - App (1st Price),332.0,,,37.14,0,0
+2025-07-01,Walmart,TTD - CTV (LG Ads Only),339.63,,,316.84,0,0
+2025-07-01,SmartyAds,SmartyAds - App (1st Price),332.0,,,37.36,0,0
 2025-10-01,DV360,Bidswitch - APP 1st Price,331.63,,,,0,0
 2025-04-01,Beeswax,Beeswax - CTV - Open Auction - Efficiency Monitoring,329.37,,,,0,0
 2025-10-01,SmartyAds,SmartyAds - Web [Display],328.63,,,,0,0
 2025-04-01,SmartyAds,SmartyAds - App [Display],328.05,,,,0,0
-2026-04-01,DV360,Bidswitch - Desktop [Display],322.46,,11.5,,0,0
+2026-04-01,DV360,Bidswitch - Desktop [Display],322.46,,11.72,,0,0
 2026-07-01,,IDVx Vizio $8 US,320.71,320.71,,,0,0
 2025-01-01,IQM,IQM - Web Video - Open Auction,318.95,,,,0,0
 2025-01-01,Samsung DSP,Bidswitch - CTV - 1st Price,314.76,,,,0,0
@@ -753,20 +753,20 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-07-01,StackAdapt,StackAdapt - Desktop - Open Auction,291.92,291.92,,,0,0
 2026-07-01,Viant,Viant - APP - 1st Price,290.94,290.94,,,0,0
 2025-01-01,DV360,Bidswitch - APP,288.97,,,,0,0
-2026-04-01,Epsilon (Conversant),Conversant - Web - Open Auction - Video,288.13,,65.21,,0,0
-2026-04-01,IQM,IQM - CTV - Open Auction,286.02,,104.01,,0,0
+2026-04-01,Epsilon (Conversant),Conversant - Web - Open Auction - Video,288.13,,75.41,,0,0
+2026-04-01,IQM,IQM - CTV - Open Auction,286.02,,106.16,,0,0
 2026-01-01,Madopi,Bidswitch - Seedtag,284.29,,,,0,0
 2025-10-01,,2512 - MGMPLUS - DECEMBER 2025 - ROBIN HOOD PP CRITICS PROMO - MGMPHD363339-01 - SERIES ,284.14,,,,0,0
 2025-10-01,,2510 - MGMPLUS - BTK - S3  - Dead or Alive Promo - MGMPHD363273 - PP - (MOVIES),281.38,,,,0,0
 2025-07-01,,2507 - MGMPLUS - INSTITUTE S1 PROMO - MOVIES - MGMPHD363209 ,280.3,,,280.3,0,0
 2026-01-01,SmartyAds,SmartyAds - CTV (Plex),279.23,,,,0,0
-2025-07-01,,2508 - MGMPLUS - AUG 2025 XCH - MGMP20323-10 - SERIES,278.72,,,81.46,0,0
+2025-07-01,,2508 - MGMPLUS - AUG 2025 XCH - MGMP20323-10 - SERIES,278.72,,,95.77,0,0
 2025-04-01,Samsung DSP,Bidswitch - CTV - 1st Price,278.48,,,,0,0
 2025-10-01,,2511 - MGMPLUS - NOVEMBER XCH - MGMP23418-13 (SERIES),278.13,,,,0,0
 2026-07-01,Viant,Viant - APP,277.67,277.67,,,0,0
-2026-04-01,StackAdapt,StackAdapt - APP - Open Auction,276.96,,77.6,,0,0
-2025-07-01,Adtelligent,Adtelligent - CTV (Fubo),276.13,,,38.83,0,0
-2025-07-01,DV360,Bidswitch - CTV - 1st Price (Bundle 151908),275.01,,,34.42,0,0
+2026-04-01,StackAdapt,StackAdapt - APP - Open Auction,276.96,,80.08,,0,0
+2025-07-01,Adtelligent,Adtelligent - CTV (Fubo),276.13,,,45.14,0,0
+2025-07-01,DV360,Bidswitch - CTV - 1st Price (Bundle 151908),275.01,,,39.26,0,0
 2026-01-01,IQM,IQM - CTV - Open Auction,273.32,,,,0,0
 2026-07-01,Amazon DSP,Bidswitch - APP 1st Price,271.31,271.31,,,0,0
 2025-01-01,TheTradeDesk,TTD - APP - 1st Price,260.71,,,,0,0
@@ -775,14 +775,14 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-01-01,DV360,Bidswitch - APP 1st Price,254.46,,,,0,0
 2025-10-01,,2512 - MGMPLUS - DECEMBER 2025 XCH - MGMP23419-11 - SERIES,253.18,,,,0,0
 2025-10-01,,2510 - MGMPLUS - BTK S3 - Dead or Alive Promo - PP - MGMPHD363273 - (SERIES),253.18,,,,0,0
-2026-04-01,SmartyAds,SmartyAds - CTV (Samsung),247.6,,178.37,,0,0
-2025-07-01,Adtheorent,Ad Theorent - APP Video 1st Price,247.25,,,129.01,0,0
+2026-04-01,SmartyAds,SmartyAds - CTV (Samsung),247.6,,179.17,,0,0
+2025-07-01,Adtheorent,Ad Theorent - APP Video 1st Price,247.25,,,129.54,0,0
 2026-07-01,TheTradeDesk,SEEDTAG (DON'T USE),246.18,246.18,,,0,0
 2026-07-01,DV360,Bidswitch - CTV (Charter),246.02,246.02,,,0,0
-2025-07-01,Zeta DSP,Bidswitch - CTV - 1st Price (Bundle 151908),244.65,,,64.4,0,0
+2025-07-01,Zeta DSP,Bidswitch - CTV - 1st Price (Bundle 151908),244.65,,,65.68,0,0
 2026-01-01,SmartyAds,SmartyAds - CTV (Paramount),244.1,,,,0,0
 2025-10-01,Zeta DSP,Bidswitch - CTV - 1st Price (Bundle 151908),243.0,,,,0,0
-2025-07-01,Basis Technologies,Basis - CTV - oRTB - (Canada),240.75,,,,0,0
+2025-07-01,Basis Technologies,Basis - CTV - oRTB - (Canada),240.75,,,0.68,0,0
 2026-01-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price (Hearst),238.91,,,,0,0
 2025-07-01,,2508 - MGMPLUS - INSTITUTE S1 PROMO - MGMPHD363209 - SERIES,238.0,,,,0,0
 2026-07-01,Basis Technologies,Basis - CTV - oRTB - (Canada),237.39,237.39,,,0,0
@@ -794,10 +794,10 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Walmart,TTD - MW [Display],229.78,,,,0,0
 2025-10-01,Amazon DSP,Bidswitch - Desktop - 1st Price (HB),228.06,,,,0,0
 2025-10-01,OnSpot Data,Bidswitch - Desktop - 1st Price (HB),227.99,,,,0,0
-2026-04-01,Walmart,TTD - APP,225.88,,77.27,,0,0
+2026-04-01,Walmart,TTD - APP,225.88,,80.73,,0,0
 2026-01-01,Krush Media,Krush Media Web Video,224.32,,,,0,0
 2025-04-01,SmartyAds,SmartyAds - Web Video,224.15,,,,0,0
-2026-04-01,DV360,Bidswitch - APP Display,224.08,,90.04,,0,0
+2026-04-01,DV360,Bidswitch - APP Display,224.08,,90.6,,0,0
 2025-01-01,StackAdapt,StackAdapt - APP - Open Auction,223.21,,,,0,0
 2025-01-01,DeepIntent,DeepIntent CTV OLV Demand,220.64,,,,0,0
 2026-07-01,Basis Technologies,Centro Display Web,218.1,218.1,,,0,0
@@ -810,18 +810,18 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-01-01,,2602 - MGMPLUS - FEB 2026 XCH - MGMP23430 - MOVIES,208.36,,,,0,0
 2026-01-01,IPONWEB BidCore,Bidswitch - CTV - 1st Price,207.85,,,,0,0
 2025-10-01,,2512 - MGMPLUS - DECEMBER 2025 XCH - MGMP23419-11 - MOVIES,206.72,,,,0,0
-2025-07-01,,2508 - MGMPLUS - AUG 2025 XCH - MGMP20323-10 - MOVIES,206.31,,,59.71,0,0
+2025-07-01,,2508 - MGMPLUS - AUG 2025 XCH - MGMP20323-10 - MOVIES,206.31,,,72.07,0,0
 2026-07-01,TheTradeDesk,TTD - CTV (UK) ,204.7,204.7,,,0,0
 2025-07-01,,2509 - MGMPLUS - BILLY THE KID S3 TRAILER Cutdown - MGMPHD363273 - SERIES,204.19,,,,0,0
 2026-07-01,OnSpot Data,Bidswitch - CTV - 1st Price,203.62,203.62,,,0,0
 2025-04-01,DV360,Bidswitch - CTV - 1st Price (Bundle 151908),202.43,,,,0,0
 2025-01-01,,2501-MGMPLUS - JAN 2025 XCH - MGMP2030015 - SERIES,202.35,,,,0,0
 2026-01-01,,0326 - MGMPLUS -  AMERICAN CLASSIC PROMO - MGMPHD363384 - MOVIES ,202.17,,,,0,0
-2025-07-01,DeepIntent,DeepIntent CTV OLV Demand,201.61,,,53.47,0,0
+2025-07-01,DeepIntent,DeepIntent CTV OLV Demand,201.61,,,55.76,0,0
 2025-07-01,StackAdapt,StackAdapt - APP - Open Auction,201.36,,,0.6,0,0
 2026-07-01,DV360,Bidswitch - MW [Display],200.27,200.27,,,0,0
 2025-10-01,Infillion,Bidswitch - Seedtag,200.17,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant AMC CTV (205656),200.17,,,127.86,0,0
+2025-07-01,Epsilon (Conversant),Conversant AMC CTV (205656),200.17,,,131.46,0,0
 2026-04-01,DV360,Bidswitch - CTV (Charter),199.31,,84.56,,0,0
 2025-10-01,StackAdapt,StackAdapt - APP - Open Auction,198.73,,,,0,0
 2026-07-01,,2607 - MGMPLUS - WESTIES - PROMO A - Pre-Premiere - MGMPHD363429 - SERIES,196.36,196.36,,,0,0
@@ -829,23 +829,23 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Infillion,Bidswitch - CTV - 1st Price (Bundle 151908),194.4,,,,0,0
 2026-01-01,Adtheorent,Ad Theorent - APP [Display],194.14,,,,0,0
 2025-01-01,Streamworx Lda.,Bidswitch - CTV - 1st Price,193.9,,,,0,0
-2025-07-01,Walmart,TTD - CTV (Charter),192.79,,,191.26,0,0
-2026-04-01,DeepIntent,DeepIntent CTV OLV Demand,192.75,,104.19,,0,0
+2025-07-01,Walmart,TTD - CTV (Charter),192.79,,,191.49,0,0
+2026-04-01,DeepIntent,DeepIntent CTV OLV Demand,192.75,,104.74,,0,0
 2026-04-01,,2606 - MGMPLUS - WESTIES - Pre-Premiere Promo A -  MGMPHD363429 - MOVIES,189.0,,,,0,0
-2026-04-01,Basis Technologies,Centro Video InApp,188.2,,108.76,,0,0
+2026-04-01,Basis Technologies,Centro Video InApp,188.2,,113.59,,0,0
 2025-01-01,MadHive,MadHive - APP - 1st Price,187.46,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Filmrise CTV (203765),184.23,,,105.21,0,0
-2025-07-01,SmartyAds,SmartyAds - CTV (LG),183.53,,,131.93,0,0
+2025-07-01,Epsilon (Conversant),Conversant Filmrise CTV (203765),184.23,,,107.94,0,0
+2025-07-01,SmartyAds,SmartyAds - CTV (LG),183.53,,,139.78,0,0
 2026-01-01,,0326 - MGMPLUS -  MARCH XCH - MGMP23433-13 - SERIES,183.12,,,,0,0
 2026-01-01,Basis Technologies,Centro Video InApp,182.99,,,,0,0
 2026-07-01,DV360,Bidswitch - APP Display,182.81,182.81,,,0,0
-2025-07-01,SmartyAds,SmartyAds - Web Video,182.46,,,52.35,0,0
-2026-04-01,,"2605 - MGMPLUS - MAY 2026 - FROM S4 PROMO ""Lullabies"" - MGMPHDD363412 - MOVIES",181.82,,60.87,,0,0
+2025-07-01,SmartyAds,SmartyAds - Web Video,182.46,,,52.6,0,0
+2026-04-01,,"2605 - MGMPLUS - MAY 2026 - FROM S4 PROMO ""Lullabies"" - MGMPHDD363412 - MOVIES",181.82,,68.59,,0,0
 2025-10-01,SmartyAds,SmartyAds - App (1st Price),180.76,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant AMC CTV (205656),179.85,,,,0,0
 2026-07-01,Adtheorent,Ad Theorent - Desktop/MW Display,176.71,176.71,,,0,0
 2026-07-01,TheTradeDesk,TTD - APP - 1st Price,175.66,175.66,,,0,0
-2025-07-01,Walmart,TTD - MW - 1st Price (HB),175.43,,,106.03,0,0
+2025-07-01,Walmart,TTD - MW - 1st Price (HB),175.43,,,111.23,0,0
 2026-01-01,,0326 - MGMPLUS -  MARCH XCH - MGMP23433-13 - MOVIES,173.87,,,,0,0
 2026-01-01,,2602 - MGMPLUS  - FEB XCH - MGMP23430-13 - SERIES,173.84,,,,0,0
 2026-07-01,Knorex,Bidswitch - CTV - 1st Price,168.47,168.47,,,0,0
@@ -865,7 +865,7 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,OnSpot Data,Bidswitch - APP 1st Price,156.62,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant Filmrise CTV (203765),156.3,,,,0,0
 2025-07-01,,2509 - MGMPLUS - SEPT 2025 XCH - MGMP20329-12 - SERIES,155.62,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Philo CTV (125613) (b07bkpfxtj),154.17,,,110.72,0,0
+2025-07-01,Epsilon (Conversant),Conversant Philo CTV (125613) (b07bkpfxtj),154.17,,,112.19,0,0
 2025-07-01,,2509 - MGMPLUS - SEPT 2025 XCH - MGMP20329-12 - MOVIES,152.27,,,,0,0
 2026-01-01,DV360,Bidswitch - CTV - 1st Price (Bundle 151908),150.88,,,,0,0
 2025-10-01,AdElement,Bidswitch - MW [Display],150.75,,,,0,0
@@ -887,14 +887,14 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-10-01,Quantcast,Bidswitch - Desktop - 1st Price (HB),137.13,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant Filmrise CTV (203765),134.41,,,,0,0
 2025-04-01,OnSpot Data,Bidswitch - APP,133.4,,,,0,0
-2026-04-01,SmartyAds,SmartyAds - CTV (Canada),131.29,,82.9,,0,0
+2026-04-01,SmartyAds,SmartyAds - CTV (Canada),131.29,,83.66,,0,0
 2025-01-01,Epsilon (Conversant),Conversant Xumo CTV (203761),130.95,,,,0,0
 2025-10-01,,2510 - MGMPLUS - OCTOBER XCH - MGMP20330-09 - (SERIES),130.32,,,,0,0
 2025-04-01,Walmart,TTD - CTV (LG Ads Only),128.79,,,,0,0
 2025-01-01,Unruly,Unruly Web 1st Price Video (Mobile Only),128.65,,,,0,0
 2025-04-01,SmartyAds,SmartyAds - Web (Taboola),126.36,,,,0,0
-2026-04-01,GroundTruth,GroundTruth Display,125.96,,52.98,,0,0
-2026-04-01,SmartyAds,SmartyAds - CTV (1st Price),125.43,,60.0,,0,0
+2026-04-01,GroundTruth,GroundTruth Display,125.96,,53.99,,0,0
+2026-04-01,SmartyAds,SmartyAds - CTV (1st Price),125.43,,61.31,,0,0
 2026-04-01,,2606 - MGMPLUS - WESTIES PRE-PREMIERE - Promo A - MGMPHD363429 - SERIES,123.92,,,,0,0
 2025-01-01,Amobee,Amobee - APP [Display],123.78,,,,0,0
 2026-04-01,,2606 - MGMPLUS - JUNE 2026 XCH - MGMP23455-13 - MOVIES,123.71,,,,0,0
@@ -909,12 +909,12 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-01-01,IPONWEB BidCore,Bidswitch - Desktop [Display],118.03,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant Philo CTV (202994),115.88,,,,0,0
 2025-04-01,IQM,IQM - Web Video - Open Auction,115.03,,,,0,0
-2025-07-01,AdElement,Bidswitch - MW [Display],115.0,,,,0,0
+2025-07-01,AdElement,Bidswitch - MW [Display],115.0,,,0.0,0,0
 2026-01-01,Adtheorent,Ad Theorent - APP Video 1st Price,114.21,,,,0,0
-2025-07-01,IQM,IQM - Web Video - Open Auction,113.12,,,47.04,0,0
-2026-04-01,SmartClip,Philips_SC_Spain,112.84,,40.58,,0,0
+2025-07-01,IQM,IQM - Web Video - Open Auction,113.12,,,48.43,0,0
+2026-04-01,SmartClip,Philips_SC_Spain,112.84,,41.33,,0,0
 2026-07-01,Viant,Viant - Desktop [Display],109.53,109.53,,,0,0
-2026-04-01,Walmart,TTD - Desktop - 1st Price (HB),109.27,,37.8,,0,0
+2026-04-01,Walmart,TTD - Desktop - 1st Price (HB),109.27,,40.77,,0,0
 2025-04-01,TheTradeDesk,TTD - APP - 1st Price,109.25,,,,0,0
 2026-04-01,,2604 - MGMPLUS - APRIL 2026 XCH - MGMP23440-13 - MOVIES,108.71,,108.71,,0,0
 2025-04-01,DeepIntent,DeepIntent Web/InApp Display,107.27,,,,0,0
@@ -927,7 +927,7 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-10-01,Infillion,Bidswitch - Desktop - 1st Price (HB),100.0,,,,0,0
 2025-10-01,Samsung DSP,Bidswitch - CTV - 1st Price,99.84,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant Philo CTV (125613) (b07bkpfxtj),98.98,,,,0,0
-2025-07-01,SimpliFi,SimpliFi - CTV - 1st Price (Glewed),98.55,,,44.97,0,0
+2025-07-01,SimpliFi,SimpliFi - CTV - 1st Price (Glewed),98.55,,,45.53,0,0
 2025-04-01,Epsilon (Conversant),Conversant Haystack CTV (204774),98.35,,,,0,0
 2026-01-01,SmartyAds,SmartyAds - CTV (LATAM),97.88,,,,0,0
 2025-04-01,Krush Media,Krush Media Web Display,97.57,,,,0,0
@@ -935,14 +935,14 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-07-01,,2507 - MGMPLUS - JULY XCH - MOVIES - MGMPHD20311-12,96.53,,,96.53,0,0
 2025-01-01,Epsilon (Conversant),Conversant Haystack CTV (204774),95.11,,,,0,0
 2025-10-01,Cepia,Zhu Zhu Pets City October 2025,91.79,,,,0,0
-2025-07-01,Knorex,Bidswitch - CTV - 1st Price,91.76,,,12.51,0,0
+2025-07-01,Knorex,Bidswitch - CTV - 1st Price,91.76,,,13.14,0,0
 2026-01-01,Metax,MetaX Paramount $10.11,91.06,,,,0,0
 2025-07-01,Amazon DSP,Bidswitch - APP,90.81,,,7.92,0,0
 2025-07-01,Knorex,Bidswitch - Seedtag,90.61,,,,0,0
 2025-10-01,Yahoo DSP,Verizon - CTV (Charter),88.87,,,,0,0
 2025-04-01,Streamworx Lda.,Bidswitch - CTV - 1st Price,88.68,,,,0,0
 2025-07-01,,2507 - MGMPLUS - JULY XCH - SERIES - MGMPHD20311-12,88.06,,,88.06,0,0
-2025-07-01,Epsilon (Conversant),Conversant Philo CTV (202994),87.1,,,53.19,0,0
+2025-07-01,Epsilon (Conversant),Conversant Philo CTV (202994),87.1,,,55.09,0,0
 2025-01-01,Zeta DSP,Bidswitch - CTV - 1st Price (Bundle 151908),86.35,,,,0,0
 2026-04-01,Madopi,Bidswitch - CTV - 1st Price,84.8,,0.05,,0,0
 2026-07-01,Octillion,Octillion - CTV - Open,84.74,84.74,,,0,0
@@ -952,17 +952,17 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Infillion,Bidswitch - APP 1st Price,81.75,,,,0,0
 2025-04-01,Adtelligent,Adtelligent - CTV (Fubo),80.84,,,,0,0
 2026-07-01,Beeswax,Beeswax UR Improvement Tier 3 (Low UR),80.63,80.63,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Newsy  CTV (204776),80.55,,,42.93,0,0
+2025-07-01,Epsilon (Conversant),Conversant Newsy  CTV (204776),80.55,,,44.85,0,0
 2026-04-01,,2604 - MGMPLUS - FROM S4 TRAILER - MGMPHD363410 - MOVIES,79.41,,79.41,,0,0
 2025-04-01,SmartyAds,SmartyAds - CTV (Vizio),79.19,,,,0,0
 2025-07-01,Cepia,Zhu Zhu Pets City,79.06,,,79.06,0,0
 2025-04-01,Cepia,Zhu Zhu Pets Animal City,77.74,,,,0,0
-2026-04-01,,IDVx Vizio $8 US,77.55,,,,0,0
+2026-04-01,,IDVx Vizio $8 US,77.55,,22.26,,0,0
 2025-10-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price (Hearst),77.21,,,,0,0
-2025-07-01,SmartyAds,SmartyAds - App [Display],76.95,,,51.41,0,0
+2025-07-01,SmartyAds,SmartyAds - App [Display],76.95,,,52.49,0,0
 2025-04-01,IPONWEB BidCore,Bidswitch - MW [Display],76.84,,,,0,0
 2026-01-01,Walmart,TTD - Desktop [Display],76.35,,,,0,0
-2025-07-01,DeepIntent,DeepIntent Web/InApp Display,76.21,,,40.84,0,0
+2025-07-01,DeepIntent,DeepIntent Web/InApp Display,76.21,,,42.61,0,0
 2025-04-01,Amobee,Amobee - APP [Display],74.35,,,,0,0
 2025-01-01,Knorex,Bidswitch - APP Display,72.33,,,,0,0
 2025-10-01,GroundTruth,GroundTruth Display,72.33,,,,0,0
@@ -972,9 +972,9 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-01-01,Yahoo DSP,Verizon - CTV (Charter),70.89,,,,0,0
 2025-01-01,Walmart,TTD - MW - 1st Price (HB),69.95,,,,0,0
 2026-07-01,Zeta DSP,Bidswitch - APP 1st Price,69.88,69.88,,,0,0
-2025-07-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price (Hearst),68.7,,,37.23,0,0
+2025-07-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price (Hearst),68.7,,,39.61,0,0
 2026-07-01,Amazon DSP,Bidswitch - Desktop - 1st Price (HB),68.5,68.5,,,0,0
-2025-07-01,Walmart,TTD - MW [Display],67.87,,,35.19,0,0
+2025-07-01,Walmart,TTD - MW [Display],67.87,,,36.23,0,0
 2025-01-01,Unruly,Unruly Web Display (Mobile Only),67.54,,,,0,0
 2025-01-01,Krush Media,Krush Media Web Display,67.53,,,,0,0
 2025-04-01,Yahoo DSP,Verizon - CTV (Charter),66.54,,,,0,0
@@ -986,7 +986,7 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-01-01,Epsilon (Conversant),Conversant - Web - Open Auction - Video,65.84,,,,0,0
 2026-07-01,Zeta DSP,Bidswitch - APP,65.09,65.09,,,0,0
 2025-10-01,SmartyAds,SmartyAds - Web [Display] (Allow List 9.7.21),64.36,,,,0,0
-2026-04-01,Marketing Architects -RTB,Marketing Architects - OTT,62.25,,9.94,,0,0
+2026-04-01,Marketing Architects -RTB,Marketing Architects - OTT,62.25,,10.18,,0,0
 2026-01-01,Infillion,Bidswitch - Seedtag,60.72,,,,0,0
 2025-01-01,Quantcast,Bidswitch - Seedtag,59.66,,,,0,0
 2025-07-01,Storygize,Storygize - MW (1st Price),59.48,,,59.48,0,0
@@ -994,42 +994,42 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Knorex,Bidswitch - CTV - 1st Price,58.77,,,,0,0
 2025-04-01,Zeta DSP,Bidswitch - CTV - 1st Price (Bundle 151908),58.01,,,,0,0
 2026-07-01,GroundTruth,Seedtag,57.47,57.47,,,0,0
-2025-07-01,GroundTruth,GroundTruth Display,57.25,,,23.3,0,0
+2025-07-01,GroundTruth,GroundTruth Display,57.25,,,23.34,0,0
 2025-04-01,SmartyAds,SmartyAds - CTV (Plex),57.03,,,,0,0
-2026-04-01,Krush Media,Krush Media Web Display,56.54,,39.78,,0,0
+2026-04-01,Krush Media,Krush Media Web Display,56.54,,40.56,,0,0
 2026-04-01,StackAdaptDSP,SEEDTAG (DON'T USE),55.75,,,,0,0
-2026-04-01,Samsung DSP,Bidswitch - CTV - 1st Price,55.73,,27.26,,0,0
-2025-07-01,IQM,IQM - CTV - Open Auction,55.66,,,20.62,0,0
+2026-04-01,Samsung DSP,Bidswitch - CTV - 1st Price,55.73,,27.31,,0,0
+2025-07-01,IQM,IQM - CTV - Open Auction,55.66,,,21.38,0,0
 2026-07-01,IQM,IQM - CTV - Open Auction,55.47,55.47,,,0,0
-2026-04-01,GroundTruth,GroundTruth Video CTV - Efficiency Monitoring,55.45,,6.21,,0,0
+2026-04-01,GroundTruth,GroundTruth Video CTV - Efficiency Monitoring,55.45,,6.49,,0,0
 2026-01-01,DV360,Bidswitch - MW [Display],54.76,,,,0,0
 2025-01-01,,TrueX FireTV Games ,54.4,,,,0,0
 2026-04-01,Streamworx Lda.,Bidswitch - CTV - 1st Price,54.21,,54.12,,0,0
 2025-01-01,Adtheorent,Ad Theorent - CTV (LQPS Audit),54.16,,,,0,0
 2025-01-01,MadHive,Madhive - Desktop,53.79,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Haystack CTV (204774),53.72,,,16.58,0,0
-2026-04-01,TheTradeDesk,TTD - APP - 1st Price,53.69,,9.38,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Newsy CTV (203803),53.5,,,28.75,0,0
-2026-04-01,Adtheorent,Ad Theorent - APP [Display],53.21,,37.64,,0,0
-2025-07-01,Webeye,Bidswitch - APP Display,52.93,,,22.26,0,0
-2026-04-01,Walmart,TTD - MW [Display],52.15,,25.85,,0,0
-2025-07-01,Amazon DSP,Bidswitch - Desktop - 1st Price (HB),51.63,,,0.35,0,0
+2025-07-01,Epsilon (Conversant),Conversant Haystack CTV (204774),53.72,,,17.4,0,0
+2026-04-01,TheTradeDesk,TTD - APP - 1st Price,53.69,,10.18,,0,0
+2025-07-01,Epsilon (Conversant),Conversant Newsy CTV (203803),53.5,,,30.59,0,0
+2026-04-01,Adtheorent,Ad Theorent - APP [Display],53.21,,38.92,,0,0
+2025-07-01,Webeye,Bidswitch - APP Display,52.93,,,22.42,0,0
+2026-04-01,Walmart,TTD - MW [Display],52.15,,26.03,,0,0
+2025-07-01,Amazon DSP,Bidswitch - Desktop - 1st Price (HB),51.63,,,0.36,0,0
 2025-01-01,Epsilon (Conversant),Conversant AMC CTV (205656) (G15147002586),51.4,,,,0,0
-2025-07-01,Yahoo DSP,Verizon - CTV (Charter),51.35,,,37.91,0,0
+2025-07-01,Yahoo DSP,Verizon - CTV (Charter),51.35,,,38.03,0,0
 2026-07-01,StackAdapt,StackAdapt - APP - Open Auction,50.69,50.69,,,0,0
 2025-04-01,Adtheorent,Ad Theorent - CTV (LQPS Audit),50.01,,,,0,0
 2026-07-01,Marketing Architects -RTB,Marketing Architects - OTT,49.88,49.88,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Newsy  CTV (204775),49.74,,,26.62,0,0
-2026-04-01,DeepIntent,DeepIntent Web/InApp Display,49.44,,0.92,,0,0
+2025-07-01,Epsilon (Conversant),Conversant Newsy  CTV (204775),49.74,,,28.12,0,0
+2026-04-01,DeepIntent,DeepIntent Web/InApp Display,49.44,,0.94,,0,0
 2025-01-01,Epsilon (Conversant),Conversant Philo CTV (125613) (b07bkpfxtj),49.35,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant Xumo CTV (203761),47.58,,,,0,0
 2026-07-01,SmartClip,Philips_SC_Spain,47.53,47.53,,,0,0
 2026-01-01,Walmart,TTD - MW [Display],46.7,,,,0,0
 2025-10-01,SimpliFi,SimpliFi - Seedtag,46.47,,,,0,0
 2025-07-01,,WINGSTOP LIGAMX FEMENIL_SEP_25,46.42,,,,0,0
-2026-04-01,Walmart,TTD - Desktop [Display],46.37,,30.21,,0,0
+2026-04-01,Walmart,TTD - Desktop [Display],46.37,,30.49,,0,0
 2026-07-01,Lemma DSP,Lemma DSP Inapp Video,46.18,46.18,,,0,0
-2025-07-01,SmartyAds,SmartyAds - CTV (Vizio),46.0,,,11.38,0,0
+2025-07-01,SmartyAds,SmartyAds - CTV (Vizio),46.0,,,11.41,0,0
 2025-10-01,Infillion,Bidswitch - CTV - 1st Price (Bundle 151908),45.3,,,,0,0
 2025-01-01,Walmart,TTD - CTV (LG Ads Only),45.15,,,,0,0
 2026-07-01,Yahoo DSP,Verizon - CTV (Charter),43.94,43.94,,,0,0
@@ -1045,20 +1045,20 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-10-01,DV360,Bidswitch - MW [Display],41.24,,,,0,0
 2026-07-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price - Roku Device Targeting Only,40.79,40.79,,,0,0
 2026-01-01,Knorex,Bidswitch - Seedtag,39.14,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Future Today CTV (225478),37.98,,,15.51,0,0
+2025-07-01,Epsilon (Conversant),Conversant Future Today CTV (225478),37.98,,,15.71,0,0
 2025-01-01,Epsilon (Conversant),Conversant Newsy  CTV (204775),37.36,,,,0,0
-2026-04-01,Walmart,TTD - MW - 1st Price (HB),37.17,,6.95,,0,0
+2026-04-01,Walmart,TTD - MW - 1st Price (HB),37.17,,7.49,,0,0
 2026-01-01,AdElement,Bidswitch - MW [Display],36.49,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant Future Today CTV (225478),36.39,,,,0,0
 2025-04-01,Amobee,Amobee - APP 1st Price,36.36,,,,0,0
 2025-01-01,Infillion,Bidswitch - Desktop [Display],35.5,,,,0,0
 2025-01-01,Walmart,TTD - Desktop - 1st Price (HB),35.3,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant AMC CTV (205656) (G15147002586),35.19,,,20.9,0,0
+2025-07-01,Epsilon (Conversant),Conversant AMC CTV (205656) (G15147002586),35.19,,,21.79,0,0
 2025-04-01,Infillion,Bidswitch - Desktop [Display],35.16,,,,0,0
 2025-04-01,Metax,MetaX Paramount $10.11,35.14,,,,0,0
 2025-04-01,Streamworx Lda.,Bidswitch - Seedtag,34.81,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant Future Today CTV (225478),34.35,,,,0,0
-2026-04-01,SmartyAds,SmartyAds - CTV (Paramount),34.29,,18.05,,0,0
+2026-04-01,SmartyAds,SmartyAds - CTV (Paramount),34.29,,18.23,,0,0
 2025-01-01,Epsilon (Conversant),Conversant Cheddar CTV (225831),34.01,,,,0,0
 2025-10-01,OnSpot Data,Bidswitch - CTV - 1st Price (Bundle 151908),33.27,,,,0,0
 2025-01-01,IPONWEB BidCore,Bidswitch - MW [Display],33.04,,,,0,0
@@ -1066,15 +1066,15 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Inspiritum,Bidswitch - MW [Display],31.1,,,,0,0
 2025-01-01,Beeswax,Beeswax - CTV - Open Auction (Charter Political),31.03,,,,0,0
 2026-07-01,SmartyAds,SmartyAds - CTV (Samsung),30.57,30.57,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Philo Android CTV (202995),30.4,,,17.7,0,0
+2025-07-01,Epsilon (Conversant),Conversant Philo Android CTV (202995),30.4,,,18.57,0,0
 2025-10-01,Adtheorent,Ad Theorent - Desktop Video (LQPS Audit),30.13,,,,0,0
 2025-10-01,IQM,IQM - Web Video - Open Auction,29.96,,,,0,0
 2026-01-01,Krush Media,Krush Media Web Display,29.96,,,,0,0
-2025-07-01,DV360,Bidswitch - APP Display,29.87,,,21.88,0,0
+2025-07-01,DV360,Bidswitch - APP Display,29.87,,,21.93,0,0
 2026-04-01,Madopi,Bidswitch - Seedtag,29.77,,29.77,,0,0
-2026-04-01,Metax,MetaX Paramount $10.11,29.48,,16.42,,0,0
-2026-04-01,Infillion,Bidswitch - APP 1st Price,29.36,,29.06,,0,0
-2025-07-01,Infillion,Bidswitch - Seedtag,29.34,,,8.22,0,0
+2026-04-01,Metax,MetaX Paramount $10.11,29.48,,16.49,,0,0
+2026-04-01,Infillion,Bidswitch - APP 1st Price,29.36,,29.07,,0,0
+2025-07-01,Infillion,Bidswitch - Seedtag,29.34,,,8.23,0,0
 2025-04-01,IPONWEB BidCore,Bidswitch - Desktop [Display],29.25,,,,0,0
 2026-01-01,Quantcast,Bidswitch - Desktop - 1st Price (HB),29.18,,,,0,0
 2025-01-01,OnSpot Data,Bidswitch - APP 1st Price,29.01,,,,0,0
@@ -1082,7 +1082,7 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-10-01,,FS_VD_WINGSTOP_LIGAMX_OCT25,28.45,,,,0,0
 2025-07-01,Infillion,Bidswitch - APP Display,27.79,,,0.44,0,0
 2025-01-01,Streamworx Lda.,Bidswitch - Desktop [Display],27.78,,,,0,0
-2025-07-01,Walmart,TTD - Desktop [Display],27.7,,,14.66,0,0
+2025-07-01,Walmart,TTD - Desktop [Display],27.7,,,15.13,0,0
 2025-01-01,Aceex,Aceex - (Samsung) CTV,27.61,,,,0,0
 2025-04-01,OMG,Zhu Zhu Pets Animal City,27.43,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant Newsy CTV (203803),27.12,,,,0,0
@@ -1096,7 +1096,7 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-01-01,IQM,IQM - Web Video - Open Auction,24.48,,,,0,0
 2025-10-01,SmartyAds,SmartyAds - CTV (Vizio),24.44,,,,0,0
 2026-07-01,Walmart,TTD - Desktop - 1st Price (HB),24.28,24.28,,,0,0
-2026-04-01,Krush Media,Krush Media Web Video,24.17,,20.48,,0,0
+2026-04-01,Krush Media,Krush Media Web Video,24.17,,20.55,,0,0
 2025-01-01,IQM,IQM - CTV - Open Auction,24.02,,,,0,0
 2025-01-01,Knorex,Bidswitch - Desktop [Display],22.99,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant Philo Android CTV (202995),22.96,,,,0,0
@@ -1109,7 +1109,7 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-01-01,OnSpot Data,Bidswitch - APP 1st Price,21.22,,,,0,0
 2025-10-01,Cepia,Mighty Wheels November 2025,21.08,,,,0,0
 2026-01-01,Infillion,Bidswitch - APP,21.06,,,,0,0
-2025-07-01,,0,20.94,,,7.09,0,0
+2025-07-01,,0,20.94,,,7.26,0,0
 2025-07-01,Infillion,Bidswitch - Desktop - 1st Price (HB),20.82,,,0.36,0,0
 2025-10-01,Cepia,Mighty Wheels October 2025,20.79,,,,0,0
 2025-04-01,The Media Sense,The Media Sense DSP CTV Ads Direct,20.72,,,,0,0
@@ -1117,25 +1117,25 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-04-01,DV360,Bidswitch - MW [Display],20.55,,3.01,,0,0
 2026-07-01,,2608 - WESTIES Critics Promo - AUG 2026 - MGMPHD363486 - MOVIES,20.39,20.39,,,0,0
 2026-07-01,Epsilon (Conversant),Conversant - Web - Open Auction - Display,20.08,20.08,,,0,0
-2026-04-01,SmartyAds,SmartyAds - CTV (LATAM),18.98,,3.33,,0,0
+2026-04-01,SmartyAds,SmartyAds - CTV (LATAM),18.98,,3.38,,0,0
 2025-10-01,Cepia,Mighty Wheels December 2025,18.88,,,,0,0
-2025-07-01,MadHive,Madhive - Desktop,18.75,,,15.66,0,0
+2025-07-01,MadHive,Madhive - Desktop,18.75,,,15.83,0,0
 2026-01-01,Webeye,Bidswitch - APP Display,18.65,,,,0,0
 2026-07-01,Walmart,TTD - MW - 1st Price (HB),18.61,18.61,,,0,0
 2026-01-01,GroundTruth,GroundTruth Video CTV - Efficiency Monitoring,18.46,,,,0,0
 2026-07-01,DV360,Bidswitch - CTV (AMC),18.4,18.4,,,0,0
 2026-01-01,OnSpot Data,Bidswitch - APP,18.39,,,,0,0
 2025-10-01,Amazon DSP,Bidswitch - APP,18.34,,,,0,0
-2025-07-01,IQM,IQM - Display - Open Auction,18.32,,,7.26,0,0
+2025-07-01,IQM,IQM - Display - Open Auction,18.32,,,7.4,0,0
 2025-01-01,Sharethrough,Sharethrough CTV Video,18.17,,,,0,0
-2026-04-01,SmartyAds,SmartyAds - CTV (Streaming Apps),18.05,,11.22,,0,0
+2026-04-01,SmartyAds,SmartyAds - CTV (Streaming Apps),18.05,,11.26,,0,0
 2025-10-01,Walmart,TTD - Desktop [Display],18.01,,,,0,0
 2025-07-01,Infillion,Bidswitch - MW - 1st Price (HB),17.96,,,3.14,0,0
-2025-07-01,Epsilon (Conversant),Conversant Xumo CTV (203761),17.91,,,5.89,0,0
+2025-07-01,Epsilon (Conversant),Conversant Xumo CTV (203761),17.91,,,6.32,0,0
 2025-07-01,Bidswitch,Bidswitch - CTV - 1st Price,17.9,,,0.0,0,0
 2025-01-01,Amazon DSP,Bidswitch - Desktop - 1st Price (HB),17.67,,,,0,0
 2026-07-01,SmartyAds,SmartyAds - CTV (Paramount),17.64,17.64,,,0,0
-2025-07-01,OnSpot Data,Bidswitch - CTV - 1st Price (Bundle 151908),17.49,,,0.9,0,0
+2025-07-01,OnSpot Data,Bidswitch - CTV - 1st Price (Bundle 151908),17.49,,,0.96,0,0
 2025-01-01,Epsilon (Conversant),Conversant Future Today CTV (225474),17.03,,,,0,0
 2025-01-01,Streamworx Lda.,Bidswitch - MW [Display],16.88,,,,0,0
 2026-01-01,GroundTruth,GroundTruth Display,16.86,,,,0,0
@@ -1143,13 +1143,13 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Amazon DSP,Bidswitch - Desktop - 1st Price (HB),15.92,,,,0,0
 2026-04-01,Knorex,Bidswitch - Seedtag,15.52,,15.52,,0,0
 2026-07-01,Equativ,Seedtag,15.47,15.47,,,0,0
-2025-07-01,MadHive,MadHive - APP - 1st Price,15.39,,,10.91,0,0
+2025-07-01,MadHive,MadHive - APP - 1st Price,15.39,,,11.32,0,0
 2025-04-01,Epsilon (Conversant),Conversant Future Today CTV (225474),15.2,,,,0,0
 2026-04-01,AdElement,Bidswitch - Desktop [Display],15.02,,2.17,,0,0
 2025-10-01,SmartyAds,SmartyAds - CTV (LG),14.69,,,,0,0
 2026-04-01,DV360,Bidswitch - CTV (AMC),14.66,,0.91,,0,0
 2025-07-01,OnSpot Data,Bidswitch - Desktop [Display],14.65,,,2.74,0,0
-2025-07-01,SmartyAds,SmartyAds - CTV (Fubo),14.64,,,9.27,0,0
+2025-07-01,SmartyAds,SmartyAds - CTV (Fubo),14.64,,,9.38,0,0
 2025-10-01,Bidswitch,Bidswitch - CTV - 1st Price,14.51,,,,0,0
 2025-10-01,Samsung DSP,Bidswitch - CTV - 1st Price (Bundle 151908),14.25,,,,0,0
 2025-07-01,Viant,AOD Deal - Viant - Cannabis Allowed ,14.18,,,14.18,0,0
@@ -1159,8 +1159,8 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-01-01,Yahoo DSP,Verizon - CTV (Charter),13.61,,,,0,0
 2025-01-01,Amazon DSP,Bidswitch - Seedtag,13.59,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant Newsy CTV (202814),13.57,,,,0,0
-2026-01-01,Walmart,TTD - Desktop - 1st Price (HB),13.22,,,,0,0
 2026-01-01,SmartClip,Philips_SC_Spain,13.22,,,,0,0
+2026-01-01,Walmart,TTD - Desktop - 1st Price (HB),13.22,,,,0,0
 2026-07-01,Walmart,TTD - Desktop [Display],13.15,13.15,,,0,0
 2025-07-01,Inspiritum,Bidswitch - MW [Display],13.01,,,7.4,0,0
 2025-10-01,DV360,Bidswitch - APP Display,12.97,,,,0,0
@@ -1170,37 +1170,37 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-04-01,OnSpot Data,Bidswitch - APP 1st Price,12.54,,12.05,,0,0
 2025-01-01,IPONWEB BidCore,Bidswitch - APP Display,12.2,,,,0,0
 2026-07-01,Metax,MetaX A&amp;E Networks $16,12.2,12.2,,,0,0
-2025-07-01,Samsung DSP,Bidswitch - CTV - 1st Price (Bundle 151908),12.19,,,3.02,0,0
+2025-07-01,Samsung DSP,Bidswitch - CTV - 1st Price (Bundle 151908),12.19,,,3.34,0,0
 2025-04-01,Stirista,Stirista - Open Auction - OLV (InApp),12.19,,,,0,0
 2025-10-01,Webeye,Bidswitch - APP Display,12.11,,,,0,0
 2025-04-01,Knorex,Bidswitch - APP Display,12.09,,,,0,0
 2025-01-01,MadHive,Madhive - MW,11.95,,,,0,0
 2025-01-01,Quantcast,Bidswitch - MW - 1st Price (HB),11.9,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant Happy Kids CTV (223878) (Bundle ID 32614),11.9,,,,0,0
-2025-07-01,DV360,Bidswitch - APP,11.87,,,9.66,0,0
-2026-04-01,Krush Media,Krush Media Video - CTV Direct (700),11.86,,7.33,,0,0
+2025-07-01,DV360,Bidswitch - APP,11.87,,,9.73,0,0
+2026-04-01,Krush Media,Krush Media Video - CTV Direct (700),11.86,,7.35,,0,0
 2026-04-01,AdIngenious,Bidswitch - APP Display,11.72,,,,0,0
-2025-07-01,TheTradeDesk,TTD - APP - 1st Price,11.66,,,2.96,0,0
+2025-07-01,TheTradeDesk,TTD - APP - 1st Price,11.66,,,3.05,0,0
 2025-04-01,Epsilon (Conversant),Conversant Newsy CTV (202814),11.58,,,,0,0
 2025-04-01,MadHive,MadHive - APP - 1st Price,11.49,,,,0,0
 2025-04-01,Knorex,Bidswitch - Desktop [Display],11.42,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Newsy CTV (202814),11.38,,,5.07,0,0
+2025-07-01,Epsilon (Conversant),Conversant Newsy CTV (202814),11.38,,,5.26,0,0
 2025-07-01,Cepia,Mighty Wheels August 2025,11.36,,,,0,0
 2025-10-01,Krush Media,Krush Media Web Display,11.24,,,,0,0
 2025-01-01,Lowbrow Customs,LowBrow_30Sec_#1,11.22,,,,0,0
-2025-07-01,Infillion,Bidswitch - APP,11.2,,,0.51,0,0
+2025-07-01,Infillion,Bidswitch - APP,11.2,,,0.53,0,0
 2025-04-01,Epsilon (Conversant),Conversant Future Today CTV (225473),11.12,,,,0,0
 2025-04-01,DV360,Bidswitch - CTV (AMC),11.1,,,,0,0
-2026-04-01,IQM,IQM - Web Video - Open Auction,11.05,,7.79,,0,0
+2026-04-01,IQM,IQM - Web Video - Open Auction,11.05,,7.86,,0,0
 2025-01-01,,0,10.99,,,,0,0
 2025-10-01,DV360,Bidswitch - APP,10.81,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Future Today CTV (225474),10.73,,,4.96,0,0
+2025-07-01,Epsilon (Conversant),Conversant Future Today CTV (225474),10.73,,,5.21,0,0
 2025-10-01,Infillion,Bidswitch - APP 1st Price,10.71,,,,0,0
-2026-04-01,Metax,MetaX A&amp;E Networks $16,10.65,,0.61,,0,0
+2026-04-01,Metax,MetaX A&amp;E Networks $16,10.65,,0.63,,0,0
 2025-01-01,Adtheorent,Ad Theorent - MW (LQPS Audit),10.48,,,,0,0
 2025-07-01,Cepia,Mighty Wheels September 2025,10.45,,,,0,0
 2026-04-01,GroundTruth,SEEDTAG (DON'T USE),10.41,,,,0,0
-2026-04-01,OnSpot Data,Bidswitch - APP,10.37,,9.95,,0,0
+2026-04-01,OnSpot Data,Bidswitch - APP,10.37,,9.96,,0,0
 2026-04-01,AdElement,Bidswitch - MW [Display],10.33,,0.5,,0,0
 2025-04-01,IQM,IQM - Display - Open Auction,10.27,,,,0,0
 2026-07-01,Equative,Equative CTV Video (copy),10.23,10.23,,,0,0
@@ -1216,8 +1216,8 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-07-01,GroundTruth,GroundTruth Video CTV - Efficiency Monitoring,8.94,8.94,,,0,0
 2026-04-01,Equative,Equative CTV Main,8.73,,,,0,0
 2026-07-01,SmartyAds,SmartyAds - CTV (Canada),8.71,8.71,,,0,0
-2026-04-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price (Hearst),8.55,,8.55,,0,0
 2025-07-01,Cepia,Mighty Wheels September 2025 Dub01,8.55,,,,0,0
+2026-04-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price (Hearst),8.55,,8.55,,0,0
 2025-10-01,Infillion,Bidswitch - APP,8.5,,,,0,0
 2025-01-01,Bidswitch,Bidswitch - Seedtag,8.44,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant NBC CTV (203766),8.22,,,,0,0
@@ -1227,25 +1227,24 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-01-01,Unruly,Unruly Web 1st Price Video (Desktop Only),7.67,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant Happy Kids CTV (223878) (Bundle ID 32614),7.66,,,,0,0
 2026-07-01,SmartyAds,SmartyAds - CTV (Streaming Apps),7.64,7.64,,,0,0
-2025-07-01,DV360,Bidswitch - CTV (AMC),7.52,,,1.13,0,0
+2025-07-01,DV360,Bidswitch - CTV (AMC),7.52,,,1.25,0,0
 2025-01-01,,2412-MGMPLUS-DEC 2024 XCH - MGMP20292-15 (SERIES),7.52,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Future Today CTV (225473),7.43,,,3.79,0,0
+2025-07-01,Epsilon (Conversant),Conversant Future Today CTV (225473),7.43,,,3.87,0,0
 2025-01-01,SmartyAds,SmartyAds - CTV (Indirect),7.43,,,,0,0
 2025-10-01,,2509 - MGMPLUS - BILLY THE KID S3 TRAILER Cutdown - MGMPHD363273 - SERIES,7.39,,,,0,0
-2025-01-01,Aroscop,Bidswitch - APP Display,7.39,,,,0,0
-2026-04-01,Zeasn,Philips Zeasn,7.33,,4.94,,0,0
+2026-04-01,Zeasn,Philips Zeasn,7.33,,5.15,,0,0
 2025-01-01,Infillion,Bidswitch - APP Display,7.3,,,,0,0
 2026-07-01,Knorex,Bidswitch - CTV (Charter),7.22,7.22,,,0,0
-2025-07-01,Quantcast,Bidswitch - Desktop - 1st Price (HB),7.2,,,1.65,0,0
+2025-07-01,Quantcast,Bidswitch - Desktop - 1st Price (HB),7.2,,,1.67,0,0
 2026-01-01,OnSpot Data,Bidswitch - CTV - 1st Price (Bundle 151908),7.16,,,,0,0
 2025-04-01,Adtheorent,Ad Theorent - MW (LQPS Audit),7.11,,,,0,0
-2025-07-01,,LEAP McDonalds (2026),7.06,,,5.8,0,0
+2025-07-01,,LEAP McDonalds (2026),7.06,,,6.0,0,0
 2026-07-01,SmartyAds,SmartyAds - CTV (LATAM),6.78,6.78,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant Cheddar CTV (225831),6.69,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant Future Today CTV (225391),6.67,,,,0,0
 2025-04-01,Infillion,Bidswitch - MW [Display],6.39,,,,0,0
-2025-07-01,Krush Media,Krush Media Web Display,6.2,,,3.13,0,0
-2025-07-01,Quantcast,Bidswitch - Desktop [Display],6.2,,,4.66,0,0
+2025-07-01,Krush Media,Krush Media Web Display,6.2,,,3.24,0,0
+2025-07-01,Quantcast,Bidswitch - Desktop [Display],6.2,,,4.83,0,0
 2026-07-01,,2606 - MGMPLUS - WESTIES PRE-PREMIERE - Promo A - MGMPHD363429 - SERIES,6.18,6.18,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant Outside CTV (203821),6.1,,,,0,0
 2025-10-01,OnSpot Data,Bidswitch - APP,6.08,,,,0,0
@@ -1257,8 +1256,8 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-07-01,Zeta DSP,Bidswitch - Desktop - 1st Price (HB),5.91,5.91,,,0,0
 2026-07-01,Streamworx Lda.,Bidswitch - CTV - 1st Price,5.86,5.86,,,0,0
 2025-07-01,IPONWEB BidCore,Bidswitch - MW - 1st Price (HB),5.8,,,3.95,0,0
-2025-04-01,Walmart,TTD - Seedtag - Pub ID Swap Test,5.75,,,,0,0
 2026-01-01,DeepIntent,DeepIntent Web/InApp Display,5.75,,,,0,0
+2025-04-01,Walmart,TTD - Seedtag - Pub ID Swap Test,5.75,,,,0,0
 2025-10-01,Streamworx Lda.,Bidswitch - CTV - 1st Price (Bundle 151908),5.72,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant Outside CTV (203821),5.6,,,,0,0
 2025-10-01,SmartyAds,SmartyAds - App [Display],5.55,,,,0,0
@@ -1266,19 +1265,20 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-01-01,Lemma DSP,Lemma DSP CTV Ad (COPPA),5.2,,,,0,0
 2026-04-01,Infillion,Bidswitch - APP Display,5.14,,1.53,,0,0
 2025-07-01,IPONWEB BidCore,Bidswitch - MW [Display],5.12,,,3.19,0,0
-2025-07-01,MadHive,Madhive - MW,5.1,,,3.99,0,0
+2025-07-01,MadHive,Madhive - MW,5.1,,,4.09,0,0
 2026-01-01,OnSpot Data,Bidswitch - Desktop [Display],5.09,,,,0,0
 2026-04-01,Knorex,Bidswitch - CTV (Charter),5.09,,2.05,,0,0
 2025-04-01,Adtheorent,Ad Theorent - APP Video (LQPS Audit),5.09,,,,0,0
+2026-04-01,Knorex,Bidswitch - CTV (Charter),5.09,,2.05,,0,0
 2026-01-01,,2512 - MGMPLUS - DECEMBER 2025 - ROBIN HOOD PP CRITICS PROMO - MGMPHD363339-01 - SERIES ,5.04,,,,0,0
 2026-04-01,DV360,Bidswitch - Desktop - 1st Price (HB),4.89,,4.3,,0,0
-2025-07-01,Infillion,Bidswitch - CTV - 1st Price (Bundle 151908),4.82,,,2.2,0,0
+2025-07-01,Infillion,Bidswitch - CTV - 1st Price (Bundle 151908),4.82,,,2.21,0,0
 2025-04-01,Infillion,Bidswitch - Seedtag,4.79,,,,0,0
 2025-07-01,OMG,Zombies 4  Day and Date Afternoon (Urgency),4.65,,,4.65,0,0
 2026-07-01,OnSpot Data,Bidswitch - APP 1st Price,4.61,4.61,,,0,0
 2025-01-01,Stirista,Stirista - Open Auction - OLV (InApp),4.51,,,,0,0
 2025-04-01,Quantcast,Bidswitch - Desktop [Display],4.46,,,,0,0
-2025-07-01,IQM,IQM - In-App Video - Open Auction,4.45,,,1.52,0,0
+2025-07-01,IQM,IQM - In-App Video - Open Auction,4.45,,,1.61,0,0
 2025-01-01,Beeswax,Beeswax Deal - Desktop/MW,4.41,,,,0,0
 2025-04-01,Quantcast,Bidswitch - APP Display,4.4,,,,0,0
 2025-07-01,OMG,Zhu Zhu Pets City,4.35,,,4.35,0,0
@@ -1286,14 +1286,14 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-10-01,,LEAP McDonalds (2026),4.31,,,,0,0
 2025-04-01,OnSpot Data,Bidswitch - Desktop [Display],4.3,,,,0,0
 2025-04-01,Knorex,Bidswitch - Seedtag,4.27,,,,0,0
-2025-07-01,Adtheorent,Ad Theorent - Desktop Video (LQPS Audit),4.26,,,1.15,0,0
+2025-07-01,Adtheorent,Ad Theorent - Desktop Video (LQPS Audit),4.26,,,1.17,0,0
 2025-10-01,OnSpot Data,Bidswitch - Seedtag,4.24,,,,0,0
 2025-01-01,DV360,Bidswitch - CTV (AMC),4.23,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Happy Kids CTV (223878) (Bundle ID 32614),4.19,,,1.78,0,0
+2025-07-01,Epsilon (Conversant),Conversant Happy Kids CTV (223878) (Bundle ID 32614),4.19,,,1.87,0,0
 2025-10-01,Infillion,Bidswitch - APP Display,4.17,,,,0,0
 2025-07-01,Knorex,Bidswitch - APP 1st Price,4.17,,,,0,0
 2026-07-01,Infillion,Bidswitch - Desktop - 1st Price (HB),4.17,4.17,,,0,0
-2026-04-01,OnSpot Data,Bidswitch - Desktop [Display],4.15,,1.8,,0,0
+2026-04-01,OnSpot Data,Bidswitch - Desktop [Display],4.15,,1.85,,0,0
 2025-04-01,Epsilon (Conversant),Conversant Future Today CTV (225477),4.15,,,,0,0
 2025-10-01,Metax,MetaX A&amp;E Networks $16,3.94,,,,0,0
 2026-07-01,RtbHouse,Seedtag,3.92,3.92,,,0,0
@@ -1310,13 +1310,13 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-01-01,DV360,Bidswitch - APP Display,3.5,,,,0,0
 2025-04-01,Basis Technologies,Centro Video InApp,3.44,,,,0,0
 2026-01-01,AdElement,Bidswitch - Desktop [Display],3.43,,,,0,0
-2026-04-01,Knorex,Bidswitch - APP Display,3.4,,1.76,,0,0
-2026-04-01,OnSpot Data,Bidswitch - APP Display,3.38,,0.89,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Outside CTV (203821),3.38,,,1.47,0,0
+2026-04-01,Knorex,Bidswitch - APP Display,3.4,,1.77,,0,0
+2026-04-01,OnSpot Data,Bidswitch - APP Display,3.38,,0.9,,0,0
+2025-07-01,Epsilon (Conversant),Conversant Outside CTV (203821),3.38,,,1.64,0,0
 2026-07-01,ZetaBidswitch,Seedtag,3.38,3.38,,,0,0
-2025-01-01,Basis Technologies,Centro Video InApp,3.36,,,,0,0
 2026-04-01,Zeta DSP,Bidswitch - MW [Display],3.36,,0.0,,0,0
-2025-07-01,Infillion,Bidswitch - Desktop [Display],3.3,,,0.88,0,0
+2025-01-01,Basis Technologies,Centro Video InApp,3.36,,,,0,0
+2025-07-01,Infillion,Bidswitch - Desktop [Display],3.3,,,0.9,0,0
 2025-10-01,,F0044470 FFC ESPECIAL SABADO 15,3.26,,,,0,0
 2025-04-01,Infillion,Bidswitch - CTV (Charter),3.14,,,,0,0
 2026-07-01,IQM,IQM - Web Video - Open Auction,3.12,3.12,,,0,0
@@ -1325,8 +1325,8 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Infillion,Bidswitch - MW - 1st Price (HB),3.03,,,,0,0
 2025-07-01,OMG,Zhu Zhu Pets Animal City,3.03,,,3.03,0,0
 2025-01-01,Zeta DSP,Bidswitch - CTV (AMC),3.02,,,,0,0
-2025-07-01,Epsilon (Conversant),Conversant Future Today CTV (225391),3.01,,,1.63,0,0
-2025-07-01,Quantcast,Bidswitch - MW [Display],3.0,,,2.76,0,0
+2025-07-01,Epsilon (Conversant),Conversant Future Today CTV (225391),3.01,,,1.68,0,0
+2025-07-01,Quantcast,Bidswitch - MW [Display],3.0,,,2.78,0,0
 2025-10-01,OnSpot Data,Bidswitch - Desktop [Display],2.98,,,,0,0
 2025-10-01,IPONWEB BidCore,Bidswitch - Seedtag,2.98,,,,0,0
 2026-07-01,GroundTruth,GroundTruth Display,2.97,2.97,,,0,0
@@ -1345,15 +1345,15 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-01-01,Walmart,TTD - MW - 1st Price (HB),2.66,,,,0,0
 2025-10-01,IQM,IQM - Display - Open Auction,2.62,,,,0,0
 2025-01-01,,LEAP McDonalds (2026),2.62,,,,0,0
-2026-04-01,IQM,IQM - Display - Open Auction,2.59,,1.21,,0,0
+2026-04-01,IQM,IQM - Display - Open Auction,2.59,,1.23,,0,0
 2026-01-01,SmartyAds,SmartyAds - CTV (LG),2.59,,,,0,0
 2025-04-01,Infillion,Bidswitch - Desktop - 1st Price (HB),2.56,,,,0,0
 2025-07-01,IPONWEB BidCore,Bidswitch - APP Display,2.54,,,2.51,0,0
 2025-04-01,Quantcast,Bidswitch - Desktop - 1st Price (HB),2.53,,,,0,0
 2026-01-01,DV360,Bidswitch - APP,2.5,,,,0,0
 2025-04-01,Knorex,Bidswitch - MW [Display],2.5,,,,0,0
-2025-01-01,Bidswitch,Bidswitch - APP Display,2.48,,,,0,0
 2025-07-01,OMG,Zombies 4 Now Available Afternoon (Urgency),2.48,,,2.48,0,0
+2025-01-01,Bidswitch,Bidswitch - APP Display,2.48,,,,0,0
 2025-01-01,Streamworx Lda.,Bidswitch - MW - 1st Price (HB),2.47,,,,0,0
 2026-01-01,Knorex,Bidswitch - APP Display,2.46,,,,0,0
 2025-07-01,IPONWEB BidCore,Bidswitch - Desktop - 1st Price (HB),2.42,,,0.04,0,0
@@ -1366,14 +1366,14 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Streamworx Lda.,Bidswitch - Desktop [Display],2.14,,,,0,0
 2026-07-01,OnSpot Data,Bidswitch - CTV (Charter),2.13,2.13,,,0,0
 2026-04-01,Amazon DSP,Bidswitch - APP,2.11,,0.74,,0,0
-2025-07-01,Epsilon (Conversant),Conversant OutsideTV CTV (204777),2.1,,,0.82,0,0
+2025-07-01,Epsilon (Conversant),Conversant OutsideTV CTV (204777),2.1,,,0.84,0,0
 2025-04-01,Amazon DSP,Bidswitch - Desktop [Display],2.08,,,,0,0
 2025-01-01,Quantcast,Bidswitch - MW [Display],2.06,,,,0,0
 2025-10-01,,2509 - MGMPLUS - BILLY THE KID S3 TRAILER Cutdown - MGMPHD363273 (MOVIES),2.06,,,,0,0
 2026-04-01,,0326 - MGMPLUS -  AMERICAN CLASSIC PROMO - MGMPHD363384 - MOVIES ,2.06,,2.06,,0,0
 2026-07-01,OnSpot Data,Bidswitch - APP Display,2.03,2.03,,,0,0
 2025-04-01,Beeswax,Beeswax - CTV - Open Auction (Charter Political),2.01,,,,0,0
-2025-07-01,Infillion,Bidswitch - MW [Display],2.0,,,0.06,0,0
+2025-07-01,Infillion,Bidswitch - MW [Display],2.0,,,0.08,0,0
 2025-01-01,Bidswitch,Bidswitch - CTV - 1st Price,1.98,,,,0,0
 2026-01-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price - Roku Device Targeting Only,1.96,,,,0,0
 2026-07-01,Adtheorent,Ad Theorent - Desktop Video (LQPS Audit),1.95,1.95,,,0,0
@@ -1394,14 +1394,15 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-01-01,Media Pulse,Media Pulse - CTV (Samsung $15),1.61,,,,0,0
 2025-01-01,IPONWEB BidCore,Bidswitch - CTV - 1st Price,1.61,,,,0,0
 2025-10-01,Knorex,Bidswitch - CTV - 1st Price (Bundle 151908),1.58,,,,0,0
-2025-07-01,Marketing Architects -RTB,Marketing Architects - PlayerWON,1.54,,,1.21,0,0
-2026-04-01,Lemma DSP,Lemma DSP CTV Ad (COPPA),1.53,,0.03,,0,0
+2025-07-01,Marketing Architects -RTB,Marketing Architects - PlayerWON,1.54,,,1.26,0,0
+2026-04-01,Lemma DSP,Lemma DSP CTV Ad (COPPA),1.53,,0.04,,0,0
 2025-01-01,OnSpot Data,Bidswitch - CTV - 1st Price (Bundle 151908),1.52,,,,0,0
 2026-07-01,Infillion,Bidswitch - APP 1st Price,1.52,1.52,,,0,0
 2026-04-01,Bidswitch,SEEDTAG (DON'T USE),1.52,,,,0,0
 2026-01-01,AdIngenious,Bidswitch - APP Display,1.52,,,,0,0
 2026-07-01,DV360,Bidswitch - Desktop - 1st Price (HB),1.48,1.48,,,0,0
 2025-01-01,Marketing Architects -RTB,Marketing Architects - PlayerWON,1.48,,,,0,0
+2025-01-01,GroundTruth,Groundtruth Video In-App,1.46,,,,0,0
 2025-10-01,Walmart,TTD - CTV (LG Ads Only),1.46,,,,0,0
 2025-01-01,GroundTruth,Groundtruth Video In-App,1.46,,,,0,0
 2025-07-01,OnSpot Data,Bidswitch - Desktop - 1st Price (HB),1.45,,,0.01,0,0
@@ -1416,7 +1417,7 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,SmartyAds,SmartyAds - CTV (Fubo),1.33,,,,0,0
 2026-01-01,Stirista,Stirista - MW [Display],1.33,,,,0,0
 2025-10-01,IPONWEB BidCore,Bidswitch - APP 1st Price,1.32,,,,0,0
-2025-07-01,OnSpot Data,Bidswitch - Seedtag,1.31,,,0.04,0,0
+2025-07-01,OnSpot Data,Bidswitch - Seedtag,1.31,,,0.05,0,0
 2025-04-01,Quantcast,Bidswitch - MW [Display],1.3,,,,0,0
 2026-01-01,IQM,IQM - In-App Video - Open Auction,1.24,,,,0,0
 2026-07-01,Epsilon (Conversant),Conversant - CTV - Open Auction (Charter),1.23,1.23,,,0,0
@@ -1429,15 +1430,15 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-07-01,IPONWEB BidCore,Bidswitch - CTV (Charter),1.1,,,0.03,0,0
 2026-04-01,Zeta DSP,Bidswitch - Desktop - 1st Price (HB),1.09,,,,0,0
 2026-07-01,IQM,IQM - Display - Open Auction,1.08,1.08,,,0,0
-2026-04-01,Infillion,Bidswitch - APP,1.08,,0.83,,0,0
 2025-04-01,OnSpot Data,Bidswitch - CTV (Charter),1.08,,,,0,0
+2026-04-01,Infillion,Bidswitch - APP,1.08,,0.83,,0,0
 2026-01-01,OnSpot Data,Bidswitch - Desktop - 1st Price (HB),1.07,,,,0,0
-2026-04-01,Bidswitch,Bidswitch - APP Display,1.06,,0.76,,0,0
+2026-04-01,Bidswitch,Bidswitch - APP Display,1.06,,0.82,,0,0
 2025-07-01,Stirista,Stirista - Desktop [Display],1.01,,,0.0,0,0
 2026-01-01,SmartyAds,SmartyAds - CTV (Vizio),0.99,,,,0,0
 2026-07-01,OnSpot Data,Bidswitch - Desktop - 1st Price (HB),0.98,0.98,,,0,0
 2025-10-01,AdIngenious,Bidswitch - APP Display,0.93,,,,0,0
-2025-07-01,IPONWEB BidCore,Bidswitch - Desktop [Display],0.92,,,0.66,0,0
+2025-07-01,IPONWEB BidCore,Bidswitch - Desktop [Display],0.92,,,0.67,0,0
 2026-04-01,DV360,Bidswitch - APP,0.91,,0.09,,0,0
 2026-07-01,Infillion,Bidswitch - APP,0.89,0.89,,,0,0
 2026-07-01,Samsung DSP,Bidswitch - CTV - 1st Price,0.87,0.87,,,0,0
@@ -1450,8 +1451,8 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-10-01,Quantcast,Bidswitch - Desktop [Display],0.81,,,,0,0
 2026-01-01,DV360,Bidswitch - CTV (Charter),0.79,,,,0,0
 2025-01-01,BizzClick,BizzClick - CTV (Indirect),0.78,,,,0,0
-2026-04-01,DV360,Bidswitch - APP 1st Price,0.78,,0.14,,0,0
 2026-07-01,Infillion,Bidswitch - Desktop [Display],0.78,0.78,,,0,0
+2026-04-01,DV360,Bidswitch - APP 1st Price,0.78,,0.14,,0,0
 2026-07-01,Zeasn,Philips Zeasn,0.76,0.76,,,0,0
 2026-01-01,Zeasn,Philips Zeasn,0.76,,,,0,0
 2025-01-01,Infillion,Bidswitch - APP 1st Price,0.75,,,,0,0
@@ -1464,8 +1465,9 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,Bidswitch,Bidswitch - Desktop [Display],0.7,,,,0,0
 2026-07-01,AdElement,Bidswitch - APP Display,0.69,0.69,,,0,0
 2026-04-01,Zeta DSP,Bidswitch - CTV (AMC),0.67,,0.17,,0,0
-2025-01-01,Bidswitch,Bidswitch - APP 1st Price,0.66,,,,0,0
 2025-04-01,Streamworx Lda.,Bidswitch - APP Display,0.66,,,,0,0
+2026-01-01,Adtheorent,Ad Theorent - Desktop Video (LQPS Audit),0.66,,,,0,0
+2025-01-01,Bidswitch,Bidswitch - APP 1st Price,0.66,,,,0,0
 2026-01-01,Streamworx Lda.,Bidswitch - APP Display,0.66,,,,0,0
 2026-01-01,Adtheorent,Ad Theorent - Desktop Video (LQPS Audit),0.66,,,,0,0
 2025-10-01,Zeta DSP,Bidswitch - CTV (AMC),0.65,,,,0,0
@@ -1491,156 +1493,169 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2025-04-01,OnSpot Data,Bidswitch - Seedtag,0.46,,,,0,0
 2026-07-01,DV360,Bidswitch - APP,0.45,0.45,,,0,0
 2026-07-01,Amazon DSP,Bidswitch - MW - 1st Price (HB),0.44,0.44,,,0,0
-2026-04-01,,0,0.44,,0.29,,0,0
 2026-01-01,,0,0.44,,,,0,0
+2026-04-01,,0,0.44,,0.29,,0,0
 2025-01-01,OnSpot Data,Bidswitch - APP Display,0.43,,,,0,0
 2026-04-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price - Roku Bundles,0.43,,0.43,,0,0
-2026-01-01,Infillion,Bidswitch - Desktop [Display],0.42,,,,0,0
+2026-04-01,Walmart,TTD - CTV - oRTB (Canada),0.42,,0.24,,0,0
 2025-10-01,Streamworx Lda.,Bidswitch - APP 1st Price,0.42,,,,0,0
+2026-01-01,Infillion,Bidswitch - Desktop [Display],0.42,,,,0,0
 2025-07-01,Streamworx Lda.,Bidswitch - Seedtag,0.42,,,,0,0
-2026-04-01,Walmart,TTD - CTV - oRTB (Canada),0.42,,0.23,,0,0
 2025-04-01,Epsilon (Conversant),Conversant Pluto CTV (204778) (list targeted),0.41,,,,0,0
 2026-07-01,Krush Media,Krush Media Web Video,0.4,0.4,,,0,0
 2026-01-01,Stirista,Stirista - APP [Display],0.39,,,,0,0
 2025-01-01,Infillion,Bidswitch - MW - 1st Price (HB),0.39,,,,0,0
 2025-01-01,Knorex,Bidswitch - Desktop - 1st Price (HB),0.39,,,,0,0
+2026-01-01,Stirista,Stirista - APP [Display],0.39,,,,0,0
 2026-07-01,Infillion,Bidswitch - APP Display,0.38,0.38,,,0,0
+2025-01-01,Epsilon (Conversant),Conversant Future Today CTV (225790),0.37,,,,0,0
 2025-07-01,Amazon DSP,Bidswitch - Desktop [Display],0.37,,,0.27,0,0
 2025-01-01,Infillion,Bidswitch - CTV (Charter),0.37,,,,0,0
 2025-01-01,Epsilon (Conversant),Conversant Future Today CTV (225790),0.37,,,,0,0
 2025-10-01,IPONWEB BidCore,Bidswitch - CTV (Charter),0.36,,,,0,0
 2025-07-01,Stirista,Stirista - MW [Display],0.35,,,0.0,0,0
 2026-04-01,IQM,IQM - In-App Video - Open Auction,0.34,,0.25,,0,0
-2025-01-01,SmartyAds,SmartyAds - DOOH,0.33,,,,0,0
 2025-01-01,Sharethrough,Sharethrough CTV Video (Client Optimization),0.33,,,,0,0
+2025-01-01,SmartyAds,SmartyAds - DOOH,0.33,,,,0,0
 2026-01-01,IPONWEB BidCore,Bidswitch - APP,0.32,,,,0,0
-2026-01-01,Amazon DSP,Bidswitch - APP 1st Price,0.32,,,,0,0
 2025-01-01,DeepIntent,DeepIntent - Seedtag,0.32,,,,0,0
 2026-07-01,Zeta DSP,Bidswitch - CTV (AMC),0.32,0.32,,,0,0
+2026-01-01,Amazon DSP,Bidswitch - APP 1st Price,0.32,,,,0,0
 2026-04-01,Quantcast,Bidswitch - APP Display,0.32,,0.0,,0,0
-2025-07-01,OnSpot Data,Bidswitch - APP 1st Price,0.31,,,0.01,0,0
-2026-01-01,Walmart,TTD - CTV (LG Ads Only),0.31,,,,0,0
-2026-01-01,OnSpot Data,Bidswitch - Seedtag,0.31,,,,0,0
 2026-07-01,Knorex,Bidswitch - APP Display,0.31,0.31,,,0,0
+2025-07-01,OnSpot Data,Bidswitch - APP 1st Price,0.31,,,0.01,0,0
+2026-01-01,OnSpot Data,Bidswitch - Seedtag,0.31,,,,0,0
+2026-01-01,Walmart,TTD - CTV (LG Ads Only),0.31,,,,0,0
 2025-10-01,Zeta DSP,Bidswitch - Seedtag,0.3,,,,0,0
 2025-04-01,Adform,Bidswitch - APP Display,0.3,,,,0,0
 2025-04-01,OnSpot Data,Bidswitch - APP Display,0.3,,,,0,0
 2025-10-01,Infillion,Bidswitch - MW - 1st Price (HB),0.3,,,,0,0
-2025-07-01,Samsung DSP,Bidswitch - APP Display,0.3,,,0.3,0,0
-2026-04-01,Knorex,Bidswitch - APP 1st Price,0.29,,0.29,,0,0
-2026-04-01,Between Exchange,Bidswitch - Desktop [Display],0.29,,0.29,,0,0
 2026-01-01,Amazon DSP,Bidswitch - APP,0.29,,,,0,0
+2026-04-01,Between Exchange,Bidswitch - Desktop [Display],0.29,,0.29,,0,0
+2026-04-01,Knorex,Bidswitch - APP 1st Price,0.29,,0.29,,0,0
 2025-01-01,Lift,Bidswitch - MW [Display],0.29,,,,0,0
 2025-10-01,Excelate,Bidswitch - APP Display,0.28,,,,0,0
 2026-04-01,Stirista,Stirista - APP [Display],0.28,,0.16,,0,0
-2026-01-01,Knorex,Bidswitch - APP 1st Price,0.27,,,,0,0
 2026-07-01,Infillion,Bidswitch - MW [Display],0.27,0.27,,,0,0
+2026-01-01,Knorex,Bidswitch - APP 1st Price,0.27,,,,0,0
+2026-07-01,ZetaBidswitch,SEEDTAG (DON'T USE),0.27,0.27,,,0,0
 2026-01-01,OnSpot Data,Bidswitch - APP Display,0.27,,,,0,0
 2026-07-01,ZetaBidswitch,SEEDTAG (DON'T USE),0.27,0.27,,,0,0
 2025-01-01,Knorex,Bidswitch - CTV - 1st Price,0.27,,,,0,0
 2025-04-01,DeepIntent,DeepIntent - Seedtag,0.26,,,,0,0
 2025-01-01,AdElement,Bidswitch - APP Display,0.25,,,,0,0
-2026-07-01,Walmart,TTD - CTV - oRTB (Canada),0.24,0.24,,,0,0
 2025-01-01,Lift,Bidswitch - Desktop [Display],0.24,,,,0,0
-2026-07-01,Walmart,TTD - CTV (LATAM),0.24,0.24,,,0,0
+2026-07-01,Walmart,TTD - CTV - oRTB (Canada),0.24,0.24,,,0,0
 2025-07-01,Webeye,Bidswitch - APP 1st Price,0.24,,,0.14,0,0
-2025-04-01,Quantcast,Bidswitch - MW - 1st Price (HB),0.24,,,,0,0
-2025-10-01,Webeye,Bidswitch - APP 1st Price,0.24,,,,0,0
 2025-01-01,Infillion,Bidswitch - APP,0.24,,,,0,0
-2025-10-01,Quantcast,Bidswitch - MW [Display],0.23,,,,0,0
+2026-07-01,Walmart,TTD - CTV (LATAM),0.24,0.24,,,0,0
+2025-10-01,Webeye,Bidswitch - APP 1st Price,0.24,,,,0,0
+2025-04-01,Quantcast,Bidswitch - MW - 1st Price (HB),0.24,,,,0,0
 2025-10-01,OnSpot Data,Bidswitch - APP Display,0.23,,,,0,0
+2025-10-01,Quantcast,Bidswitch - MW [Display],0.23,,,,0,0
 2026-04-01,Zeta DSP,Bidswitch - APP Display,0.23,,,,0,0
 2026-07-01,Adtheorent,Ad Theorent - APP [Display],0.22,0.22,,,0,0
 2025-07-01,Streamworx Lda.,Bidswitch - MW - 1st Price (HB),0.22,,,,0,0
-2026-04-01,Amazon DSP,Bidswitch - Desktop - 1st Price (HB),0.22,,0.04,,0,0
+2025-01-01,Knorex,Bidswitch - Seedtag,0.22,,,,0,0
+2026-01-01,Cepia,Mighty Wheels December 2025,0.22,,,,0,0
 2026-01-01,Knorex,Bidswitch - CTV (Charter),0.22,,,,0,0
 2025-04-01,Zeta DSP,Bidswitch - APP 1st Price,0.22,,,,0,0
-2026-01-01,Cepia,Mighty Wheels December 2025,0.22,,,,0,0
-2025-01-01,Knorex,Bidswitch - Seedtag,0.22,,,,0,0
+2026-04-01,Amazon DSP,Bidswitch - Desktop - 1st Price (HB),0.22,,0.04,,0,0
+2025-10-01,Streamworx Lda.,Bidswitch - CTV (Charter),0.21,,,,0,0
 2025-01-01,Aroscop,Bidswitch - Desktop [Display],0.21,,,,0,0
 2025-10-01,Streamworx Lda.,Bidswitch - CTV (Charter),0.21,,,,0,0
 2026-04-01,Infillion,Bidswitch - Desktop [Display],0.21,,0.09,,0,0
 2026-01-01,Knorex,Bidswitch - CTV - 1st Price (Bundle 151908),0.21,,,,0,0
 2025-04-01,Zeta DSP,Bidswitch - CTV (AMC),0.2,,,,0,0
-2025-10-01,IPONWEB BidCore,Bidswitch - Desktop [Display],0.2,,,,0,0
 2025-07-01,Walmart,TTD - APP - 1st Price,0.2,,,0.2,0,0
+2025-10-01,IPONWEB BidCore,Bidswitch - Desktop [Display],0.2,,,,0,0
+2026-04-01,Aroscop,Bidswitch - APP Display,0.19,,0.0,,0,0
 2026-07-01,Zeta DSP,Bidswitch - MW - 1st Price (HB),0.19,0.19,,,0,0
 2025-10-01,IPONWEB BidCore,Bidswitch - MW - 1st Price (HB),0.19,,,,0,0
 2026-04-01,Aroscop,Bidswitch - APP Display,0.19,,0.0,,0,0
 2025-10-01,IPONWEB BidCore,Bidswitch - APP,0.19,,,,0,0
-2025-10-01,Amazon DSP,Bidswitch - Desktop [Display],0.18,,,,0,0
-2026-01-01,Zeta DSP,Bidswitch - CTV (AMC),0.18,,,,0,0
 2026-01-01,Epsilon (Conversant),Conversant - CTV - Open Auction (Charter),0.18,,,,0,0
-2025-01-01,Zeta DSP,Bidswitch - APP,0.17,,,,0,0
+2026-01-01,Zeta DSP,Bidswitch - CTV (AMC),0.18,,,,0,0
+2025-10-01,Amazon DSP,Bidswitch - Desktop [Display],0.18,,,,0,0
 2026-01-01,Amazon DSP,Bidswitch - Desktop - 1st Price (HB),0.17,,,,0,0
-2026-07-01,,0,0.17,0.17,,,0,0
+2025-01-01,Zeta DSP,Bidswitch - APP,0.17,,,,0,0
 2026-04-01,Stirista,Stirista - Open Auction - OLV (InApp),0.17,,0.11,,0,0
+2026-07-01,,0,0.17,0.17,,,0,0
 2026-01-01,Madopi,Bidswitch - CTV - 1st Price,0.17,,,,0,0
 2026-07-01,DV360,Bidswitch - MW - 1st Price (HB),0.16,0.16,,,0,0
 2025-10-01,Marketing Architects -RTB,Marketing Architects - PlayerWON,0.16,,,,0,0
-2025-07-01,Lift,Bidswitch - MW [Display],0.15,,,0.15,0,0
+2026-07-01,DV360,Bidswitch - MW - 1st Price (HB),0.16,0.16,,,0,0
 2025-10-01,OnSpot Data,Bidswitch - CTV (Charter),0.15,,,,0,0
-2025-04-01,Bidswitch,Bidswitch - Seedtag,0.14,,,,0,0
-2025-04-01,Streamworx Lda.,Bidswitch - MW - 1st Price (HB),0.14,,,,0,0
-2025-04-01,Streamworx Lda.,Bidswitch - Desktop - 1st Price (HB),0.14,,,,0,0
-2025-07-01,Adform,Bidswitch - Seedtag,0.14,,,0.03,0,0
+2025-07-01,Lift,Bidswitch - MW [Display],0.15,,,0.15,0,0
 2025-07-01,Zeta DSP,Bidswitch - Seedtag,0.14,,,0.12,0,0
-2026-04-01,Infillion,Bidswitch - Desktop - 1st Price (HB),0.13,,0.01,,0,0
-2026-01-01,4INFO,4INFO - CTV - 1st Price,0.13,,,,0,0
+2025-04-01,Streamworx Lda.,Bidswitch - MW - 1st Price (HB),0.14,,,,0,0
+2025-07-01,Adform,Bidswitch - Seedtag,0.14,,,0.03,0,0
+2025-04-01,Streamworx Lda.,Bidswitch - Desktop - 1st Price (HB),0.14,,,,0,0
+2025-04-01,Bidswitch,Bidswitch - Seedtag,0.14,,,,0,0
 2026-01-01,Walmart,TTD - CTV (Charter),0.13,,,,0,0
-2025-10-01,,1PlayWorks test,0.13,,,,0,0
 2026-04-01,ZetaBidswitch,SEEDTAG (DON'T USE),0.13,,,,0,0
+2026-01-01,4INFO,4INFO - CTV - 1st Price,0.13,,,,0,0
 2025-07-01,Bidswitch,Bidswitch - APP Display,0.13,,,0.12,0,0
-2026-01-01,OnSpot Data,Bidswitch - CTV (Charter),0.12,,,,0,0
+2025-10-01,,1PlayWorks test,0.13,,,,0,0
+2026-04-01,Infillion,Bidswitch - Desktop - 1st Price (HB),0.13,,0.01,,0,0
 2025-10-01,Knorex,Bidswitch - CTV (Charter),0.12,,,,0,0
-2025-07-01,OnSpot Data,Bidswitch - APP,0.12,,,0.0,0,0
+2026-01-01,OnSpot Data,Bidswitch - CTV (Charter),0.12,,,,0,0
 2026-04-01,Krush Media,Krush Media Inapp Video,0.12,,0.0,,0,0
 2026-07-01,Zeta DSP,Bidswitch - APP Display,0.12,0.12,,,0,0
+2025-07-01,OnSpot Data,Bidswitch - APP,0.12,,,0.0,0,0
 2025-01-01,BizzClick,BizzClick - App (Indirect),0.12,,,,0,0
 2026-07-01,Madopi,Bidswitch - CTV - 1st Price,0.12,0.12,,,0,0
-2026-04-01,Amazon DSP,Bidswitch - MW - 1st Price (HB),0.11,,0.11,,0,0
+2025-07-01,Between Exchange,Bidswitch - Desktop [Display],0.11,,,0.03,0,0
 2025-04-01,AdElement,Bidswitch - APP Display,0.11,,,,0,0
+2026-04-01,Amazon DSP,Bidswitch - MW - 1st Price (HB),0.11,,0.11,,0,0
 2025-07-01,Knorex,Bidswitch - Desktop - 1st Price (HB),0.11,,,,0,0
 2025-07-01,Between Exchange,Bidswitch - Desktop [Display],0.11,,,0.03,0,0
 2026-01-01,Adform,Bidswitch - Seedtag,0.11,,,,0,0
 2025-07-01,Samsung DSP,Bidswitch - APP,0.11,,,,0,0
-2026-01-01,IPONWEB BidCore,Bidswitch - CTV (Charter),0.1,,,,0,0
-2026-01-01,Infillion,Bidswitch - MW [Display],0.1,,,,0,0
-2026-01-01,Walmart,TTD - CTV (UK) ,0.1,,,,0,0
 2026-04-01,IPONWEB BidCore,Bidswitch - APP Display,0.1,,0.05,,0,0
+2026-01-01,Infillion,Bidswitch - MW [Display],0.1,,,,0,0
 2025-01-01,Infillion,Bidswitch - Desktop - 1st Price (HB),0.1,,,,0,0
+2026-01-01,Walmart,TTD - CTV (UK) ,0.1,,,,0,0
+2026-01-01,IPONWEB BidCore,Bidswitch - CTV (Charter),0.1,,,,0,0
 2025-10-01,Adform,Bidswitch - Seedtag,0.1,,,,0,0
 2026-07-01,SamsungBidswitch,Seedtag,0.1,0.1,,,0,0
 2025-10-01,IPONWEB BidCore,Bidswitch - Desktop - 1st Price (HB),0.1,,,,0,0
 2026-01-01,IPONWEB BidCore,Bidswitch - CTV - 1st Price (Bundle 151908),0.1,,,,0,0
-2025-04-01,Knorex,Bidswitch - Desktop - 1st Price (HB),0.09,,,,0,0
-2025-01-01,Epsilon (Conversant),Conversant Pluto CTV (204778) (list targeted),0.09,,,,0,0
-2025-01-01,Unruly,Unruly InApp 1st Price Video,0.09,,,,0,0
 2025-10-01,Zeta DSP,Bidswitch - APP 1st Price,0.09,,,,0,0
+2025-04-01,Knorex,Bidswitch - Desktop - 1st Price (HB),0.09,,,,0,0
+2025-01-01,Unruly,Unruly InApp 1st Price Video,0.09,,,,0,0
+2025-01-01,Epsilon (Conversant),Conversant Pluto CTV (204778) (list targeted),0.09,,,,0,0
 2025-04-01,Stirista,Stirista - Open Auction - OLV (Web),0.09,,,,0,0
 2025-04-01,Amazon DSP,Bidswitch - MW [Display],0.09,,,,0,0
 2026-04-01,Equativ,SEEDTAG (DON'T USE),0.09,,,,0,0
 2025-07-01,Samsung DSP,Bidswitch - APP 1st Price,0.08,,,,0,0
-2025-04-01,Adform,Bidswitch - MW - 1st Price (HB),0.08,,,,0,0
 2025-07-01,Streamworx Lda.,Bidswitch - APP 1st Price,0.08,,,,0,0
+2025-04-01,Adform,Bidswitch - MW - 1st Price (HB),0.08,,,,0,0
 2026-04-01,OnSpot Data,Bidswitch - Desktop - 1st Price (HB),0.08,,0.03,,0,0
 2025-01-01,Streamworx Lda.,Bidswitch - CTV - 1st Price (Bundle 151908),0.08,,,,0,0
-2025-10-01,Walmart,TTD - APP - 1st Price,0.07,,,,0,0
-2025-01-01,IPONWEB BidCore,Bidswitch - Desktop - 1st Price (HB),0.07,,,,0,0
-2026-01-01,Quantcast,Bidswitch - APP Display,0.07,,,,0,0
 2025-10-01,Webeye,Bidswitch - APP,0.07,,,,0,0
-2025-07-01,Zeta DSP,Bidswitch - APP,0.07,,,,0,0
 2026-01-01,Marketing Architects -RTB,Marketing Architects - PlayerWON,0.07,,,,0,0
 2025-07-01,,1PlayWorks test,0.07,,,0.03,0,0
-2025-04-01,Sharethrough,Sharethrough CTV Video (Client Optimization),0.07,,,,0,0
-2025-04-01,OnSpot Data,Bidswitch - Desktop - 1st Price (HB),0.07,,,,0,0
-2026-04-01,Marketing Architects -RTB,Marketing Architects - PlayerWON,0.07,,0.07,,0,0
 2025-07-01,Zeta DSP,Bidswitch - APP 1st Price,0.07,,,0.0,0,0
+2026-01-01,Quantcast,Bidswitch - APP Display,0.07,,,,0,0
+2025-01-01,IPONWEB BidCore,Bidswitch - Desktop - 1st Price (HB),0.07,,,,0,0
+2025-07-01,Zeta DSP,Bidswitch - APP,0.07,,,,0,0
+2025-10-01,Walmart,TTD - APP - 1st Price,0.07,,,,0,0
+2025-04-01,OnSpot Data,Bidswitch - Desktop - 1st Price (HB),0.07,,,,0,0
+2025-04-01,Sharethrough,Sharethrough CTV Video (Client Optimization),0.07,,,,0,0
 2025-10-01,Madopi,Bidswitch - MW - 1st Price (HB),0.07,,,,0,0
+2026-04-01,Marketing Architects -RTB,Marketing Architects - PlayerWON,0.07,,0.07,,0,0
 2026-04-01,Samsung DSP,Bidswitch - APP,0.07,,0.04,,0,0
 2025-07-01,Streamworx Lda.,Bidswitch - CTV - 1st Price (Bundle 151908),0.07,,,0.0,0,0
-2026-07-01,Aroscop,Bidswitch - APP Display,0.06,0.06,,,0,0
 2025-07-01,Stirista,Stirista - Open Auction - OLV (Web),0.06,,,0.01,0,0
+2026-07-01,Aroscop,Bidswitch - APP Display,0.06,0.06,,,0,0
+2026-04-01,Walmart,TTD - CTV (LATAM),0.06,,0.03,,0,0
+2025-07-01,Bidswitch,Bidswitch - Desktop [Display],0.06,,,0.02,0,0
+2025-07-01,Between Exchange,Bidswitch - Seedtag,0.06,,,0.03,0,0
+2025-01-01,OnSpot Data,Bidswitch - Desktop - 1st Price (HB),0.06,,,,0,0
+2026-07-01,IPONWEB BidCore,Bidswitch - APP Display,0.06,0.06,,,0,0
+2025-10-01,IPONWEB BidCore,Bidswitch - CTV (AMC),0.06,,,,0,0
+2026-04-01,Epsilon (Conversant),Conversant - CTV - Open Auction (Charter),0.06,,0.02,,0,0
 2026-01-01,,1PlayWorks test,0.06,,,,0,0
 2026-07-01,IPONWEB BidCore,Bidswitch - APP Display,0.06,0.06,,,0,0
 2025-07-01,Bidswitch,Bidswitch - Desktop [Display],0.06,,,0.02,0,0
@@ -1652,37 +1667,42 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-04-01,Epsilon (Conversant),Conversant - CTV - Open Auction (Charter),0.06,,0.02,,0,0
 2025-10-01,Zeta DSP,Bidswitch - APP,0.06,,,,0,0
 2025-07-01,Adform,Bidswitch - MW - 1st Price (HB),0.06,,,0.01,0,0
+2025-10-01,Samsung DSP,Bidswitch - Desktop - 1st Price (HB),0.06,,,,0,0
+2025-10-01,Zeta DSP,Bidswitch - APP,0.06,,,,0,0
 2025-07-01,Webeye,Bidswitch - APP,0.06,,,0.0,0,0
-2025-10-01,IPONWEB BidCore,Bidswitch - CTV (AMC),0.06,,,,0,0
+2025-04-01,IPONWEB BidCore,Bidswitch - CTV (Charter),0.06,,,,0,0
+2026-07-01,Bidswitch,Bidswitch - APP Display,0.05,0.05,,,0,0
 2026-01-01,Samsung DSP,Bidswitch - APP,0.05,,,,0,0
-2025-10-01,Cepia,Mighty Wheels September 2025 Dub01,0.05,,,,0,0
-2026-04-01,DV360,Bidswitch - MW - 1st Price (HB),0.05,,0.03,,0,0
 2026-04-01,Streamworx Lda.,Bidswitch - CTV (Charter),0.05,,0.05,,0,0
 2026-04-01,Webeye,Bidswitch - APP 1st Price,0.05,,0.0,,0,0
 2026-07-01,Bidswitch,Bidswitch - APP Display,0.05,0.05,,,0,0
 2025-04-01,Knorex,Bidswitch - MW - 1st Price (HB),0.05,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant Future Today CTV (225835),0.05,,,,0,0
+2026-04-01,DV360,Bidswitch - MW - 1st Price (HB),0.05,,0.03,,0,0
+2025-04-01,Knorex,Bidswitch - MW - 1st Price (HB),0.05,,,,0,0
+2025-10-01,Cepia,Mighty Wheels September 2025 Dub01,0.05,,,,0,0
 2025-04-01,Samsung DSP,Bidswitch - CTV - 1st Price (Bundle 151908),0.04,,,,0,0
-2025-04-01,Epsilon (Conversant),Conversant Future Today CTV (225389),0.04,,,,0,0
+2025-10-01,Samsung DSP,Bidswitch - APP,0.04,,,,0,0
+2025-04-01,Bidswitch,Bidswitch - APP 1st Price,0.04,,,,0,0
+2026-04-01,Stirista,Stirista - MW [Display],0.04,,0.04,,0,0
+2026-04-01,Stirista,Stirista - Desktop [Display],0.04,,0.04,,0,0
+2025-04-01,IPONWEB BidCore,Bidswitch - Desktop - 1st Price (HB),0.04,,,,0,0
 2025-04-01,Epsilon (Conversant),Conversant Future Today CTV (225834),0.04,,,,0,0
 2025-01-01,Bidswitch,Bidswitch - Desktop [Display],0.04,,,,0,0
-2025-10-01,Samsung DSP,Bidswitch - APP,0.04,,,,0,0
-2026-01-01,Zeta DSP,Bidswitch - APP,0.04,,,,0,0
-2025-01-01,Amazon DSP,Bidswitch - Desktop [Display],0.04,,,,0,0
-2026-07-01,Stirista,Stirista - Open Auction - OLV (Web),0.04,0.04,,,0,0
-2026-04-01,Stirista,Stirista - Desktop [Display],0.04,,0.04,,0,0
-2025-04-01,Bidswitch,Bidswitch - APP 1st Price,0.04,,,,0,0
-2026-01-01,Walmart,TTD - CTV - oRTB (Canada),0.04,,,,0,0
-2025-04-01,IPONWEB BidCore,Bidswitch - Desktop - 1st Price (HB),0.04,,,,0,0
+2025-04-01,Epsilon (Conversant),Conversant Future Today CTV (225389),0.04,,,,0,0
 2025-01-01,Knorex,Bidswitch - MW - 1st Price (HB),0.04,,,,0,0
+2026-07-01,Stirista,Stirista - Open Auction - OLV (Web),0.04,0.04,,,0,0
 2026-01-01,Madopi,Bidswitch - Desktop [Display],0.04,,,,0,0
+2026-01-01,Walmart,TTD - CTV - oRTB (Canada),0.04,,,,0,0
+2025-01-01,Amazon DSP,Bidswitch - Desktop [Display],0.04,,,,0,0
+2026-01-01,Zeta DSP,Bidswitch - APP,0.04,,,,0,0
 2026-04-01,Samsung DSP,Bidswitch - APP 1st Price,0.04,,0.03,,0,0
 2026-01-01,Streamworx Lda.,Bidswitch - APP 1st Price,0.04,,,,0,0
 2025-10-01,Cepia,Mighty Wheels September 2025,0.04,,,,0,0
-2026-04-01,Stirista,Stirista - MW [Display],0.04,,0.04,,0,0
 2026-01-01,Infillion,Bidswitch - CTV - 1st Price (Bundle 151908),0.04,,,,0,0
+2026-04-01,Streamworx Lda.,Bidswitch - APP,0.03,,0.03,,0,0
+2026-01-01,Samsung DSP,Bidswitch - APP 1st Price,0.03,,,,0,0
 2025-10-01,Between Exchange,Bidswitch - Seedtag,0.03,,,,0,0
-2025-01-01,Epsilon (Conversant),Conversant Future Today CTV (225389),0.03,,,,0,0
 2026-04-01,Sharethrough,Equative CTV Video (copy),0.03,,,,0,0
 2026-07-01,Webeye,Bidswitch - APP Display,0.03,0.03,,,0,0
 2026-04-01,Streamworx Lda.,Bidswitch - APP,0.03,,0.03,,0,0
@@ -1694,103 +1714,111 @@ quarter,advertiser,ad_name,rev_gross,rev_qtd_current,rev_qtd_prev_qtd,rev_qtd_pr
 2026-04-01,Streamworx Lda.,Bidswitch - APP 1st Price,0.03,,0.03,,0,0
 2025-07-01,Knorex,Bidswitch - MW - 1st Price (HB),0.03,,,,0,0
 2025-07-01,Zeta DSP,Bidswitch - CTV (AMC),0.03,,,0.0,0,0
+2025-07-01,Knorex,Bidswitch - MW - 1st Price (HB),0.03,,,,0,0
+2026-01-01,Madopi,Bidswitch - MW [Display],0.03,,,,0,0
+2025-04-01,DV360,Bidswitch - CTV (Charter),0.03,,,,0,0
+2026-01-01,Samsung DSP,Bidswitch - Desktop - 1st Price (HB),0.03,,,,0,0
 2025-01-01,Adform,Bidswitch - MW [Display],0.03,,,,0,0
 2025-07-01,DeepIntent,DeepIntent - Seedtag,0.03,,,0.01,0,0
-2025-04-01,DV360,Bidswitch - CTV (Charter),0.03,,,,0,0
-2026-07-01,Stirista,Stirista - APP [Display],0.03,0.03,,,0,0
 2025-07-01,Amazon DSP,Bidswitch -RTB- Getintent-Whitelist- Web Display,0.03,,,0.0,0,0
+2026-01-01,Bidswitch,Bidswitch - APP Display,0.03,,,,0,0
+2025-01-01,Epsilon (Conversant),Conversant Future Today CTV (225389),0.03,,,,0,0
 2025-10-01,Stirista,Stirista - Open Auction - OLV (InApp),0.03,,,,0,0
-2026-01-01,Samsung DSP,Bidswitch - Desktop - 1st Price (HB),0.03,,,,0,0
+2026-04-01,Streamworx Lda.,Bidswitch - APP 1st Price,0.03,,0.03,,0,0
+2025-10-01,Infillion,Bidswitch - Desktop [Display],0.03,,,,0,0
+2025-04-01,Adform,Bidswitch - Seedtag,0.03,,,,0,0
+2026-07-01,Webeye,Bidswitch - APP Display,0.03,0.03,,,0,0
+2026-07-01,Stirista,Stirista - APP [Display],0.03,0.03,,,0,0
 2025-10-01,Madopi,Bidswitch - CTV - 1st Price (Bundle 151908),0.03,,,,0,0
 2025-01-01,Samsung DSP,Bidswitch - CTV - 1st Price (Bundle 151908),0.03,,,,0,0
-2025-10-01,Adform,Bidswitch - Desktop [Display],0.02,,,,0,0
-2025-10-01,Infillion,Bidswitch - CTV (Charter),0.02,,,,0,0
-2025-01-01,Webeye,Bidswitch - APP,0.02,,,,0,0
-2026-01-01,Knorex,Bidswitch - Desktop - 1st Price (HB),0.02,,,,0,0
-2025-07-01,DV360,Bidswitch - CTV (Charter),0.02,,,0.0,0,0
-2026-04-01,Walmart,TTD - CTV (Charter),0.02,,0.0,,0,0
 2025-01-01,Epsilon (Conversant),Conversant Future Today CTV (225835),0.02,,,,0,0
-2025-07-01,Bidswitch,Bidswitch - Desktop - 1st Price (HB),0.02,,,0.0,0,0
+2025-07-01,Lift,Bidswitch - Desktop [Display],0.02,,,0.02,0,0
+2025-01-01,Webeye,Bidswitch - APP,0.02,,,,0,0
 2025-04-01,Xandr,Xandr STB VOD,0.02,,,,0,0
-2025-01-01,Streamworx Lda.,Bidswitch - APP 1st Price,0.02,,,,0,0
-2026-04-01,Infillion,Bidswitch - MW [Display],0.02,,0.01,,0,0
-2025-01-01,Epsilon (Conversant),Conversant Future Today CTV (225834),0.02,,,,0,0
+2025-07-01,Bidswitch,Bidswitch - Desktop - 1st Price (HB),0.02,,,0.0,0,0
+2025-04-01,Lift,Bidswitch - MW [Display],0.02,,,,0,0
+2026-04-01,Quantcast,Bidswitch - APP 1st Price,0.02,,0.0,,0,0
 2026-01-01,OnSpot Data,Bidswitch - MW - 1st Price (HB),0.02,,,,0,0
-2025-10-01,Quantcast,Bidswitch - APP 1st Price,0.02,,,,0,0
 2025-10-01,Samsung DSP,Bidswitch - MW - 1st Price (HB),0.02,,,,0,0
+2025-01-01,Epsilon (Conversant),Conversant Future Today CTV (225834),0.02,,,,0,0
+2026-01-01,Knorex,Bidswitch - Desktop - 1st Price (HB),0.02,,,,0,0
 2025-04-01,Adform,Bidswitch - Desktop [Display],0.02,,,,0,0
 2026-01-01,IPONWEB BidCore,Bidswitch - Desktop [Display],0.02,,,,0,0
-2026-07-01,Bidswitch,Bidswitch - Desktop [Display],0.02,0.02,,,0,0
-2025-01-01,Webeye,Bidswitch - APP 1st Price,0.02,,,,0,0
-2026-07-01,Lemma DSP,Lemma DSP CTV Ad (COPPA),0.02,0.02,,,0,0
-2025-07-01,Adform,Bidswitch - MW [Display],0.02,,,0.0,0,0
-2025-10-01,Amazon DSP,Bidswitch -RTB- Getintent-Whitelist- Web Display,0.02,,,,0,0
-2025-04-01,Streamworx Lda.,Bidswitch - APP,0.02,,,,0,0
-2026-07-01,IPONWEB BidCore,Bidswitch - Desktop - 1st Price (HB),0.02,0.02,,,0,0
-2025-01-01,DV360,Bidswitch - STB VOD,0.02,,,,0,0
-2026-01-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price - Roku Bundles,0.02,,,,0,0
-2026-04-01,Quantcast,Bidswitch - APP 1st Price,0.02,,0.0,,0,0
-2025-04-01,Between Exchange,Bidswitch - Seedtag,0.02,,,,0,0
-2026-04-01,IPONWEB BidCore,Bidswitch - CTV (Charter),0.02,,,,0,0
-2026-01-01,Excelate,Bidswitch - Seedtag,0.02,,,,0,0
-2025-04-01,Lift,Bidswitch - MW [Display],0.02,,,,0,0
-2025-10-01,Cepia,Mighty Wheels September 2025 Dub02,0.02,,,,0,0
-2025-10-01,Quantcast,Bidswitch - APP,0.02,,,,0,0
-2025-10-01,Madopi,Bidswitch - APP 1st Price,0.02,,,,0,0
-2025-04-01,Epsilon (Conversant),Conversant Future Today CTV (225500),0.02,,,,0,0
-2025-07-01,Infillion,Bidswitch - CTV (Charter),0.02,,,0.0,0,0
 2025-10-01,Streamworx Lda.,Bidswitch - Desktop - 1st Price (HB),0.02,,,,0,0
-2025-01-01,Metax,MetaX A&amp;E Networks $16,0.02,,,,0,0
+2025-01-01,Streamworx Lda.,Bidswitch - APP 1st Price,0.02,,,,0,0
 2026-04-01,Madopi,Bidswitch - CTV (Charter),0.02,,,,0,0
-2025-10-01,Knorex,Bidswitch - MW - 1st Price (HB),0.02,,,,0,0
+2026-04-01,Walmart,TTD - CTV (Charter),0.02,,0.0,,0,0
+2025-10-01,Quantcast,Bidswitch - APP 1st Price,0.02,,,,0,0
 2025-01-01,Bidswitch,Bidswitch - APP,0.02,,,,0,0
-2025-07-01,Lift,Bidswitch - Desktop [Display],0.02,,,0.02,0,0
+2026-07-01,Lemma DSP,Lemma DSP CTV Ad (COPPA),0.02,0.02,,,0,0
+2026-01-01,Marketing Architects -RTB,Marketing Architects - CTV 1st Price - Roku Bundles,0.02,,,,0,0
+2025-10-01,Adform,Bidswitch - Desktop [Display],0.02,,,,0,0
+2026-04-01,Infillion,Bidswitch - MW [Display],0.02,,0.01,,0,0
+2025-04-01,Epsilon (Conversant),Conversant Future Today CTV (225500),0.02,,,,0,0
+2025-10-01,Quantcast,Bidswitch - APP,0.02,,,,0,0
+2025-01-01,DV360,Bidswitch - STB VOD,0.02,,,,0,0
+2025-10-01,Infillion,Bidswitch - CTV (Charter),0.02,,,,0,0
+2025-10-01,Madopi,Bidswitch - APP 1st Price,0.02,,,,0,0
+2025-07-01,Infillion,Bidswitch - CTV (Charter),0.02,,,0.0,0,0
+2026-07-01,Bidswitch,Bidswitch - Desktop [Display],0.02,0.02,,,0,0
+2025-07-01,Adform,Bidswitch - MW [Display],0.02,,,0.0,0,0
+2026-07-01,IPONWEB BidCore,Bidswitch - Desktop - 1st Price (HB),0.02,0.02,,,0,0
+2026-04-01,IPONWEB BidCore,Bidswitch - CTV (Charter),0.02,,,,0,0
+2025-10-01,Cepia,Mighty Wheels September 2025 Dub02,0.02,,,,0,0
+2025-07-01,DV360,Bidswitch - CTV (Charter),0.02,,,0.0,0,0
+2025-04-01,Streamworx Lda.,Bidswitch - APP,0.02,,,,0,0
+2025-01-01,Webeye,Bidswitch - APP 1st Price,0.02,,,,0,0
+2025-04-01,Between Exchange,Bidswitch - Seedtag,0.02,,,,0,0
+2025-01-01,Metax,MetaX A&amp;E Networks $16,0.02,,,,0,0
+2025-10-01,Amazon DSP,Bidswitch -RTB- Getintent-Whitelist- Web Display,0.02,,,,0,0
+2025-10-01,Knorex,Bidswitch - MW - 1st Price (HB),0.02,,,,0,0
+2026-01-01,Excelate,Bidswitch - Seedtag,0.02,,,,0,0
 2026-01-01,IPONWEB BidCore,Bidswitch - Desktop - 1st Price (HB),0.02,,,,0,0
 2025-10-01,Adform,Bidswitch - CTV - 1st Price,0.02,,,,0,0
 2025-04-01,Bidswitch,Bidswitch - CTV - 1st Price,0.02,,,,0,0
 2026-07-01,Bidswitch,Bidswitch - CTV - 1st Price,0.02,0.02,,,0,0
 2026-04-01,Webeye,Bidswitch - CTV - 1st Price,0.02,,0.02,,0,0
-2026-07-01,IPONWEB BidCore,Bidswitch - CTV (Charter),0.01,0.01,,,0,0
-2026-01-01,IPONWEB BidCore,Bidswitch - APP Display,0.01,,,,0,0
-2026-07-01,Webeye,Bidswitch - APP 1st Price,0.01,0.01,,,0,0
-2026-07-01,IPONWEB BidCore,Bidswitch - APP 1st Price,0.01,0.01,,,0,0
-2025-10-01,Bidswitch,Bidswitch - APP 1st Price,0.01,,,,0,0
-2025-07-01,Knorex,Bidswitch - Desktop [Display],0.01,,,,0,0
-2025-07-01,Quantcast,Bidswitch - APP Display,0.01,,,0.0,0,0
-2025-04-01,Samsung DSP,Bidswitch - APP 1st Price,0.01,,,,0,0
-2026-01-01,Amazon DSP,Bidswitch - MW - 1st Price (HB),0.01,,,,0,0
-2025-04-01,Zeta DSP,Bidswitch - APP,0.01,,,,0,0
-2025-10-01,Samsung DSP,Bidswitch - APP 1st Price,0.01,,,,0,0
-2025-07-01,Between Exchange,Bidswitch - MW [Display],0.01,,,0.0,0,0
-2025-07-01,Between Exchange,Bidswitch - Desktop - 1st Price (HB),0.01,,,,0,0
-2025-07-01,OnSpot Data,Bidswitch - APP Display,0.01,,,0.0,0,0
-2025-07-01,Streamworx Lda.,Bidswitch - Desktop [Display],0.01,,,,0,0
-2026-04-01,Equative,Equative InApp Video (Open Auction) (copy),0.01,,,,0,0
-2025-04-01,Zeta DSP,Bidswitch - MW [Display],0.01,,,,0,0
-2025-10-01,Bidswitch,Bidswitch - MW - 1st Price (HB),0.01,,,,0,0
-2026-07-01,Stirista,Stirista - Desktop [Display],0.01,0.01,,,0,0
-2025-10-01,Bidswitch,Bidswitch - Desktop - 1st Price (HB),0.01,,,,0,0
-2026-07-01,Madopi,Bidswitch - Desktop [Display],0.01,0.01,,,0,0
-2026-01-01,Quantcast,Bidswitch - MW [Display],0.01,,,,0,0
-2026-01-01,Walmart,TTD - CTV (LATAM),0.01,,,,0,0
 2025-10-01,Between Exchange,Bidswitch - MW - 1st Price (HB),0.01,,,,0,0
-2026-04-01,Stirista,Stirista - Open Auction - OLV (Web),0.01,,0.0,,0,0
-2026-04-01,Knorex,Bidswitch - Desktop - 1st Price (HB),0.01,,0.01,,0,0
-2025-01-01,Xandr,Xandr STB VOD,0.01,,,,0,0
-2026-01-01,Webeye,Bidswitch - APP 1st Price,0.01,,,,0,0
-2025-10-01,Adform,Bidswitch - Desktop - 1st Price (HB),0.01,,,,0,0
-2025-10-01,Streamworx Lda.,Bidswitch - APP Display,0.01,,,,0,0
+2025-04-01,Zeta DSP,Bidswitch - APP,0.01,,,,0,0
+2025-07-01,Streamworx Lda.,Bidswitch - Desktop [Display],0.01,,,,0,0
+2026-07-01,IPONWEB BidCore,Bidswitch - CTV (Charter),0.01,0.01,,,0,0
+2026-07-01,Stirista,Stirista - Desktop [Display],0.01,0.01,,,0,0
+2026-01-01,IPONWEB BidCore,Bidswitch - APP Display,0.01,,,,0,0
 2026-01-01,Webeye,Bidswitch - APP,0.01,,,,0,0
-2026-04-01,Between Exchange,Bidswitch - APP,0.01,,,,0,0
-2025-10-01,OnSpot Data,Bidswitch - MW - 1st Price (HB),0.01,,,,0,0
-2025-07-01,Zeta DSP,Bidswitch - MW - 1st Price (HB),0.01,,,,0,0
-2025-01-01,Stirista,Stirista - Open Auction - OLV (Web),0.01,,,,0,0
-2025-04-01,Inspiritum,Bidswitch - APP Display,0.01,,,,0,0
-2025-04-01,Bidswitch,Bidswitch - MW - 1st Price (HB),0.01,,,,0,0
-2026-04-01,Bidswitch,Bidswitch - Desktop - 1st Price (HB),0.01,,0.0,,0,0
-2026-01-01,IPONWEB BidCore,Bidswitch - MW [Display],0.01,,,,0,0
 2025-04-01,IPONWEB BidCore,Bidswitch - APP 1st Price,0.01,,,,0,0
+2025-07-01,OnSpot Data,Bidswitch - APP Display,0.01,,,0.0,0,0
+2026-04-01,Bidswitch,Bidswitch - Desktop - 1st Price (HB),0.01,,0.0,,0,0
+2025-04-01,Inspiritum,Bidswitch - APP Display,0.01,,,,0,0
+2025-07-01,Quantcast,Bidswitch - APP Display,0.01,,,0.0,0,0
+2026-01-01,Walmart,TTD - CTV (LATAM),0.01,,,,0,0
+2026-04-01,Stirista,Stirista - Open Auction - OLV (Web),0.01,,0.0,,0,0
+2025-10-01,Streamworx Lda.,Bidswitch - APP Display,0.01,,,,0,0
+2026-07-01,Madopi,Bidswitch - Desktop [Display],0.01,0.01,,,0,0
 2025-01-01,Amazon DSP,Bidswitch - APP Display,0.01,,,,0,0
+2025-07-01,Between Exchange,Bidswitch - Desktop - 1st Price (HB),0.01,,,,0,0
+2025-07-01,Zeta DSP,Bidswitch - MW - 1st Price (HB),0.01,,,,0,0
+2026-07-01,Webeye,Bidswitch - APP 1st Price,0.01,0.01,,,0,0
+2025-04-01,Bidswitch,Bidswitch - MW - 1st Price (HB),0.01,,,,0,0
+2025-10-01,Bidswitch,Bidswitch - MW - 1st Price (HB),0.01,,,,0,0
+2025-07-01,Between Exchange,Bidswitch - MW [Display],0.01,,,0.0,0,0
+2025-04-01,Zeta DSP,Bidswitch - MW [Display],0.01,,,,0,0
+2026-07-01,IPONWEB BidCore,Bidswitch - APP 1st Price,0.01,0.01,,,0,0
+2026-04-01,Between Exchange,Bidswitch - APP,0.01,,,,0,0
+2025-01-01,Stirista,Stirista - Open Auction - OLV (Web),0.01,,,,0,0
+2025-10-01,OnSpot Data,Bidswitch - MW - 1st Price (HB),0.01,,,,0,0
+2025-10-01,Samsung DSP,Bidswitch - APP 1st Price,0.01,,,,0,0
+2025-01-01,Xandr,Xandr STB VOD,0.01,,,,0,0
+2026-01-01,Amazon DSP,Bidswitch - MW - 1st Price (HB),0.01,,,,0,0
+2025-10-01,Bidswitch,Bidswitch - APP 1st Price,0.01,,,,0,0
+2026-01-01,IPONWEB BidCore,Bidswitch - MW [Display],0.01,,,,0,0
+2025-10-01,Bidswitch,Bidswitch - Desktop - 1st Price (HB),0.01,,,,0,0
+2025-07-01,Knorex,Bidswitch - Desktop [Display],0.01,,,,0,0
+2025-10-01,Adform,Bidswitch - Desktop - 1st Price (HB),0.01,,,,0,0
+2026-04-01,Equative,Equative InApp Video (Open Auction) (copy),0.01,,,,0,0
+2026-04-01,Knorex,Bidswitch - Desktop - 1st Price (HB),0.01,,0.01,,0,0
+2026-01-01,Webeye,Bidswitch - APP 1st Price,0.01,,,,0,0
+2025-04-01,Samsung DSP,Bidswitch - APP 1st Price,0.01,,,,0,0
+2026-01-01,Quantcast,Bidswitch - MW [Display],0.01,,,,0,0
 2026-01-01,Madopi,Bidswitch - CTV - 1st Price (Bundle 151908),0.01,,,,0,0
 2026-04-01,Quantcast,Bidswitch - APP,0.01,,0.01,,0,0
 2026-04-01,Knorex,Bidswitch - APP,0.01,,0.01,,0,0

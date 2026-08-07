@@ -46,6 +46,7 @@ SQL_PATH = PROJECT_ROOT / "sql/consolidated_deals.sql"
 OA_SQL_PATH = PROJECT_ROOT / "sql/open_auction.sql"
 COM_SQL_PATH = PROJECT_ROOT / "sql/commercial_activity.sql"
 BRANDS_SQL_PATH = PROJECT_ROOT / "sql/brands.sql"
+WEEKLY_SQL_PATH = PROJECT_ROOT / "sql/weekly_view.sql"
 # Crush Q3 (ported from notebooks/bfm_q3_blast — campaign dates are fixed in-SQL:
 # baseline Jan 2025–Jun 2026, follow-up + new-deal activations from 2026-07-01)
 CQ3_BASELINE_SQL = PROJECT_ROOT / "sql/crushq3_baseline_monthly.sql"
@@ -154,8 +155,9 @@ def _prep_crushq3(baseline: list[dict], followup: list[dict],
 
 
 def _render(rows: list[dict], oa_rows: list[dict], com_rows: list[dict],
-            brand_rows: list[dict], react_rows: list[dict], trk_deals: list[dict],
-            trk_series: list[dict], date_from: str, sql_texts: dict[str, str]) -> str:
+            brand_rows: list[dict], weekly_rows: list[dict], react_rows: list[dict],
+            trk_deals: list[dict], trk_series: list[dict],
+            date_from: str, sql_texts: dict[str, str]) -> str:
     quarters = sorted({str(r["quarter"])[:10] for r in rows})
     advertisers = {r["advertiser"] for r in rows}
     print(f"  ✓ {len(quarters)} quarters ({quarters[0]} → {quarters[-1]}), "
@@ -168,6 +170,7 @@ def _render(rows: list[dict], oa_rows: list[dict], com_rows: list[dict],
         oa_rows=oa_rows,
         com_rows=com_rows,
         brand_rows=brand_rows,
+        weekly_rows=weekly_rows,
         react_rows=react_rows,
         trk_deals=trk_deals,
         trk_series=trk_series,
@@ -191,6 +194,7 @@ def _sql_texts(date_from: str) -> dict[str, str]:
             date_from=date_from, build_date=TODAY),
         "brands": BRANDS_SQL_PATH.read_text(encoding="utf-8").format(
             date_from=BRANDS_DATE_FROM, date_to=TODAY),
+        "weekly": WEEKLY_SQL_PATH.read_text(encoding="utf-8"),
         "reactivation": (CQ3_BASELINE_SQL.read_text(encoding="utf-8")
                          + "\n\n-- ── follow-up months ──\n"
                          + CQ3_FOLLOWUP_SQL.read_text(encoding="utf-8")),
@@ -239,6 +243,7 @@ def build_dashboard(date_from: str) -> str:
     with ThreadPoolExecutor(max_workers=2) as ex:
         fut_com = ex.submit(run_trino_query, sql_com)
         fut_oa = ex.submit(run_trino_query, sql_oa)
+        fut_weekly = ex.submit(run_trino_query, WEEKLY_SQL_PATH.read_text(encoding="utf-8"))
         # Crush Q3 (all light — reporting_closing_bfm_demand only, dates fixed in-SQL)
         fut_cq3_base = ex.submit(run_trino_query, CQ3_BASELINE_SQL.read_text(encoding="utf-8"))
         fut_cq3_fu = ex.submit(run_trino_query, CQ3_FOLLOWUP_SQL.read_text(encoding="utf-8"))
@@ -258,6 +263,8 @@ def build_dashboard(date_from: str) -> str:
         print(f"  ✓ commercial activity: {len(com_rows):,} rows")
         oa_rows = fut_oa.result()
         print(f"  ✓ open auction: {len(oa_rows):,} ad_name×quarter rows")
+        weekly_rows = fut_weekly.result()
+        print(f"  ✓ weekly view: {len(weekly_rows):,} rows")
         cq3_baseline = fut_cq3_base.result()
         cq3_followup = fut_cq3_fu.result()
         cq3_new = fut_cq3_new.result()
@@ -281,6 +288,7 @@ def build_dashboard(date_from: str) -> str:
         _round_row(r)
     _round_rev(com_rows)
     _round_rev(brand_rows)
+    _round_rev(weekly_rows)
 
     # Stable names (used by --from-csv rebuilds) + dated copies for history.
     save_csv(rows, OUTPUT_DIR / "adex_deals.csv")
@@ -291,6 +299,8 @@ def build_dashboard(date_from: str) -> str:
     save_csv(com_rows, OUTPUT_DIR / f"adex_commercial_{TODAY}.csv")
     save_csv(brand_rows, OUTPUT_DIR / "adex_brands.csv")
     save_csv(brand_rows, OUTPUT_DIR / f"adex_brands_{TODAY}.csv")
+    save_csv(weekly_rows, OUTPUT_DIR / "adex_weekly.csv")
+    save_csv(weekly_rows, OUTPUT_DIR / f"adex_weekly_{TODAY}.csv")
     save_csv(cq3_baseline, OUTPUT_DIR / "adex_cq3_baseline.csv")
     save_csv(cq3_followup, OUTPUT_DIR / "adex_cq3_followup.csv")
     save_csv(cq3_new, OUTPUT_DIR / "adex_cq3_new_deals.csv")
@@ -298,9 +308,21 @@ def build_dashboard(date_from: str) -> str:
     print("  ✓ CSVs written to output/")
 
     react_rows, trk_deals, trk_series = _prep_crushq3(cq3_baseline, cq3_followup, cq3_new, cq3_daily)
-    return _render(rows, oa_rows, com_rows, _trim_brands(brand_rows),
+    return _render(rows, oa_rows, com_rows, _trim_brands(brand_rows), weekly_rows,
                    react_rows, trk_deals, trk_series,
                    date_from, _sql_texts(date_from))
+
+
+def _load_weekly_csv(csv_path: Path) -> list[dict]:
+    """Load a weekly-view CSV (period + dims + rev_gross — no quarter column)."""
+    import csv as _csv
+
+    rows: list[dict] = []
+    with open(csv_path, newline="", encoding="utf-8") as f:
+        for r in _csv.DictReader(f):
+            r["rev_gross"] = round(float(r["rev_gross"] or 0), 2)
+            rows.append(r)
+    return rows
 
 
 def _load_simple_csv(csv_path: Path) -> list[dict]:
@@ -330,6 +352,8 @@ def rebuild_from_csv(csv_path: Path, date_from: str) -> str:
     com_rows = _load_simple_csv(com_csv) if com_csv.exists() else []
     brands_csv = OUTPUT_DIR / "adex_brands.csv"
     brand_rows = _load_simple_csv(brands_csv) if brands_csv.exists() else []
+    weekly_csv = OUTPUT_DIR / "adex_weekly.csv"
+    weekly_rows = _load_weekly_csv(weekly_csv) if weekly_csv.exists() else []
 
     def _raw_csv(name: str) -> list[dict]:
         import csv as _csv
@@ -344,8 +368,9 @@ def rebuild_from_csv(csv_path: Path, date_from: str) -> str:
         _raw_csv("adex_cq3_new_deals.csv"), _raw_csv("adex_cq3_daily.csv"))
     print(f"  ✓ {len(rows):,} deal rows, {len(oa_rows):,} OA rows, "
           f"{len(com_rows):,} commercial rows, {len(brand_rows):,} brand rows, "
+          f"{len(weekly_rows):,} weekly rows, "
           f"{len(react_rows):,} reactivation rows, {len(trk_deals):,} new deals loaded")
-    return _render(rows, oa_rows, com_rows, _trim_brands(brand_rows),
+    return _render(rows, oa_rows, com_rows, _trim_brands(brand_rows), weekly_rows,
                    react_rows, trk_deals, trk_series,
                    date_from, _sql_texts(date_from))
 

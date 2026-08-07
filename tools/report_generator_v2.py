@@ -78,6 +78,7 @@ def generate_html(
     oa_rows: list[dict],
     com_rows: list[dict],
     brand_rows: list[dict],
+    weekly_rows: list[dict],
     react_rows: list[dict],
     trk_deals: list[dict],
     trk_series: list[dict],
@@ -92,6 +93,7 @@ def generate_html(
     oa_json = json.dumps(oa_rows, default=str, ensure_ascii=False)
     com_json = json.dumps(com_rows, default=str, ensure_ascii=False)
     brand_json = _pack(brand_rows)
+    weekly_json = json.dumps(weekly_rows, default=str, ensure_ascii=False)
     react_json = _pack(react_rows)
     trk_deals_json = json.dumps(trk_deals, default=str, ensure_ascii=False)
     trk_series_json = json.dumps(trk_series, default=str, ensure_ascii=False)
@@ -324,6 +326,7 @@ footer.report-footer img{{opacity:.75}}
   <button class="tab-btn active" data-tab="com" onclick="showTab('com')">📈 Commercial Activity</button>
   <button class="tab-btn" data-tab="deals" onclick="showTab('deals')">🎯 Deals Details</button>
   <button class="tab-btn" data-tab="brand" onclick="showTab('brand')">🏢 Brand Details</button>
+  <button class="tab-btn" data-tab="wk" onclick="showTab('wk')">📅 Weekly View</button>
 </div>
 <div class="tabs-bar" id="tabbar-crush" style="display:none">
   <button class="tab-btn" data-tab="react" onclick="showTab('react')">♻️ Reactivation</button>
@@ -429,6 +432,26 @@ footer.report-footer img{{opacity:.75}}
   </div>
 </div>
 
+<!-- ── Tab 4: Weekly View ── -->
+<div class="tab-panel" id="panel-wk">
+  <div class="section-sub" id="wk-sub">Week-over-week revenue — rolling 7-day windows anchored on the build date.
+    <span class="info-icon" title="View SQL" onclick="toggleTooltip(event,'sql-tip-wk')" style="vertical-align:-5px;margin-left:4px">i</span>
+    <div class="tooltip" id="sql-tip-wk"></div>
+  </div>
+  <div class="card">
+    <div class="card-header">📅 Weekly Revenue — WoW
+      <span class="flabel" style="margin-left:8px">Group by</span>
+      <button class="subtab-btn wk-dim active" data-dim="bl" onclick="wkDimToggle('bl')">Business Line</button>
+      <button class="subtab-btn wk-dim" data-dim="ct" onclick="wkDimToggle('ct')">Connection Type</button>
+      <button class="subtab-btn wk-dim" data-dim="pf" onclick="wkDimToggle('pf')">Product Format</button>
+      <div class="spacer"></div>
+      <button class="btn-csv" onclick="wkCSV()">📥 CSV</button>
+    </div>
+    <div class="table-wrapper"><table><thead id="wk-head"></thead><tbody id="wk-body"></tbody></table></div>
+    <div class="table-meta"><span class="count" id="wk-count"></span><div class="pagination" id="wk-pag"></div></div>
+  </div>
+</div>
+
 <!-- ── Crush Q3 · Reactivation ── -->
 <div class="tab-panel" id="panel-react">
   <div class="section-sub">Q3 reactivation targets — Beachfront revenue-losing rows, worst first.
@@ -504,6 +527,7 @@ const DEAL_ROWS = unpack({rows_json});
 const OA_ROWS = {oa_json};
 const COM_ROWS = {com_json};
 const BRAND_ROWS = unpack({brand_json});
+const WK_ROWS = {weekly_json};        // Weekly View · {{period, dims, rev_gross}}
 const REACT_ROWS = unpack({react_json});       // Crush Q3 · monthly rows {{m,bl,dsp,cva,ad,did,rev}}
 const TRK_DEALS = {trk_deals_json};    // Crush Q3 · new-deal activations
 const TRK_SERIES = {trk_series_json};  // Crush Q3 · daily revenue per new deal
@@ -531,7 +555,7 @@ document.getElementById('theme-toggle').addEventListener('click',()=>{{
 }});
 
 // SQL tooltips (one SQL text per section)
-const SQL_TIPS = {{'sql-tip-com':'commercial','sql-tip-deals':'deals','sql-tip-oa':'open_auction','sql-tip-brand':'brands','sql-tip-react':'reactivation','sql-tip-trk':'tracker'}};
+const SQL_TIPS = {{'sql-tip-com':'commercial','sql-tip-deals':'deals','sql-tip-oa':'open_auction','sql-tip-brand':'brands','sql-tip-wk':'weekly','sql-tip-react':'reactivation','sql-tip-trk':'tracker'}};
 Object.entries(SQL_TIPS).forEach(([id,key])=>{{
   const t=document.getElementById(id), txt=SQL_TEXTS[key]||'';
   t.innerHTML=escapeHtml(txt)+'<span class="copy-hint">Click to copy</span>';
@@ -549,7 +573,7 @@ function toggleTooltip(e,id){{
 document.addEventListener('click',()=>document.querySelectorAll('.tooltip.active').forEach(t=>t.classList.remove('active')));
 
 // sections (Global Overview / Crush Q3) — each remembers its last active tab
-const SECTION_TABS = {{global:['com','deals','brand'], crush:['react','trk']}};
+const SECTION_TABS = {{global:['com','deals','brand','wk'], crush:['react','trk']}};
 const sectionLastTab = {{global:'com', crush:'react'}};
 let currentSection='global';
 function showSection(sec){{
@@ -597,9 +621,9 @@ function downloadCSV(matrix,name){{
 // Option universes come from the union of all datasets; each dataset is
 // filtered row-level on the fields it actually carries (missing field = pass).
 const FILTERS = [
-  {{key:'dsp',     label:'DSP Group',     all:'All DSPs',           fields:{{com:'dsp_group_name', deal:'advertiser', oa:'advertiser', brand:'dsp_group_name', react:'dsp', trk:'dsp_group_name'}} }},
-  {{key:'channel', label:'Channel ID',    all:'All Channels',       fields:{{com:'channel_id', deal:'channel_id', brand:'channel_id'}} }},
-  {{key:'bl',      label:'Business Line', all:'All Business Lines', fields:{{com:'business_line', deal:'business_line', brand:'business_line', react:'bl', trk:'business_line'}} }},
+  {{key:'dsp',     label:'DSP Group',     all:'All DSPs',           fields:{{com:'dsp_group_name', deal:'advertiser', oa:'advertiser', brand:'dsp_group_name', wk:'dsp_group_name', react:'dsp', trk:'dsp_group_name'}} }},
+  {{key:'channel', label:'Channel ID',    all:'All Channels',       fields:{{com:'channel_id', deal:'channel_id', brand:'channel_id', wk:'channel_id'}} }},
+  {{key:'bl',      label:'Business Line', all:'All Business Lines', fields:{{com:'business_line', deal:'business_line', brand:'business_line', wk:'business_line', react:'bl', trk:'business_line'}} }},
 ];
 const selected = {{dsp:new Set(), channel:new Set(), bl:new Set()}};
 
@@ -685,7 +709,7 @@ function applyFilters(){{
       sel.size===0?f.all:(sel.size===1?[...sel][0]:sel.size+' selected');
     document.getElementById('ms-trig-'+f.key).classList.toggle('active-filter',sel.size>0);
   }});
-  comPage=dealPage=oaPage=brandPage=reactPage=trkPage=1;
+  comPage=dealPage=oaPage=brandPage=wkPage=reactPage=trkPage=1;
   OVERVIEWS.forEach(o=>o.page=1);
   rebuildAll();
 }}
@@ -1263,6 +1287,95 @@ function brandCSV(){{
   downloadCSV([header,...body],'neurox_brands_'+String(BRAND_DSP??'all').replace(/[^\\w-]+/g,'_'));
 }}
 
+// ══════════════ Tab 4: Weekly View (WoW, rolling 7-day windows) ══════════════
+// Rows grouped by any combination of Business Line / Connection Type / Product
+// Format (chip toggles, at least one always on). Columns: current week, previous
+// week, WoW USD, WoW %. Sorted by WoW USD variation desc. Global filters apply.
+const WK_DIMS=[
+  {{key:'bl', label:'Business Line',   field:'business_line'}},
+  {{key:'ct', label:'Connection Type', field:'connection_type'}},
+  {{key:'pf', label:'Product Format',  field:'product_category'}},
+];
+const wkActive=new Set(['bl']);
+function wkDimToggle(key){{
+  if(wkActive.has(key)){{
+    if(wkActive.size===1) return;              // keep at least one dimension
+    wkActive.delete(key);
+  }} else wkActive.add(key);
+  document.querySelectorAll('.wk-dim').forEach(b=>b.classList.toggle('active',wkActive.has(b.dataset.dim)));
+  wkPage=1; buildWk(); renderWk();
+}}
+// Window labels from the build date (rolling weeks, not ISO calendar weeks)
+const WK_WINDOWS=(()=>{{
+  const day=86400000, end=Date.parse({json.dumps(today)});
+  const d=t=>new Date(t).toISOString().slice(0,10);
+  return {{cur:`${{d(end-7*day)}} → ${{d(end-day)}}`, prev:`${{d(end-14*day)}} → ${{d(end-8*day)}}`}};
+}})();
+let WK=[], WK_TOTAL=null;
+function buildWk(){{
+  const dims=WK_DIMS.filter(x=>wkActive.has(x.key));
+  const map=new Map();
+  WK_TOTAL={{cur:0,prev:0}};
+  filt(WK_ROWS,'wk').forEach(r=>{{
+    const key=dims.map(x=>r[x.field]??'—').join('\\u0001');
+    let e=map.get(key);
+    if(!e){{e={{vals:dims.map(x=>r[x.field]??'—'),cur:0,prev:0}};map.set(key,e);}}
+    const v=Number(r.rev_gross)||0;
+    if(r.period==='current_week'){{e.cur+=v;WK_TOTAL.cur+=v;}}
+    else if(r.period==='previous_week'){{e.prev+=v;WK_TOTAL.prev+=v;}}
+  }});
+  WK=[...map.values()].sort((a,b)=>(b.cur-b.prev)-(a.cur-a.prev));   // WoW USD desc
+}}
+const WK_PAGE=50;
+let wkPage=1;
+function wkPctCell(cur,prev){{
+  if(!prev) return '<td class="number"><span class="muted">·</span></td>';
+  const p=cur/prev-1;
+  return `<td class="number ${{p>=0?'pos':'neg'}}">${{fmtPct(p)}}</td>`;
+}}
+function wkUsdCell(cur,prev){{
+  const d=cur-prev;
+  return `<td class="number ${{d>=0?'pos':'neg'}}" title="${{fmtUSD2(d)}}">${{fmtUSDdelta(d)}}</td>`;
+}}
+function wkRow(vals,cur,prev,cls){{
+  return `<tr${{cls?` class="${{cls}}"`:''}}>`+
+    vals.map(v=>`<td title="${{escapeHtml(v)}}">${{escapeHtml(v)}}</td>`).join('')+
+    `<td class="number" title="${{fmtUSD2(cur)}}">${{fmtUSD(cur)}}</td>`+
+    `<td class="number" title="${{fmtUSD2(prev)}}">${{fmtUSD(prev)}}</td>`+
+    wkUsdCell(cur,prev)+wkPctCell(cur,prev)+'</tr>';
+}}
+function renderWk(){{
+  const dims=WK_DIMS.filter(x=>wkActive.has(x.key));
+  document.getElementById('wk-sub').childNodes[0].textContent =
+    `Week-over-week revenue — rolling 7-day windows: current ${{WK_WINDOWS.cur}} vs previous ${{WK_WINDOWS.prev}}. Sorted by WoW USD variation. `;
+  document.getElementById('wk-head').innerHTML =
+    '<tr>'+dims.map(x=>`<th>${{x.label}}</th>`).join('')+
+    `<th class="number" title="${{WK_WINDOWS.cur}}">Current Week</th>`+
+    `<th class="number" title="${{WK_WINDOWS.prev}}">Previous Week</th>`+
+    '<th class="number">WoW USD</th><th class="number">WoW %</th></tr>';
+  const pages=Math.max(1,Math.ceil(WK.length/WK_PAGE));
+  wkPage=Math.min(wkPage,pages);
+  const start=(wkPage-1)*WK_PAGE, slice=WK.slice(start,start+WK_PAGE);
+  let body=slice.map(e=>wkRow(e.vals,e.cur,e.prev)).join('');
+  if(WK.length){{
+    const tv=['Total',...Array(dims.length-1).fill('')];
+    body+=wkRow(tv,WK_TOTAL.cur,WK_TOTAL.prev,'total-row');
+  }}
+  document.getElementById('wk-body').innerHTML = body || '<tr><td class="muted">No data</td></tr>';
+  document.getElementById('wk-count').textContent =
+    `${{fmtInt(WK.length)}} rows · current week ${{fmtUSD(WK_TOTAL?WK_TOTAL.cur:0)}} vs previous ${{fmtUSD(WK_TOTAL?WK_TOTAL.prev:0)}}${{anyFilter()?' (filtered)':''}}`;
+  renderPagination('wk-pag',pages,wkPage,p=>{{wkPage=p;renderWk();}});
+}}
+function wkCSV(){{
+  const dims=WK_DIMS.filter(x=>wkActive.has(x.key));
+  const header=[...dims.map(x=>x.label),`Current Week (${{WK_WINDOWS.cur}})`,`Previous Week (${{WK_WINDOWS.prev}})`,'WoW USD','WoW %'];
+  const rowOf=(vals,cur,prev)=>[...vals,Math.round(cur*100)/100,Math.round(prev*100)/100,
+    Math.round((cur-prev)*100)/100, prev?((cur/prev-1)*100).toFixed(1)+'%':''];
+  const body=WK.map(e=>rowOf(e.vals,e.cur,e.prev));
+  if(WK_TOTAL) body.push(rowOf(['Total',...Array(dims.length-1).fill('')],WK_TOTAL.cur,WK_TOTAL.prev));
+  downloadCSV([header,...body],'neurox_weekly_wow');
+}}
+
 // ══════════════ Crush Q3 · Reactivation (loss tables, worst first) ══════════════
 // Loss = 2025 peak month vs Jun 2026 · rows with 2025 peak ≥ $1k · excl. PMP - Seedtag
 // (exclusion applied in SQL). Baseline columns Jan 25 – Jun 26; each follow-up month
@@ -1509,8 +1622,8 @@ function trkCSV(){{
 
 // ══════════════ boot / rebuild ══════════════
 function rebuildAll(){{
-  buildCom(); OVERVIEWS.forEach(ovBuild); buildDeals(); buildOA(); buildBrands(); buildReact(); buildTrk();
-  renderCom(); OVERVIEWS.forEach(ovRender); renderDeals(); renderOA(); renderBrands(); renderReact(); renderTrk();
+  buildCom(); OVERVIEWS.forEach(ovBuild); buildDeals(); buildOA(); buildBrands(); buildWk(); buildReact(); buildTrk();
+  renderCom(); OVERVIEWS.forEach(ovRender); renderDeals(); renderOA(); renderBrands(); renderWk(); renderReact(); renderTrk();
 }}
 document.addEventListener('DOMContentLoaded',()=>{{
   buildFilters();

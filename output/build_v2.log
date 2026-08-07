@@ -1,30 +1,28 @@
-Using CPython 3.13.12 interpreter at: /opt/homebrew/opt/python@3.13/bin/python3.13
-Creating virtual environment at: .venv
-Installed 34 packages in 96ms
-NeuroX Demand Dashboard — 2026-08-03
+NeuroX Demand Dashboard — 2026-08-07
 Data since: 2025-01-01 (quarterly; brands since 2025-06-01)
 
 Running commercial + open-auction queries + 7 deals chunks + 6 brand chunks (2 in flight)…
-  ✓ commercial activity: 1,198 rows
-  ✓ open auction: 1,794 ad_name×quarter rows
-  ✓ crush q3: 19,415 baseline + 8,188 follow-up rows, 12 new deals, 872 daily points
+  ✓ commercial activity: 1,201 rows
+  ✓ open auction: 1,796 ad_name×quarter rows
+  ✓ weekly view: 323 rows
+  ✓ crush q3: 19,415 baseline + 8,218 follow-up rows, 12 new deals, 1,040 daily points
   ✓ deals 2025-01-01: 1,008 rows
   ✓ deals 2025-04-01: 2,508 rows
   ✓ deals 2025-07-01: 5,013 rows
   ✓ deals 2025-10-01: 3,829 rows
   ✓ deals 2026-01-01: 2,874 rows
   ✓ deals 2026-04-01: 4,069 rows
-  ✓ deals 2026-07-01: 2,318 rows
+  ✓ deals 2026-07-01: 2,388 rows
   ✓ brands 2025-06-01: 12,290 rows
   ✓ brands 2025-07-01: 17,854 rows
   ✓ brands 2025-10-01: 14,908 rows
   ✓ brands 2026-01-01: 13,563 rows
   ✓ brands 2026-04-01: 14,846 rows
-  ✓ brands 2026-07-01: 11,344 rows
-  ✓ deals total: 21,619 rows · brands total: 84,805 rows
+  ✓ brands 2026-07-01: 11,839 rows
+  ✓ deals total: 21,689 rows · brands total: 85,300 rows
   ✓ CSVs written to output/
-  ✓ brands: SQL 90%-coverage trim only (84,805 rows embedded)
-  ✓ 7 quarters (2025-01-01 → 2026-07-01), 59 DSPs, 1,794 OA rows, 1,198 commercial rows, 84,805 brand rows, 20,766 reactivation rows, 12 new deals
+  ✓ brands: SQL 90%-coverage trim only (85,300 rows embedded)
+  ✓ 7 quarters (2025-01-01 → 2026-07-01), 59 DSPs, 1,796 OA rows, 1,201 commercial rows, 85,300 brand rows, 20,796 reactivation rows, 12 new deals
 
-✓ HTML saved: /Users/jperez/Desktop/Seedtag/notebooks/neurox_dashboard/output/adex_dashboard_v2.html  (7.5 MB)
+✓ HTML saved: /Users/jperez/Desktop/Seedtag/notebooks/neurox_dashboard/output/adex_dashboard_v2.html  (7.6 MB)
   Self-contained file — open it directly or share it: /Users/jperez/Desktop/Seedtag/notebooks/neurox_dashboard/output/adex_dashboard_v2.html
