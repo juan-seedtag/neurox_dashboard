@@ -13,14 +13,14 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-04-01,Direct,Open Auction - Seedtag,Native,RtbHouse,RtbHouse,1807146.33,431367633
 2026-04-01,Direct,Open Auction - Seedtag,Native,RtbHouse,RtbHouse,1634268.64,1079523343
 2026-01-01,Direct,Open Auction - Seedtag,Native,RtbHouse,RtbHouse,1454615.91,1311664090
-2026-07-01,BidSwitch,Open Auction - Seedtag,Display,DV360,DBM,1390759.39,1679067505
+2026-07-01,BidSwitch,Open Auction - Seedtag,Display,DV360,DBM,1422037.13,1720711185
 2025-01-01,Direct,Open Auction - Seedtag,Native,RtbHouse,RtbHouse,1358129.23,
 2026-01-01,Direct,Open Auction - Seedtag,Native,MSAN,AppNexus,1264723.19,1192469623
 2025-04-01,Direct,PMP Web - O&O,Display,TheTradeDesk,TheTradeDesk,1174392.17,37864952
 2026-04-01,Direct,PMP Web - O&O,Display,TheTradeDesk,TheTradeDesk,1135810.43,239498563
+2026-07-01,Direct,Open Auction - Seedtag,Display,MSAN,AppNexus,1105394.43,1721096550
 2025-01-01,Direct,Open Auction - Seedtag,Native,Outbrain/Teads,Outbrain,1092322.53,
-2026-07-01,Direct,Open Auction - Seedtag,Display,MSAN,AppNexus,1080061.42,1681922538
-2026-07-01,Direct,Open Auction - Seedtag,Native,MSAN,AppNexus,1062439.91,742313104
+2026-07-01,Direct,Open Auction - Seedtag,Native,MSAN,AppNexus,1083856.14,758402781
 2026-04-01,Direct,PMP Web - O&O,Online Video,TheTradeDesk,TheTradeDesk,1011822.26,105371822
 2025-10-01,Direct,Open Auction - Seedtag,Online Video,TheTradeDesk,TheTradeDesk,982911.64,734320410
 2025-07-01,Direct,Open Auction - BFM,CTV,Viant,Viant,981870.8,148981531
@@ -43,20 +43,20 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-04-01,Direct,Open Auction - Seedtag,Native,Outbrain/Teads,Outbrain,774478.65,190859029
 2026-04-01,Direct,Open Auction - Seedtag,Display,RtbHouse,RtbHouse,771723.74,903396140
 2025-07-01,BidSwitch,Open Auction - Seedtag,Online Video,DV360,DBM,740149.95,661682937
+2026-07-01,BidSwitch,PMP Web - O&O,Display,DV360,DBM,737621.33,155617921
 2025-07-01,Direct,Open Auction - BFM,CTV,TheTradeDesk,TheTradeDesk,735728.85,80341661
 2026-04-01,Direct,Open Auction - Seedtag,Online Video,TheTradeDesk,TheTradeDesk,725140.2,939108866
-2026-07-01,BidSwitch,PMP Web - O&O,Display,DV360,DBM,709631.57,151867830
 2025-07-01,Direct,Select - BFM,CTV,TheTradeDesk,TheTradeDesk,701267.66,72009004
 2026-04-01,Direct,Open Auction - Seedtag,Display,TheTradeDesk,TheTradeDesk,698772.14,1623856809
+2026-07-01,BidSwitch,PMP Web - O&O,Online Video,DV360,DBM,690459.14,80864914
 2026-04-01,Direct,Open Auction - BFM,CTV,StackAdapt,StackAdapt,685421.16,70586109
-2026-07-01,BidSwitch,PMP Web - O&O,Online Video,DV360,DBM,679552.2,79846783
 2025-07-01,Direct,Open Auction - Seedtag,Display,MSAN,AppNexus,666695.14,1529050885
 2026-01-01,Direct,Open Auction - Seedtag,Display,RtbHouse,RtbHouse,650981.59,1136516378
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,TheTradeDesk,TheTradeDesk,646742.16,43921961
 2025-07-01,Direct,Open Auction - Seedtag,Display,Xandr,AppNexus,631760.23,2287037784
 2025-04-01,Direct,Select - BFM,CTV,TheTradeDesk,TheTradeDesk,626905.99,64187694
+2026-07-01,Direct,Open Auction - Seedtag,Native,RtbHouse,RtbHouse,618174.12,447068968
 2025-10-01,Direct,Open Auction - Seedtag,Display,TheTradeDesk,TheTradeDesk,613393.03,831953164
-2026-07-01,Direct,Open Auction - Seedtag,Native,RtbHouse,RtbHouse,604418.83,435666000
 2026-01-01,Direct,Open Auction - Seedtag,Online Video,TheTradeDesk,TheTradeDesk,597928.92,842506464
 2025-04-01,Direct,Open Auction - Seedtag,Online Video,TheTradeDesk,TheTradeDesk,596961.99,201805782
 2026-01-01,Direct,Open Auction - BFM,CTV,Viant,Viant,591320.59,87190107
@@ -79,30 +79,30 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-04-01,BidSwitch,Open Auction - Seedtag,Online Video,DV360,DBM,471352.1,649703043
 2025-01-01,Direct,Open Auction - BFM,CTV,TheTradeDesk,TheTradeDesk,468060.4,59446769
 2026-01-01,Direct,Open Auction - Seedtag,Native,Outbrain/Teads,Outbrain,464470.29,1442836456
+2026-07-01,Direct,Open Auction - BFM,CTV,StackAdapt,StackAdapt,463031.9,58739210
+2026-07-01,Direct,PMP Web - O&O,Display,TheTradeDesk,TheTradeDesk,456839.71,94553589
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,Basis Technologies,Basis Technologies,454498.99,24559751
 2025-04-01,Direct,Open Auction - Seedtag,Display,TheTradeDesk,TheTradeDesk,445976.62,278941356
-2026-07-01,Direct,Open Auction - BFM,CTV,StackAdapt,StackAdapt,445241.17,56301604
-2026-07-01,Direct,PMP Web - O&O,Display,TheTradeDesk,TheTradeDesk,441179.2,91160021
+2026-07-01,Direct,PMP CTV - O&O,CTV,TheTradeDesk,TheTradeDesk,441604.7,24425328
 2026-01-01,BidSwitch,PMP CTV - O&O,CTV,DV360,DV360,438425.13,19986643
 2025-10-01,BidSwitch,PMP CTV - O&O,CTV,DV360,DV360,436651.39,19309537
 2025-01-01,BidSwitch,Open Auction - Seedtag,Online Video,DV360,DBM,434203.31,
+2026-07-01,Direct,PMP Web - O&O,Online Video,TheTradeDesk,TheTradeDesk,434122.11,51243512
 2026-01-01,Direct,PMP Web - O&O,Display,TheTradeDesk,TheTradeDesk,432659.89,71732430
-2026-07-01,Direct,PMP CTV - O&O,CTV,TheTradeDesk,TheTradeDesk,431523.5,23798707
 2025-04-01,Direct,PMP Web - O&O,Online Video,TheTradeDesk,TheTradeDesk,431115.31,38921496
 2025-04-01,BidSwitch,Open Auction - Seedtag,Display,DV360,GDN,430007.62,137900677
-2026-07-01,Direct,PMP Web - O&O,Online Video,TheTradeDesk,TheTradeDesk,425363.79,50125356
 2025-04-01,Direct,PMP CTV - O&O,CTV,TheTradeDesk,TheTradeDesk,423222.71,20211360
 2025-10-01,Direct,Open Auction - BFM,CTV,StackAdapt,StackAdapt,417392.17,52537154
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,Viant,Viant,414726.78,31168187
 2026-01-01,BidSwitch,Open Auction - Seedtag,Online Video,DV360,DBM,407624.97,579106325
 2025-10-01,BidSwitch,Open Auction - Seedtag,Display,DV360,GDN,406620.52,266170034
 2025-07-01,BidSwitch,Open Auction - Seedtag,Display,DV360,GDN,400936.31,388956688
+2026-07-01,BidSwitch,Open Auction - Seedtag,Online Video,DV360,DBM,392224.52,465885295
 2025-04-01,Direct,Select - BFM,CTV,Yahoo DSP,Yahoo DSP,391175.75,56955624
 2026-04-01,Direct,Open Auction - Seedtag,Native,StackAdapt,StackAdaptDSP,390889.15,236305130
 2026-01-01,Direct,PMP Web - O&O,Online Video,TheTradeDesk,TheTradeDesk,386330.57,49700808
 2026-04-01,Direct,Open Auction - BFM,CTV,TheTradeDesk,TheTradeDesk,382477.77,41824998
 2025-07-01,Direct,Open Auction - Seedtag,Display,TheTradeDesk,TheTradeDesk,382358.74,586475768
-2026-07-01,BidSwitch,Open Auction - Seedtag,Online Video,DV360,DBM,380836.88,451165455
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,Viant,Viant,377784.6,33659678
 2025-07-01,Direct,Select - BFM,CTV,Yahoo DSP,Yahoo DSP,377720.95,42394738
 2025-04-01,BidSwitch,Open Auction - Seedtag,Online Video,DV360,DBM,375216.1,181670396
@@ -117,15 +117,15 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-04-01,Direct,Open Auction - Seedtag,Display,Outbrain/Teads,Outbrain,349513.34,91954479
 2025-01-01,Direct,PMP CTV - O&O,CTV,TheTradeDesk,TheTradeDesk,348825.95,14920987
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,Viant,Viant,339629.22,29978111
+2026-07-01,Direct,Open Auction - Seedtag,Display,StackAdapt,StackAdaptDSP,333782.77,316182887
 2026-04-01,Direct,Open Auction - Seedtag,Display,Outbrain/Teads,Outbrain,332688.15,978723769
-2026-07-01,Direct,Open Auction - Seedtag,Display,StackAdapt,StackAdaptDSP,325998.86,308489484
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,TheTradeDesk,TheTradeDesk,318833.63,24970461
 2025-01-01,Direct,Select - BFM,CTV,TheTradeDesk,TheTradeDesk,316055.14,35980859
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,Viant,Viant,315841.69,23201826
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,Viant,Viant,310397.72,26712616
 2025-01-01,BidSwitch,Open Auction - Seedtag,Display,Sportradar,Sportradar,307832.05,
 2026-01-01,BidSwitch,Open Auction - Seedtag,Display,Sportradar,Sportradar,301173.67,853982395
-2026-07-01,Direct,Open Auction - Seedtag,Display,RtbHouse,RtbHouse,292625.43,341173198
+2026-07-01,Direct,Open Auction - Seedtag,Display,RtbHouse,RtbHouse,299604.02,350031741
 2025-01-01,BidSwitch,Open Auction - Seedtag,Display,DV360,GDN,291897.41,
 2026-04-01,Direct,Open Auction - Seedtag,Online Video,StackAdapt,StackAdaptDSP,288799.89,130330622
 2026-04-01,Direct,Open Auction - Seedtag,Display,Nexxen,Nexxen,282198.2,337353193
@@ -139,52 +139,52 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,TheTradeDesk,TheTradeDesk,262019.19,23042246
 2025-10-01,Direct,Open Auction - Seedtag,Display,Nexxen,Nexxen,258760.13,309136566
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,Beeswax,Beeswax,255867.12,16784157
+2026-07-01,Direct,Open Auction - Seedtag,Online Video,TheTradeDesk,TheTradeDesk,255573.04,340168043
 2025-01-01,Direct,Open Auction - Seedtag,Online Video,TheTradeDesk,TheTradeDesk,252329.25,
 2026-01-01,Direct,Open Auction - Seedtag,Display,Outbrain/Teads,Outbrain,252257.89,640244941
-2026-07-01,Direct,Open Auction - Seedtag,Online Video,TheTradeDesk,TheTradeDesk,250042.17,330983363
 2025-04-01,BidSwitch,PMP CTV - O&O,CTV,DV360,DV360,247408.42,12924751
+2026-07-01,Direct,Open Auction - BFM,CTV,Pubmatic,Pubmatic,246172.63,33459154
 2026-01-01,BidSwitch,Open Auction - Seedtag,Display,NextRoll,NextRoll,245742.63,1443158520
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,TheTradeDesk,TheTradeDesk,245665.76,18298401
+2026-07-01,Direct,Open Auction - Seedtag,Display,TheTradeDesk,TheTradeDesk,241890.02,567135014
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,MadHive,MadHive,239158.32,31957806
 2025-04-01,Direct,Open Auction - BFM,CTV,Basis Technologies,Basis Technologies,238539.06,31523551
-2026-07-01,Direct,Open Auction - Seedtag,Display,TheTradeDesk,TheTradeDesk,236321.83,553871853
 2026-01-01,Direct,Open Auction - BFM,CTV,Beeswax,Beeswax,235245.31,20492601
 2025-01-01,Direct,Open Auction - BFM,CTV,Conversant,Epsilon (Conversant),234580.91,36563279
-2026-07-01,Direct,Open Auction - BFM,CTV,Pubmatic,Pubmatic,234065.22,31644565
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,Basis Technologies,Basis Technologies,233102.64,14093461
+2026-07-01,Direct,Open Auction - Seedtag,Native,StackAdapt,StackAdaptDSP,231645.1,163742736
 2025-04-01,Direct,Open Auction - BFM,CTV,SimpliFi,SimpliFi,230927.48,31372626
 2026-04-01,Direct,Open Auction - Seedtag,Online Video,Nexxen,Nexxen,229422.14,160642969
 2026-01-01,Direct,PMP CTV - O&O,CTV,Viant,Viant,227915.44,14557371
 2026-04-01,BidSwitch,Open Auction - Seedtag,Display,DV360,GDN,226145.79,205159838
 2025-10-01,Direct,Open Auction - BFM,CTV,Beeswax,Beeswax,226040.69,19427960
-2026-07-01,Direct,Open Auction - Seedtag,Native,StackAdapt,StackAdaptDSP,225778.76,159858692
 2025-10-01,Direct,Open Auction - BFM,CTV,LoopMe,LoopMe,225723.31,26842985
+2026-07-01,Direct,Open Auction - BFM,CTV,Viant,Viant,225530.68,34377159
 2025-04-01,BidSwitch,Open Auction - Seedtag,Display,Sportradar,Sportradar,223248.04,101558422
 2026-01-01,Direct,Open Auction - Seedtag,Native,Opera,Opera,222595.38,282554687
+2026-07-01,Direct,Open Auction - BFM,CTV,Beeswax,Beeswax,221712.0,13874228
 2025-01-01,Direct,Open Auction - BFM,CTV,Marketing Architects,Marketing Architects -RTB,220207.93,36830924
-2026-07-01,Direct,Open Auction - BFM,CTV,Viant,Viant,219998.35,33539506
-2026-07-01,Direct,Open Auction - BFM,CTV,Beeswax,Beeswax,218777.61,13697138
 2025-07-01,Direct,Open Auction - BFM,CTV,StackAdapt,StackAdapt,217494.03,24959012
 2026-04-01,BidSwitch,PMP Web - O&O,Online Video,DV360,DBM,211122.6,28525577
 2025-04-01,Direct,Open Auction - Seedtag,Display,Nexxen,Nexxen,210822.47,113176712
 2025-10-01,BidSwitch,Open Auction - Seedtag,Display,Sportradar,Sportradar,207586.32,368485009
 2026-01-01,Direct,Open Auction - Seedtag,Display,Xandr,AppNexus,206091.0,1438504051
 2025-10-01,Direct,Open Auction - Seedtag,Native,Outbrain/Teads,Outbrain,199592.83,359308240
+2026-07-01,Direct,Open Auction - BFM,CTV,Amobee,Amobee,199553.16,23197786
 2026-04-01,BidSwitch,Open Auction - Seedtag,Display,Sportradar,Sportradar,198761.45,395504896
 2026-01-01,Direct,Select - BFM,CTV,TheTradeDesk,TheTradeDesk,197901.6,21029179
 2025-10-01,Direct,Open Auction - Seedtag,Native,Opera,Opera,197110.01,189816175
 2026-04-01,Direct,Select - BFM,CTV,TheTradeDesk,TheTradeDesk,195865.12,21620698
 2025-07-01,Direct,Open Auction - Seedtag,Native,MSAN,AppNexus,195782.87,543243063
 2026-04-01,BidSwitch,Open Auction - Seedtag,Display,NextRoll,NextRoll,195762.14,1314198640
+2026-07-01,BidSwitch,PMP CTV - O&O,CTV,DV360,DV360,194428.72,10055502
 2025-07-01,Direct,Open Auction - BFM,CTV,Basis Technologies,Basis Technologies,191060.11,24685248
 2025-07-01,Direct,Open Auction - BFM,CTV,SimpliFi,SimpliFi,190985.55,28890488
-2026-07-01,Direct,Open Auction - BFM,CTV,Amobee,Amobee,190394.34,22353196
 2025-10-01,Direct,Open Auction - BFM,CTV,Basis Technologies,Basis Technologies,189267.98,27661577
-2026-07-01,BidSwitch,PMP CTV - O&O,CTV,DV360,DV360,188688.0,9763889
+2026-07-01,Direct,Open Auction - Seedtag,Native,Outbrain/Teads,Outbrain,188159.31,620565396
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,Octillion,Octillion,186074.81,8171118
 2025-10-01,Direct,Open Auction - BFM,CTV,Conversant,Epsilon (Conversant),185175.56,75848137
 2025-10-01,Direct,Select - BFM,CTV,TheTradeDesk,TheTradeDesk,183040.93,20684302
-2026-07-01,Direct,Open Auction - Seedtag,Native,Outbrain/Teads,Outbrain,182507.84,599308299
 2025-04-01,BidSwitch,Open Auction - BFM,CTV,Zeta DSP,Zeta DSP,181986.45,27288203
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,Conversant,Epsilon (Conversant),180358.1,18602402
 2025-07-01,BidSwitch,Open Auction - Seedtag,Display,Sportradar,Sportradar,178062.86,345652886
@@ -197,23 +197,23 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-01-01,Direct,Select - BFM,CTV,Yahoo DSP,Yahoo DSP,168682.54,19541600
 2025-01-01,Direct,Open Auction - BFM,CTV,Beeswax,Beeswax,168298.01,17428227
 2026-01-01,Direct,Open Auction - BFM,CTV,Amobee,Amobee,166137.93,24729981
+2026-07-01,Direct,Open Auction - BFM,CTV,TheTradeDesk,TheTradeDesk,163172.52,17834895
 2025-07-01,Direct,Open Auction - BFM,CTV,Beeswax,Beeswax,161297.61,17188895
 2025-10-01,Direct,Open Auction - BFM,CTV,Amobee,Amobee,160900.29,22242185
+2026-07-01,Direct,Open Auction - Seedtag,Display,Nexxen,Nexxen,159834.17,173342853
 2026-01-01,Direct,Open Auction - Seedtag,Display,Nexxen,Nexxen,159099.7,483430981
 2025-04-01,Direct,Open Auction - Seedtag,Display,MSAN,AppNexus,158997.74,404682209
 2026-04-01,Direct,Open Auction - Seedtag,Native,Opera,Opera,157595.43,205558782
-2026-07-01,Direct,Open Auction - BFM,CTV,TheTradeDesk,TheTradeDesk,157404.92,17178643
 2025-07-01,Direct,DSP Marketplace - BFM,CTV,MadHive,MadHive,157076.51,17926242
 2025-01-01,Direct,Select - BFM,CTV,Yahoo DSP,Yahoo DSP,156592.29,12253620
 2025-01-01,BidSwitch,Open Auction - BFM,CTV,Zeta DSP,Zeta DSP,156287.54,15449303
 2025-01-01,Direct,Open Auction - Seedtag,Display,Nexxen,Nexxen,155705.75,
-2026-07-01,Direct,Open Auction - Seedtag,Display,Nexxen,Nexxen,155195.04,170528938
+2026-07-01,Direct,Open Auction - Seedtag,Online Video,StackAdapt,StackAdaptDSP,153807.37,75172252
 2025-01-01,Direct,Open Auction - BFM,CTV,Basis Technologies,Basis Technologies,151798.73,21531235
 2026-01-01,Direct,Open Auction - BFM,CTV,Marketing Architects,Marketing Architects -RTB,150945.65,31815858
-2026-07-01,Direct,Open Auction - Seedtag,Online Video,StackAdapt,StackAdaptDSP,150162.11,72908177
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,StackAdapt,StackAdapt,149130.95,12108877
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,MadHive,MadHive,148805.64,18187270
-2026-07-01,Direct,Open Auction - Seedtag,Display,Outbrain/Teads,Outbrain,143418.05,356092521
+2026-07-01,Direct,Open Auction - Seedtag,Display,Outbrain/Teads,Outbrain,147898.36,366776439
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,DV360,DV360,142151.14,28864121
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,SimpliFi,SimpliFi,141050.16,11079984
 2025-10-01,Direct,Open Auction - Seedtag,Online Video,Nexxen,Nexxen,140732.57,111002495
@@ -255,9 +255,9 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-04-01,BidSwitch,PMP Web - O&O,Display,DV360,DBM,103224.93,12124795
 2025-04-01,Direct,Open Auction - BFM,CTV,Beeswax,Beeswax,103052.06,14871595
 2025-04-01,Direct,Open Auction - Seedtag,Native,Opera,Opera,101199.8,61908521
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,TheTradeDesk,TheTradeDesk,100664.42,8444568
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,StackAdapt,StackAdapt,99373.04,6570806
 2025-07-01,Direct,Open Auction - Seedtag,Native,Xandr,AppNexus,99289.61,363335781
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,TheTradeDesk,TheTradeDesk,99229.3,8338701
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,Octillion,Octillion,98943.88,5572544
 2025-10-01,Direct,Open Auction - Seedtag,Online Video,Xandr,AppNexus,98843.62,183857374
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,Beeswax,Beeswax,98745.99,6920374
@@ -272,11 +272,11 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-10-01,Direct,PMP CTV - O&O,CTV,StackAdapt,StackAdapt,93439.91,8470701
 2025-04-01,BidSwitch,DSP Marketplace - BFM,CTV,Infillion,Infillion,92637.41,11995237
 2025-07-01,Direct,DSP Marketplace - BFM,CTV,StackAdapt,StackAdapt,91645.7,7760977
+2026-07-01,BidSwitch,Open Auction - Seedtag,Display,NextRoll,NextRoll,90692.02,730370153
 2025-07-01,BidSwitch,PMP Web - O&O,Display,DV360,DBM,90452.7,19893106
 2025-07-01,Direct,Open Auction - BFM,CTV,Sharethrough,Sharethrough,89276.73,18429526
 2025-07-01,Direct,DSP Marketplace - BFM,CTV,SimpliFi,SimpliFi,89226.73,7825961
 2025-01-01,Direct,Open Auction - Seedtag,Online Video,RtbHouse,RtbHouse,88817.41,
-2026-07-01,BidSwitch,Open Auction - Seedtag,Display,NextRoll,NextRoll,88107.16,707696862
 2025-07-01,Direct,DSP Marketplace - BFM,CTV,GroundTruth,GroundTruth,87973.84,7378517
 2025-07-01,BidSwitch,Open Auction - BFM,CTV,Amazon DSP,Amazon DSP,87874.66,53594237
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,GroundTruth,GroundTruth,87804.75,7954561
@@ -299,13 +299,13 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-04-01,Direct,Open Auction - BFM,CTV,Adtelligent,Adtelligent,78177.64,5195096
 2025-04-01,BidSwitch,DSP Marketplace - BFM,CTV,Zeta DSP,Zeta DSP,76818.09,5177629
 2026-01-01,Direct,Open Auction - BFM,CTV,LoopMe,LoopMe,76012.29,8871662
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,StackAdapt,StackAdapt,75788.1,4555502
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,Amazon DSP,Amazon DSP,73851.4,46547560
 2025-04-01,BidSwitch,Open Auction - BFM,CTV,Amazon DSP,Amazon DSP,73849.76,52803705
 2025-01-01,Direct,Select - BFM,CTV,Viant,Viant,72998.54,3903141
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,StackAdapt,StackAdapt,72347.18,4359030
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,Viant,Viant,72539.96,7714787
 2025-07-01,Direct,Select - BFM,CTV,Viant,Viant,71985.16,6911279
 2025-01-01,Direct,Open Auction - BFM,Display,Basis Technologies,Basis Technologies,71884.13,33394120
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,Viant,Viant,71848.23,7650559
 2025-04-01,Direct,Open Auction - BFM,CTV,Lemma DSP,Lemma DSP,71099.24,10475318
 2026-04-01,BidSwitch,Open Auction - Seedtag,Display,StackAdapt,StackAdapt,71079.79,91314591
 2026-04-01,Direct,Select - BFM,CTV,Viant,Viant,71012.42,7037341
@@ -319,10 +319,10 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-04-01,Direct,Open Auction - Seedtag,Display,Illumin,Illumin,68318.22,88682618
 2026-01-01,BidSwitch,Open Auction - BFM,CTV,DV360,DV360,67965.84,26459486
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,JamLoop OpenRTB,JamLoop OpenRTB,67808.12,6994050
+2026-07-01,Direct,Open Auction - Seedtag,Online Video,Nexxen,Nexxen,67259.21,50424648
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,Basis Technologies,Basis Technologies,67121.78,3455876
 2026-04-01,Direct,Open Auction - Seedtag,Display,Viant,Viant,66265.88,35907612
 2025-10-01,Direct,Open Auction - BFM,CTV,Xandr,AppNexus,66091.95,12397241
-2026-07-01,Direct,Open Auction - Seedtag,Online Video,Nexxen,Nexxen,65991.88,49443378
 2025-04-01,Direct,Open Auction - Seedtag,Native,TheTradeDesk,TheTradeDesk,65916.87,65219541
 2026-04-01,Direct,Open Auction - Seedtag,Display,Conversant,Conversant,65914.9,47407515
 2026-04-01,Direct,Open Auction - BFM,CTV,Basis Technologies,Basis Technologies,65882.03,8643760
@@ -337,23 +337,23 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-10-01,Direct,Select - BFM,CTV,Viant,Viant,62178.68,6580375
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,MadHive,MadHive,61418.27,6900934
 2025-10-01,Direct,Open Auction - Seedtag,Online Video,Illumin,Illumin,61235.0,42073933
+2026-07-01,BidSwitch,Open Auction - Seedtag,Display,DV360,GDN,60499.11,74510633
 2025-01-01,Direct,Open Auction - BFM,CTV,GroundTruth,GroundTruth,60434.22,8086279
+2026-07-01,Direct,Open Auction - Seedtag,Native,Opera,Opera,60268.43,106071741
 2026-01-01,Direct,Open Auction - Seedtag,Native,Xandr,AppNexus,60174.59,154068271
 2025-04-01,Direct,Open Auction - BFM,CTV,Sharethrough,Sharethrough,60046.34,17555459
-2026-07-01,BidSwitch,Open Auction - Seedtag,Display,DV360,GDN,59774.81,73383504
 2026-04-01,Direct,Open Auction - Seedtag,Native,TheTradeDesk,TheTradeDesk,59485.93,142217954
 2025-07-01,Direct,Open Auction - BFM,CTV,Amobee,Amobee,59019.82,7082260
 2026-01-01,Direct,Open Auction - BFM,CTV,Yahoo DSP,Yahoo DSP,58232.72,5380547
-2026-07-01,Direct,Open Auction - Seedtag,Native,Opera,Opera,58119.08,103025111
 2026-04-01,BidSwitch,Open Auction - BFM,CTV,Zeta DSP,Zeta DSP,58113.02,4575862
+2026-07-01,BidSwitch,Open Auction - Seedtag,Display,Sportradar,Sportradar,57800.24,135493480
 2025-01-01,Direct,Open Auction - BFM,CTV,Lemma DSP,Lemma DSP,57446.21,6690208
+2026-07-01,Direct,Select - BFM,CTV,Yahoo DSP,Yahoo DSP,57265.44,6415431
 2025-07-01,Direct,DSP Marketplace - BFM,CTV,JamLoop OpenRTB,JamLoop OpenRTB,57117.95,5696182
-2026-07-01,BidSwitch,Open Auction - Seedtag,Display,Sportradar,Sportradar,56733.27,133135494
-2026-07-01,Direct,Select - BFM,CTV,Yahoo DSP,Yahoo DSP,56607.77,6331062
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,Conversant,Epsilon (Conversant),56604.46,6579328
 2026-04-01,Direct,Open Auction - BFM,CTV,Yahoo DSP,Yahoo DSP,56548.6,5453251
 2025-01-01,Direct,Open Auction - BFM,CTV,Adtelligent,Adtelligent,55532.68,3638554
 2025-07-01,Direct,Open Auction - BFM,CTV,4INFO,4INFO,55162.75,10462624
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,Conversant,Epsilon (Conversant),54802.42,6381177
 2025-07-01,Direct,Open Auction - BFM,Display,Basis Technologies,Basis Technologies,54801.65,31777010
 2025-04-01,Direct,Select - BFM,CTV,Viant,Viant,54780.32,4359673
 2025-07-01,Direct,Open Auction - Seedtag,Display,Opera,Opera,54366.48,63803769
@@ -361,12 +361,12 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-01-01,Direct,Open Auction - BFM,Display,TheTradeDesk,TheTradeDesk,53444.11,43695286
 2025-10-01,Direct,Open Auction - Seedtag,Display,Opera,Opera,52766.24,52928447
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,Yahoo DSP,Yahoo DSP,52560.1,2270930
+2026-07-01,Direct,PMP CTV - O&O,CTV,Viant,Viant,51895.9,3517097
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,Yahoo DSP,Yahoo DSP,51454.18,2457498
 2025-07-01,Direct,Open Auction - Seedtag,Display,Illumin,Illumin,51375.14,86485029
 2025-01-01,Direct,Open Auction - BFM,CTV,SimpliFi,SimpliFi,50957.47,7943813
-2026-07-01,Direct,PMP CTV - O&O,CTV,Viant,Viant,50296.12,3400383
+2026-07-01,Direct,Open Auction - BFM,CTV,Basis Technologies,Basis Technologies,50659.45,4044970
 2026-01-01,Direct,Open Auction - BFM,CTV,Lemma DSP,Lemma DSP,50118.38,18409532
-2026-07-01,Direct,Open Auction - BFM,CTV,Basis Technologies,Basis Technologies,49784.24,3965191
 2025-10-01,BidSwitch,DSP Marketplace - BFM,CTV,Infillion,Infillion,47670.8,6784087
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,Conversant,Epsilon (Conversant),47402.36,5252038
 2026-04-01,Direct,Open Auction - Seedtag,Online Video,Viant,Viant,47361.63,18698674
@@ -380,19 +380,19 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-04-01,BidSwitch,DSP Marketplace - BFM,CTV,Zeta DSP,Zeta DSP,43602.11,2929770
 2026-01-01,Direct,Open Auction - Seedtag,Native,StackAdapt,StackAdaptDSP,43467.08,28257931
 2025-01-01,Direct,Open Auction - BFM,CTV,Yahoo DSP,Yahoo DSP,43302.9,9723288
+2026-07-01,Direct,Select - BFM,CTV,TheTradeDesk,TheTradeDesk,42682.38,4811988
 2026-01-01,Direct,Open Auction - BFM,CTV,Xandr,AppNexus,42381.13,8050766
 2025-07-01,BidSwitch,DSP Marketplace - BFM,CTV,Zeta DSP,Zeta DSP,42253.17,2857905
+2026-07-01,Direct,Open Auction - BFM,CTV,Yahoo DSP,Yahoo DSP,41581.28,4729486
 2025-07-01,Direct,Open Auction - BFM,CTV,Xandr,AppNexus,41404.62,7204752
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,Basis Technologies,Basis Technologies,41230.53,2756538
 2025-01-01,Direct,Open Auction - BFM,CTV,Xandr,AppNexus,41205.01,5072121
-2026-07-01,Direct,Select - BFM,CTV,TheTradeDesk,TheTradeDesk,41036.44,4625453
 2026-01-01,Direct,Select - BFM,CTV,Viant,Viant,41013.28,4478660
 2026-04-01,BidSwitch,Open Auction - BFM,CTV,DV360,DV360,40952.42,6405828
 2025-10-01,Direct,Open Auction - BFM,CTV,SmartyAds,SmartyAds,40648.81,6248434
 2025-01-01,Direct,Open Auction - Seedtag,Native,TheTradeDesk,TheTradeDesk,40560.68,
 2026-04-01,Direct,Open Auction - BFM,Display,TheTradeDesk,TheTradeDesk,40415.98,52774187
 2025-04-01,Direct,Open Auction - Seedtag,Online Video,Nexxen,Nexxen,40371.6,19148845
-2026-07-01,Direct,Open Auction - BFM,CTV,Yahoo DSP,Yahoo DSP,40345.62,4553752
 2025-07-01,Direct,Open Auction - Seedtag,Online Video,RtbHouse,RtbHouse,40111.13,35737291
 2025-01-01,Direct,Open Auction - BFM,Display,Viant,Viant,39805.26,26156959
 2025-04-01,Direct,Open Auction - BFM,CTV,Amobee,Amobee,39721.78,5720714
@@ -404,12 +404,12 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-01-01,Direct,Open Auction - Seedtag,Display,Viant,Viant,38161.11,23720017
 2025-04-01,Direct,PMP CTV - O&O,CTV,Viant,Viant,38063.91,2317643
 2025-07-01,Direct,Open Auction - BFM,CTV,Walmart,Walmart,37664.21,4533458
+2026-07-01,Direct,Open Auction - Seedtag,Display,Xandr,AppNexus,37301.82,298959586
 2026-01-01,Direct,Open Auction - Seedtag,Display,Opera,Opera,37018.2,109555268
+2026-07-01,Direct,Open Auction - Seedtag,Display,Conversant,Conversant,36908.01,24800597
 2026-04-01,BidSwitch,DSP Marketplace - BFM,CTV,Samsung DSP,Samsung DSP,36627.58,13133293
-2026-07-01,Direct,Open Auction - Seedtag,Display,Xandr,AppNexus,36512.48,294104451
 2026-01-01,Direct,Open Auction - BFM,CTV,Adtelligent,Adtelligent,36279.1,2667538
 2026-04-01,Direct,Open Auction - Seedtag,Online Video,Xandr,AppNexus,35886.46,60648957
-2026-07-01,Direct,Open Auction - Seedtag,Display,Conversant,Conversant,35779.74,24250592
 2026-04-01,Direct,Open Auction - Seedtag,Display,Opera,Opera,34525.21,95370348
 2025-07-01,BidSwitch,PMP Web - O&O,Online Video,DV360,DBM,34416.11,1923408
 2025-04-01,Direct,Select - BFM,CTV,Walmart,Walmart,34154.06,4022853
@@ -419,6 +419,7 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-04-01,Direct,Open Auction - BFM,Display,SimpliFi,SimpliFi,33575.18,23480674
 2025-01-01,Direct,Open Auction - BFM,CTV,Adtheorent,Adtheorent,33434.5,7892030
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,Yahoo DSP,Yahoo DSP,33300.98,4622927
+2026-07-01,Direct,Open Auction - Seedtag,Online Video,Conversant,Conversant,33164.86,27589007
 2025-04-01,Direct,Open Auction - Seedtag,Online Video,Xandr,AppNexus,33141.01,86529826
 2025-04-01,Direct,Open Auction - BFM,CTV,MadHive,MadHive,32994.54,6154915
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,BidSwitch,Bidswitch,32866.94,4620955
@@ -426,14 +427,13 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-07-01,Direct,Open Auction - BFM,CTV,Adtheorent,Adtheorent,32579.8,7295845
 2025-01-01,Direct,Open Auction - BFM,CTV,MadHive,MadHive,32014.77,4396752
 2026-01-01,Direct,Open Auction - Seedtag,Native,Nexxen,Nexxen,31956.34,214310815
-2026-07-01,Direct,Open Auction - Seedtag,Online Video,Conversant,Conversant,31849.19,26736103
 2025-07-01,Direct,Open Auction - BFM,CTV,SmartyAds,SmartyAds,31254.04,5358319
 2025-04-01,Direct,PMP CTV - O&O,CTV,StackAdapt,StackAdapt,31017.33,1064204
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,Octillion,Octillion,30716.46,2634321
 2025-10-01,Direct,PMP Web - O&O,Display,RtbHouse,RtbHouse,30613.0,8723697
 2025-07-01,Direct,Open Auction - Seedtag,Display,Outbrain/Teads,Outbrain,30503.89,56171231
 2025-01-01,Direct,Open Auction - BFM,CTV,SundaySky,SundaySky,30300.59,4224917
 2026-01-01,Direct,Open Auction - BFM,Display,TheTradeDesk,TheTradeDesk,29978.2,42718987
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,Octillion,Octillion,29777.89,2545434
 2025-07-01,BidSwitch,PMP CTV - O&O,CTV,IPONWEB BidCore,IPONWEB BidCore,29602.01,1386648
 2025-07-01,Direct,Open Auction - Seedtag,Online Video,Nexxen,Nexxen,29381.87,47092989
 2025-01-01,Direct,Open Auction - Seedtag,Display,Opera,Opera,29372.29,
@@ -447,23 +447,23 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-07-01,Direct,Open Auction - Seedtag,Display,Beeswax,Beeswax,27602.81,20994689
 2025-04-01,Direct,Open Auction - BFM,CTV,Walmart,Walmart,26529.1,2767377
 2026-04-01,Direct,Open Auction - BFM,CTV,Xandr,AppNexus,26382.13,9239119
+2026-07-01,Direct,PMP CTV - O&O,CTV,Amobee,Amobee,26190.69,1722437
 2025-07-01,Direct,Open Auction - BFM,Display,SimpliFi,SimpliFi,26128.44,17884977
-2026-07-01,Direct,PMP CTV - O&O,CTV,Amobee,Amobee,25709.68,1689786
 2026-04-01,Direct,Open Auction - Seedtag,Online Video,RtbHouse,RtbHouse,25616.83,11859614
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,GroundTruth,GroundTruth,25316.84,2273083
+2026-07-01,Direct,Open Auction - Seedtag,Online Video,Outbrain/Teads,Outbrain,25253.65,64434170
 2025-01-01,Direct,Open Auction - BFM,CTV,Amobee,Amobee,25179.7,3895077
 2025-01-01,BidSwitch,DSP Marketplace - BFM,CTV,Infillion,Infillion,25072.93,3347656
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,GroundTruth,GroundTruth,24923.99,2241922
-2026-07-01,Direct,Open Auction - Seedtag,Online Video,Outbrain/Teads,Outbrain,24751.76,63223778
+2026-07-01,Direct,PMP Web - O&O,Display,Viant,Viant,24746.48,3366569
+2026-07-01,Direct,Open Auction - BFM,CTV,Adtelligent,Adtelligent,24545.94,2173886
 2025-04-01,Direct,Open Auction - BFM,CTV,Yahoo DSP,Yahoo DSP,24382.68,4069751
-2026-07-01,Direct,PMP Web - O&O,Display,Viant,Viant,24281.87,3303413
-2026-07-01,Direct,Open Auction - BFM,CTV,Adtelligent,Adtelligent,24213.35,2140025
 2025-04-01,Direct,Open Auction - BFM,CTV,SundaySky,SundaySky,23825.23,3113385
 2026-04-01,Direct,Select - BFM,CTV,JamLoop OpenRTB,JamLoop OpenRTB,23708.7,2208840
 2025-10-01,Direct,Open Auction - BFM,CTV,Adtheorent,Adtheorent,23632.39,6896951
 2026-04-01,Direct,Open Auction - BFM,CTV,Lemma DSP,Lemma DSP,23589.62,8773364
+2026-07-01,BidSwitch,Open Auction - BFM,CTV,DV360,DV360,23542.22,3046440
 2025-04-01,BidSwitch,Select - BFM,Display,DV360,DV360,23344.2,4517542
 2026-01-01,BidSwitch,Open Auction - BFM,CTV,Amazon DSP,Amazon DSP,23297.68,33172725
-2026-07-01,BidSwitch,Open Auction - BFM,CTV,DV360,DV360,23295.17,3015251
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,Yahoo DSP,Yahoo DSP,22944.09,2725666
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,DeepIntent,DeepIntent,22791.65,2124427
 2025-01-01,Direct,Open Auction - BFM,CTV,Sharethrough,Sharethrough,22776.14,9696027
@@ -479,23 +479,23 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-01-01,Direct,PMP Web - O&O,Display,RtbHouse,RtbHouse,21019.75,7506852
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,JamLoop OpenRTB,JamLoop OpenRTB,20970.74,1933068
 2025-07-01,Direct,Select - BFM,CTV,StackAdapt,StackAdapt,20775.38,3236628
+2026-07-01,Direct,Open Auction - Seedtag,Native,TheTradeDesk,TheTradeDesk,19772.48,48967300
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,Stirista,Stirista,19707.4,1877818
 2025-04-01,Direct,Open Auction - Seedtag,Display,Beeswax,Beeswax,19563.95,6354444
 2025-10-01,BidSwitch,DSP Marketplace - BFM,CTV,Zeta DSP,Zeta DSP,19304.08,1177139
-2026-07-01,Direct,Open Auction - Seedtag,Native,TheTradeDesk,TheTradeDesk,19240.31,47863041
 2026-01-01,Direct,Open Auction - BFM,CTV,Adtheorent,Adtheorent,19097.08,5088223
 2026-04-01,Direct,Open Auction - BFM,CTV,Pubmatic,Pubmatic,18766.15,2450661
 2025-01-01,Direct,Open Auction - BFM,CTV,Seedtag,Seedtag,18547.95,2092919
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,Basis Technologies,Basis Technologies,18387.55,1345316
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,SimpliFi,SimpliFi,18294.55,2564257
 2025-07-01,BidSwitch,PMP CTV - O&O,CTV,Amazon DSP,Amazon DSP,18114.95,6241745
 2026-01-01,Direct,Open Auction - Seedtag,Online Video,Viant,Viant,17984.76,7267488
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,Basis Technologies,Basis Technologies,17961.33,1316273
 2026-01-01,Direct,Open Auction - Seedtag,Online Video,RtbHouse,RtbHouse,17679.29,10324381
 2025-04-01,Direct,Open Auction - Seedtag,Display,Illumin,Illumin,17599.37,21113984
+2026-07-01,Direct,Open Auction - Seedtag,Display,Opera,Opera,17387.33,39286230
 2025-04-01,Direct,Select - BFM,CTV,StackAdapt,StackAdapt,17298.69,2511004
 2025-04-01,Direct,Select - BFM,Display,TheTradeDesk,TheTradeDesk,17200.54,14915067
 2025-01-01,Direct,Select - BFM,CTV,StackAdapt,StackAdapt,17141.05,2173375
-2026-07-01,Direct,Open Auction - Seedtag,Display,Opera,Opera,17036.09,38331071
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,DeepIntent,DeepIntent,16951.75,3369260
 2025-10-01,Direct,Open Auction - BFM,Display,Basis Technologies,Basis Technologies,16687.21,12439536
 2025-10-01,Direct,Open Auction - Seedtag,Online Video,Beeswax,Beeswax,16628.24,12078774
@@ -505,55 +505,55 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-01-01,Direct,Open Auction - Seedtag,Display,Illumin,Illumin,15868.01,42003671
 2025-01-01,Direct,Open Auction - BFM,CTV,SmartyAds,SmartyAds,15836.64,2652957
 2026-01-01,Direct,Open Auction - BFM,CTV,Conversant,Epsilon (Conversant),15764.83,13742786
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,MadHive,MadHive,15677.09,1968617
 2025-07-01,Direct,Open Auction - BFM,CTV,MadHive,MadHive,15604.87,3809559
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,MadHive,MadHive,15350.46,1941761
 2025-07-01,BidSwitch,Open Auction - Seedtag,Display,StackAdapt,StackAdapt,15223.91,15329847
 2025-04-01,Direct,Open Auction - BFM,Display,Adtheorent,Adtheorent,15222.54,8014492
 2025-07-01,BidSwitch,Open Auction - BFM,CTV,Quantcast,Quantcast,15128.04,15473972
+2026-07-01,Direct,PMP CTV - O&O,CTV,Walmart,Walmart,14854.85,654227
 2026-04-01,Direct,Open Auction - Seedtag,Online Video,Outbrain/Teads,Outbrain,14821.25,46972147
-2026-07-01,Direct,PMP CTV - O&O,CTV,Walmart,Walmart,14690.74,647052
+2026-07-01,Direct,Open Auction - Seedtag,Online Video,Viant,Viant,14679.86,6708012
 2025-10-01,Direct,Open Auction - Seedtag,Native,Nexxen,Nexxen,14636.89,61261768
 2025-10-01,Direct,PMP Web - O&O,Native,RtbHouse,RtbHouse,14451.67,3309687
-2026-07-01,Direct,Open Auction - Seedtag,Online Video,Viant,Viant,14416.29,6581642
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,Yahoo DSP,Yahoo DSP,14417.74,647531
 2025-10-01,Direct,Open Auction - BFM,CTV,SundaySky,SundaySky,14198.06,2213390
 2025-01-01,BidSwitch,Select - BFM,CTV,DV360,DV360,14132.58,1531032
 2025-01-01,Direct,Open Auction - Seedtag,Online Video,Beeswax,Beeswax,14085.17,
 2026-01-01,Direct,Select - BFM,CTV,Walmart,Walmart,14005.07,1274558
+2026-07-01,Direct,Open Auction - Seedtag,Display,Illumin,Illumin,13939.26,18446021
 2026-01-01,Direct,Open Auction - Seedtag,Online Video,MSAN,AppNexus,13813.73,37950387
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,Yahoo DSP,Yahoo DSP,13766.99,625417
-2026-07-01,Direct,Open Auction - Seedtag,Display,Illumin,Illumin,13732.97,18194747
-2026-07-01,Direct,Open Auction - BFM,CTV,Sharethrough,Sharethrough,13176.47,1720525
+2026-07-01,Direct,Open Auction - BFM,CTV,Sharethrough,Sharethrough,13660.96,1770595
+2026-07-01,Direct,Open Auction - Seedtag,Online Video,RtbHouse,RtbHouse,13564.01,11104790
+2026-07-01,Direct,Open Auction - BFM,CTV,LoopMe,LoopMe,13332.65,1094533
 2025-10-01,BidSwitch,PMP CTV - O&O,CTV,Amazon DSP,Amazon DSP,13144.79,4404898
-2026-07-01,Direct,Open Auction - Seedtag,Online Video,RtbHouse,RtbHouse,13141.56,10299275
 2026-04-01,Direct,Open Auction - Seedtag,Online Video,Illumin,Illumin,13091.85,10557822
-2026-07-01,Direct,Open Auction - BFM,CTV,LoopMe,LoopMe,12853.84,1034814
+2026-07-01,Direct,PMP - Curation,Online Video,TheTradeDesk,TheTradeDesk,12473.92,2277975
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,GroundTruth,GroundTruth,12132.72,748670
 2025-10-01,BidSwitch,Select - BFM,CTV,DV360,DV360,12106.15,999322
 2025-01-01,BidSwitch,Open Auction - BFM,Display,DV360,DV360,12044.21,5943157
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,Quantcast,Quantcast,11989.06,13694743
 2025-01-01,Direct,Open Auction - BFM,CTV,Demandbase,Demandbase,11980.54,672724
+2026-07-01,Direct,Open Auction - BFM,CTV,Adtheorent,Adtheorent,11891.63,1395547
 2025-04-01,BidSwitch,Open Auction - BFM,CTV,Infillion,Infillion,11859.91,1629497
+2026-07-01,Direct,PMP - Curation,Display,RtbHouse,RtbHouse,11817.78,40689908
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,Stirista,Stirista,11787.0,836719
-2026-07-01,Direct,PMP - Curation,Online Video,TheTradeDesk,TheTradeDesk,11598.09,2179826
-2026-07-01,Direct,Open Auction - BFM,CTV,Adtheorent,Adtheorent,11570.87,1359523
-2026-07-01,Direct,PMP - Curation,Display,RtbHouse,RtbHouse,11092.33,38584389
 2025-04-01,Direct,Open Auction - BFM,Display,Walmart,Walmart,11079.12,14704562
 2026-04-01,Direct,PMP Web - O&O,Display,Viant,Viant,10889.0,4099008
+2026-07-01,Direct,Open Auction - Seedtag,Native,Xandr,AppNexus,10661.03,15867293
 2026-04-01,BidSwitch,Open Auction - Seedtag,Native,Madopi,Madopi,10641.28,88236091
 2026-04-01,Direct,Open Auction - Seedtag,Display,Beeswax,Beeswax,10556.43,2991895
 2025-07-01,Direct,Open Auction - BFM,Display,Viant,Viant,10539.14,12577164
-2026-07-01,Direct,Open Auction - Seedtag,Native,Xandr,AppNexus,10524.55,15648623
 2025-07-01,BidSwitch,DSP Marketplace - BFM,CTV,Infillion,Infillion,10294.06,1431344
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,Walmart,Walmart,10232.84,1345357
+2026-07-01,Direct,Open Auction - BFM,Display,TheTradeDesk,TheTradeDesk,10215.81,16459561
 2025-01-01,BidSwitch,PMP CTV - O&O,CTV,IPONWEB BidCore,IPONWEB BidCore,10194.56,372003
-2026-07-01,Direct,Open Auction - BFM,Display,TheTradeDesk,TheTradeDesk,9998.02,16124231
 2025-07-01,Direct,Open Auction - Seedtag,Online Video,MSAN,AppNexus,9779.76,41539632
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,Walmart,Walmart,9687.52,1260463
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,Yahoo DSP,Yahoo DSP,9646.14,580230
 2025-07-01,Direct,DSP Marketplace - BFM,CTV,Stirista,Stirista,9567.95,991771
 2025-01-01,Direct,Open Auction - BFM,CTV,Storygize,Storygize,9560.32,9086114
+2026-07-01,Direct,Open Auction - Seedtag,Native,Nexxen,Nexxen,9444.28,53685227
+2026-07-01,Direct,Open Auction - Seedtag,Display,Viant,Viant,9438.81,5435338
 2025-01-01,Direct,Select - BFM,CTV,Beeswax,Beeswax,9383.09,612743
-2026-07-01,Direct,Open Auction - Seedtag,Display,Viant,Viant,9378.1,5401237
-2026-07-01,Direct,Open Auction - Seedtag,Native,Nexxen,Nexxen,9324.53,52583159
 2026-04-01,BidSwitch,Open Auction - Seedtag,Display,Madopi,Madopi,9173.19,20251663
 2025-07-01,Direct,Open Auction - Seedtag,Online Video,Beeswax,Beeswax,8940.45,5953371
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,SimpliFi,SimpliFi,8913.43,642942
@@ -564,22 +564,22 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-07-01,Direct,Open Auction - BFM,Display,Walmart,Walmart,8644.37,15523032
 2025-04-01,Direct,Open Auction - Seedtag,Online Video,Illumin,Illumin,8602.9,5875861
 2026-04-01,Direct,Open Auction - BFM,CTV,Conversant,Epsilon (Conversant),8388.02,3374942
-2026-07-01,Direct,Open Auction - BFM,CTV,Xandr,AppNexus,8088.46,4801411
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,Beeswax,Beeswax,8321.58,1186089
+2026-07-01,Direct,Open Auction - BFM,CTV,Xandr,AppNexus,8124.94,4806072
+2026-07-01,Direct,Open Auction - Seedtag,Online Video,Illumin,Illumin,8039.36,7004510
 2025-07-01,Direct,PMP Web - O&O,Display,RtbHouse,RtbHouse,8007.92,3133761
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,Beeswax,Beeswax,8007.89,1163895
-2026-07-01,Direct,Open Auction - Seedtag,Online Video,Illumin,Illumin,7952.05,6928945
 2025-10-01,Direct,Open Auction - BFM,Display,Viant,Viant,7889.59,9700344
 2026-04-01,Direct,Open Auction - BFM,CTV,Marketing Architects,Marketing Architects -RTB,7857.1,2868762
 2025-07-01,BidSwitch,Select - BFM,CTV,DV360,DV360,7777.86,1459861
 2026-01-01,BidSwitch,Open Auction - Seedtag,Online Video,Sportradar,Sportradar,7746.18,37031191
 2025-04-01,Direct,Open Auction - Seedtag,Online Video,Opera,Opera,7721.73,1594220
 2025-10-01,Direct,Open Auction - Seedtag,Display,Beeswax,Beeswax,7701.87,5953817
+2026-07-01,BidSwitch,Open Auction - BFM,CTV,Zeta DSP,Zeta DSP,7679.7,425336
+2026-07-01,Direct,Open Auction - Seedtag,Display,Beeswax,Beeswax,7611.24,1800360
 2026-01-01,Direct,Open Auction - BFM,CTV,Walmart,Walmart,7588.35,1662204
 2026-04-01,Direct,Open Auction - BFM,CTV,LoopMe,LoopMe,7570.95,1096982
 2025-07-01,BidSwitch,Select - BFM,Display,DV360,DV360,7444.7,1530074
-2026-07-01,Direct,Open Auction - Seedtag,Display,Beeswax,Beeswax,7437.85,1747188
 2025-07-01,Direct,Open Auction - BFM,Display,Adtheorent,Adtheorent,7338.16,3207533
-2026-07-01,BidSwitch,Open Auction - BFM,CTV,Zeta DSP,Zeta DSP,7223.75,387192
 2025-01-01,Direct,Open Auction - BFM,Display,Conversant,Epsilon (Conversant),7182.51,4983686
 2025-01-01,Direct,Open Auction - BFM,CTV,Walmart,Walmart,7114.65,798434
 2026-01-01,Direct,PMP Web - O&O,Native,RtbHouse,RtbHouse,7073.42,2052305
@@ -597,10 +597,10 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-01-01,Direct,Open Auction - Seedtag,Display,Beeswax,Beeswax,6110.53,2972456
 2025-07-01,Direct,DSP Marketplace - BFM,CTV,Yahoo DSP,Yahoo DSP,6084.62,392925
 2026-01-01,BidSwitch,Open Auction - BFM,CTV,Quantcast,Quantcast,6016.61,11762680
+2026-07-01,Direct,Select - BFM,CTV,JamLoop OpenRTB,JamLoop OpenRTB,6016.48,565194
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,Stirista,Stirista,6007.03,591066
 2025-04-01,BidSwitch,Select - BFM,CTV,DV360,DV360,5974.76,1310358
 2026-01-01,Direct,PMP CTV - O&O,CTV,Amobee,Amobee,5969.4,262508
-2026-07-01,Direct,Select - BFM,CTV,JamLoop OpenRTB,JamLoop OpenRTB,5950.37,558748
 2025-10-01,BidSwitch,Open Auction - Seedtag,Online Video,Sportradar,Sportradar,5906.79,19919342
 2025-04-01,Direct,Open Auction - Seedtag,Online Video,MSAN,AppNexus,5858.26,26873634
 2025-04-01,BidSwitch,PMP CTV - O&O,CTV,Amazon DSP,Amazon DSP,5802.6,2027860
@@ -608,14 +608,14 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,DeepIntent,DeepIntent,5736.29,719007
 2025-10-01,BidSwitch,PMP CTV - O&O,CTV,IPONWEB BidCore,IPONWEB BidCore,5605.07,329220
 2026-01-01,Direct,Open Auction - BFM,Display,Viant,Viant,5604.76,6311377
-2026-07-01,Direct,Open Auction - BFM,CTV,DBM,DBM,5537.43,772754
+2026-07-01,Direct,Open Auction - BFM,CTV,DBM,DBM,5595.86,782687
+2026-07-01,Direct,Open Auction - Seedtag,Online Video,Xandr,AppNexus,5532.22,5942035
 2026-04-01,Direct,Open Auction - BFM,CTV,SmartyAds,SmartyAds,5495.94,470696
-2026-07-01,Direct,Open Auction - Seedtag,Online Video,Xandr,AppNexus,5426.44,5853744
 2025-01-01,Direct,PMP CTV - O&O,CTV,StackAdapt,StackAdapt,5411.77,163454
 2025-01-01,Direct,PMP CTV - O&O,CTV,Xandr,AppNexus,5393.6,225329
 2025-07-01,Direct,PMP Web - O&O,Native,RtbHouse,RtbHouse,5370.97,1690724
+2026-07-01,Direct,Open Auction - BFM,CTV,DSP Not Found,Other,5311.23,1321007
 2026-01-01,BidSwitch,PMP Web - O&O,Online Video,DV360,DBM,5253.46,1107639
-2026-07-01,Direct,Open Auction - BFM,CTV,DSP Not Found,Other,5217.06,1292363
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,Walmart,Walmart,5074.41,514544
 2025-01-01,Direct,Open Auction - Seedtag,Online Video,Opera,Opera,5053.54,
 2025-04-01,Direct,Open Auction - BFM,Display,SmartyAds,SmartyAds,4983.79,3068526
@@ -628,22 +628,22 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-01-01,Direct,Select - BFM,CTV,SundaySky,SundaySky,4681.28,1405373
 2025-04-01,Direct,Open Auction - BFM,CTV,535Media,535Media,4651.16,287806
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,Conversant,Epsilon (Conversant),4570.4,423915
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,JamLoop OpenRTB,JamLoop OpenRTB,4531.57,455725
+2026-07-01,Direct,Open Auction - Seedtag,Online Video,MSAN,AppNexus,4529.26,6782155
 2025-10-01,BidSwitch,Open Auction - Seedtag,Online Video,StackAdapt,StackAdapt,4502.29,3628794
 2025-04-01,Direct,PMP Web - O&O,Display,RtbHouse,RtbHouse,4498.13,547903
 2025-07-01,Direct,PMP CTV - O&O,CTV,StackAdapt,StackAdapt,4474.67,427614
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,JamLoop OpenRTB,JamLoop OpenRTB,4472.28,448683
-2026-07-01,Direct,Open Auction - Seedtag,Online Video,MSAN,AppNexus,4415.72,6614203
 2025-10-01,Direct,Select - BFM,CTV,JamLoop OpenRTB,JamLoop OpenRTB,4327.67,435332
 2026-04-01,Direct,Open Auction - BFM,Display,Yahoo DSP,Yahoo DSP,4315.4,4109996
 2025-07-01,BidSwitch,Open Auction - BFM,Display,DV360,DV360,4274.08,986895
-2026-07-01,Direct,PMP Web - O&O,Display,StackAdapt,StackAdaptDSP,4100.7,940625
+2026-07-01,Direct,PMP Web - O&O,Display,StackAdapt,StackAdaptDSP,4192.48,961842
 2025-04-01,Direct,Open Auction - BFM,Display,Conversant,Epsilon (Conversant),4058.18,3119234
 2026-01-01,Direct,Select - BFM,CTV,Basis Technologies,Basis Technologies,4029.76,294366
 2025-10-01,Direct,Open Auction - BFM,CTV,Octillion,Octillion,4029.29,183370
 2025-07-01,Direct,Select - BFM,CTV,JamLoop OpenRTB,JamLoop OpenRTB,3970.77,396826
 2025-07-01,Direct,Open Auction - BFM,Display,SmartyAds,SmartyAds,3956.66,1891214
 2025-01-01,Direct,Open Auction - BFM,Display,Amobee,Amobee,3933.28,3527903
-2026-07-01,BidSwitch,DSP Marketplace - BFM,CTV,DV360,DV360,3862.97,323383
+2026-07-01,BidSwitch,DSP Marketplace - BFM,CTV,DV360,DV360,3926.99,328936
 2026-04-01,Direct,Open Auction - BFM,CTV,Demandbase,Demandbase,3857.77,420244
 2026-01-01,BidSwitch,Open Auction - Seedtag,Online Video,StackAdapt,StackAdapt,3834.77,3432871
 2025-07-01,Direct,Open Auction - Seedtag,Native,Nexxen,Nexxen,3822.0,21595769
@@ -660,18 +660,18 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-04-01,Direct,Open Auction - BFM,CTV,GroundTruth,GroundTruth,3288.01,1185728
 2025-01-01,BidSwitch,Open Auction - BFM,CTV,Amazon DSP,Amazon DSP,3272.66,2330792
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,Adtelligent,Adtelligent,3263.84,163192
+2026-07-01,Direct,Open Auction - BFM,CTV,Marketing Architects,Marketing Architects -RTB,3157.71,736302
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,LoopMe,LoopMe,3094.63,183692
 2025-10-01,Direct,PMP CTV - O&O,CTV,Basis Technologies,Basis Technologies,3010.32,166204
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,Walmart,Walmart,3010.21,259262
+2026-07-01,BidSwitch,Open Auction - Seedtag,Native,Madopi,Madopi,2985.19,16631055
 2026-04-01,Direct,Open Auction - BFM,Display,Basis Technologies,Basis Technologies,2970.19,3380325
-2026-07-01,BidSwitch,Open Auction - Seedtag,Native,Madopi,Madopi,2949.46,16449212
 2025-10-01,Direct,Open Auction - BFM,Display,Walmart,Walmart,2946.51,12056282
 2025-01-01,Direct,Select - BFM,CTV,BidSwitch,Bidswitch,2901.62,194359
 2026-04-01,BidSwitch,Open Auction - Seedtag,Display,AdMixerBidswitch,AdMixerBidswitch,2892.92,112547826
-2026-07-01,Direct,Open Auction - BFM,CTV,Marketing Architects,Marketing Architects -RTB,2877.49,672018
 2025-01-01,Direct,Open Auction - BFM,CTV,535Media,535Media,2740.25,158364
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,Walmart,Walmart,2731.65,202661
-2026-01-01,BidSwitch,Select - BFM,CTV,DV360,DV360,2724.37,380474
+2026-01-01,BidSwitch,Select - BFM,CTV,DV360,DV360,2724.36,380474
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,Marketing Architects,Marketing Architects -RTB,2707.57,386684
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,DeepIntent,DeepIntent,2677.42,229170
 2025-04-01,BidSwitch,Open Auction - BFM,CTV,OnSpot Data,OnSpot Data,2638.03,352256
@@ -679,30 +679,31 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-01-01,Direct,Open Auction - BFM,CTV,GroundTruth,GroundTruth,2610.12,1001659
 2025-01-01,Direct,Open Auction - BFM,CTV,Krush Media,Krush Media,2574.01,832303
 2026-04-01,Direct,Select - BFM,CTV,Walmart,Walmart,2570.81,231004
+2026-07-01,Direct,Open Auction - BFM,Display,Yahoo DSP,Yahoo DSP,2564.96,2305408
 2025-10-01,Direct,Select - BFM,CTV,Basis Technologies,Basis Technologies,2555.49,166425
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,Xandr,AppNexus,2553.96,254448
 2026-01-01,BidSwitch,Open Auction - Seedtag,Display,AdMixerBidswitch,AdMixerBidswitch,2520.83,123281994
-2026-07-01,BidSwitch,PMP - Curation,Display,DV360,DBM,2438.79,1452939
+2026-07-01,BidSwitch,PMP - Curation,Display,DV360,DBM,2462.81,1466492
 2026-04-01,Direct,PMP Web - O&O,Display,StackAdapt,StackAdaptDSP,2432.39,442772
 2025-10-01,Direct,Open Auction - BFM,Display,Conversant,Epsilon (Conversant),2416.08,1650744
 2026-01-01,Direct,Open Auction - BFM,CTV,Demandbase,Demandbase,2386.18,292720
-2026-07-01,Direct,Open Auction - BFM,Display,Yahoo DSP,Yahoo DSP,2385.24,2102805
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,Adtelligent,Adtelligent,2361.93,254434
 2026-04-01,Direct,Open Auction - BFM,CTV,Walmart,Walmart,2351.8,276585
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,LoopMe,LoopMe,2330.09,132382
 2025-04-01,Direct,Open Auction - BFM,CTV,Krush Media,Krush Media,2315.59,516325
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,Adtelligent,Adtelligent,2303.59,248020
 2026-01-01,Direct,Open Auction - BFM,Display,Conversant,Epsilon (Conversant),2282.32,1923770
 2025-01-01,Direct,PMP CTV - O&O,CTV,Amobee,Amobee,2280.1,551831
 2025-10-01,Direct,Open Auction - BFM,CTV,Walmart,Walmart,2232.31,431335
+2026-07-01,Direct,Open Auction - BFM,Display,Viant,Viant,2185.78,2598639
 2025-04-01,Direct,Select - BFM,CTV,Basis Technologies,Basis Technologies,2177.26,155210
 2026-04-01,Direct,Select - BFM,CTV,Basis Technologies,Basis Technologies,2165.95,186658
 2026-01-01,Direct,Open Auction - BFM,CTV,SmartyAds,SmartyAds,2147.88,445006
-2026-07-01,Direct,Open Auction - BFM,Display,Viant,Viant,2135.71,2545640
 2025-04-01,Direct,Open Auction - BFM,CTV,Storygize,Storygize,2129.76,1786851
 2025-01-01,BidSwitch,Open Auction - Seedtag,Online Video,Sportradar,Sportradar,2110.82,
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,IPONWEB BidCore,IPONWEB BidCore,2110.61,548372
 2025-10-01,Direct,PMP Web - O&O,Display,Xandr,AppNexus,2100.0,920341
 2025-01-01,Direct,Open Auction - BFM,Display,GroundTruth,GroundTruth,2094.19,1175199
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,Amobee,Amobee,2055.75,129318
 2025-04-01,Direct,Open Auction - BFM,CTV,4INFO,4INFO,2019.67,354231
 2025-07-01,Direct,Select - BFM,Display,TheTradeDesk,TheTradeDesk,2017.38,1044971
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,Knorex,Knorex,1982.83,1219736
@@ -712,33 +713,32 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-01-01,Direct,PMP Web - O&O,Display,RtbHouse,RtbHouse,1886.38,
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,Xandr,AppNexus,1880.48,130918
 2025-10-01,Direct,Open Auction - BFM,Display,Adtheorent,Adtheorent,1828.48,1047756
-2026-07-01,Direct,Open Auction - BFM,CTV,SmartyAds,SmartyAds,1758.77,266243
+2026-07-01,Direct,Open Auction - BFM,CTV,SmartyAds,SmartyAds,1763.01,266813
 2026-04-01,Direct,Open Auction - BFM,Display,Walmart,Walmart,1723.79,8517140
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,Marketing Architects,Marketing Architects -RTB,1712.75,252100
+2026-07-01,Direct,Select - BFM,CTV,Basis Technologies,Basis Technologies,1699.85,173033
 2025-07-01,BidSwitch,PMP Web - O&O,Display,Sportradar,Sportradar,1676.03,128084
 2026-01-01,Direct,PMP Web - O&O,Online Video,Xandr,AppNexus,1658.58,233755
-2026-07-01,Direct,Select - BFM,CTV,Basis Technologies,Basis Technologies,1656.25,168587
 2025-10-01,Direct,Open Auction - BFM,Display,SimpliFi,SimpliFi,1647.29,1499900
 2025-01-01,Direct,Open Auction - BFM,Display,Walmart,Walmart,1612.53,1350814
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,Amobee,Amobee,1605.5,98706
 2026-01-01,Direct,Open Auction - BFM,CTV,DeepIntent,DeepIntent,1598.01,127667
 2026-04-01,Direct,PMP - Curation,Display,TheTradeDesk,TheTradeDesk,1553.42,2211098
 2025-10-01,Direct,Open Auction - BFM,CTV,DeepIntent,DeepIntent,1522.6,104646
 2025-04-01,BidSwitch,PMP CTV - O&O,CTV,IPONWEB BidCore,IPONWEB BidCore,1494.44,50991
-2026-07-01,Direct,Open Auction - BFM,CTV,Walmart,Walmart,1471.75,197409
+2026-07-01,Direct,Open Auction - BFM,CTV,Conversant,Epsilon (Conversant),1482.19,187766
+2026-07-01,Direct,Open Auction - BFM,CTV,Walmart,Walmart,1474.54,198124
 2026-04-01,Direct,Open Auction - Seedtag,Online Video,DeepIntent,DeepIntent,1471.43,530380
 2026-01-01,Direct,Open Auction - BFM,CTV,SundaySky,SundaySky,1446.94,239838
+2026-07-01,BidSwitch,Open Auction - Seedtag,Display,Madopi,Madopi,1441.2,5567646
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,Walmart,Walmart,1427.47,103899
-2026-07-01,Direct,Open Auction - BFM,CTV,Conversant,Epsilon (Conversant),1420.64,180223
 2026-04-01,Direct,Open Auction - BFM,Display,Conversant,Epsilon (Conversant),1407.76,1211546
 2025-07-01,Direct,Open Auction - BFM,CTV,Seedtag,Seedtag,1405.73,103376
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,Adtelligent,Adtelligent,1395.74,69787
 2026-01-01,Direct,PMP Web - O&O,Display,StackAdapt,StackAdaptDSP,1394.9,218226
 2025-04-01,Direct,Open Auction - BFM,CTV,Demandbase,Demandbase,1365.43,140266
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,Stirista,Stirista,1355.19,96566
-2026-07-01,BidSwitch,Open Auction - Seedtag,Display,AdMixerBidswitch,AdMixerBidswitch,1324.42,51249697
+2026-07-01,BidSwitch,Open Auction - Seedtag,Display,AdMixerBidswitch,AdMixerBidswitch,1333.54,51647554
 2025-07-01,BidSwitch,Open Auction - BFM,CTV,OnSpot Data,OnSpot Data,1314.06,112646
-2026-07-01,BidSwitch,Open Auction - Seedtag,Display,Madopi,Madopi,1305.32,5336643
 2025-07-01,Direct,Open Auction - BFM,CTV,Demandbase,Demandbase,1285.82,156202
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,OnSpot Data,OnSpot Data,1284.49,117615
 2026-04-01,Direct,PMP Web - O&O,Display,RtbHouse,RtbHouse,1230.2,842762
@@ -746,33 +746,33 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-01-01,BidSwitch,PMP CTV - O&O,CTV,Amazon DSP,Amazon DSP,1135.6,664107
 2026-01-01,BidSwitch,DSP Marketplace - BFM,CTV,Infillion,Infillion,1124.92,199898
 2025-04-01,Direct,Open Auction - BFM,Display,Amobee,Amobee,1124.71,1047451
+2026-07-01,Direct,PMP - Curation,Native,RtbHouse,RtbHouse,1121.96,3876700
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,SmartyAds,SmartyAds,1114.83,156687
 2025-04-01,Direct,Open Auction - Seedtag,Native,MSAN,AppNexus,1110.2,9003346
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,Xandr,AppNexus,1109.51,55995
 2025-07-01,BidSwitch,DSP Marketplace - BFM,CTV,DV360,DV360,1102.4,65113
 2026-04-01,Direct,Open Auction - BFM,CTV,DBM,DBM,1094.53,123956
 2025-04-01,BidSwitch,Open Auction - BFM,CTV,IPONWEB BidCore,IPONWEB BidCore,1088.6,237060
+2026-07-01,BidSwitch,Open Auction - BFM,Display,DV360,DV360,1058.27,824755
+2026-07-01,Direct,Open Auction - BFM,CTV,GroundTruth,GroundTruth,1051.6,112899
 2025-07-01,Direct,PMP CTV - O&O,CTV,Xandr,AppNexus,1050.53,64034
 2026-01-01,BidSwitch,Open Auction - Seedtag,Online Video,Amazon DSP,AmazonBidswitch,1047.9,1276693
 2026-01-01,BidSwitch,Select - BFM,Display,DV360,DV360,1039.86,142445
-2026-07-01,Direct,Open Auction - BFM,CTV,GroundTruth,GroundTruth,1030.22,110818
 2026-01-01,Direct,Open Auction - BFM,Display,Yahoo DSP,Yahoo DSP,1029.06,1055516
-2026-07-01,Direct,PMP - Curation,Native,RtbHouse,RtbHouse,1017.58,3476360
+2026-07-01,Direct,Open Auction - BFM,Display,Basis Technologies,Basis Technologies,1028.86,1186437
 2025-07-01,Direct,Open Auction - BFM,CTV,Octillion,Octillion,1014.84,69350
-2026-07-01,BidSwitch,Open Auction - BFM,Display,DV360,DV360,1014.0,788604
-2026-07-01,Direct,Open Auction - BFM,Display,Basis Technologies,Basis Technologies,1012.64,1167607
+2026-07-01,Direct,Select - BFM,CTV,Walmart,Walmart,1013.85,99506
 2026-04-01,BidSwitch,Open Auction - Seedtag,Online Video,Madopi,Madopi,1007.04,964728
 2026-04-01,Direct,Open Auction - Seedtag,Online Video,Opera,Opera,998.05,2157169
 2025-07-01,Direct,Select - BFM,CTV,Basis Technologies,Basis Technologies,990.35,58362
-2026-07-01,Direct,Select - BFM,CTV,Walmart,Walmart,983.95,96551
 2025-10-01,Direct,Open Auction - BFM,CTV,4INFO,4INFO,976.84,117810
 2025-10-01,Direct,PMP Web - O&O,Native,TheTradeDesk,TheTradeDesk,965.42,893908
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,DeepIntent,DeepIntent,924.72,73605
-2026-07-01,BidSwitch,DSP Marketplace - BFM,CTV,Zeta DSP,Zeta DSP,864.5,68792
-2026-07-01,Direct,Open Auction - BFM,CTV,Demandbase,Demandbase,862.73,109457
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,DeepIntent,DeepIntent,943.35,75164
+2026-07-01,Direct,Open Auction - BFM,CTV,Demandbase,Demandbase,881.56,111404
+2026-07-01,BidSwitch,Open Auction - BFM,CTV,Amazon DSP,Amazon DSP,877.32,87261
+2026-07-01,BidSwitch,DSP Marketplace - BFM,CTV,Zeta DSP,Zeta DSP,870.32,69550
 2025-04-01,Direct,Open Auction - BFM,CTV,Octillion,Octillion,862.48,75173
 2025-01-01,Direct,Select - BFM,CTV,Basis Technologies,Basis Technologies,855.3,55799
-2026-07-01,BidSwitch,Open Auction - BFM,CTV,Amazon DSP,Amazon DSP,851.82,83605
 2025-07-01,Direct,PMP CTV - O&O,CTV,Amobee,Amobee,840.95,47260
 2026-04-01,BidSwitch,Open Auction - BFM,CTV,Infillion,Infillion,829.61,122923
 2025-01-01,Direct,Open Auction - BFM,CTV,Unruly,Unruly,818.89,237941
@@ -783,35 +783,35 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-01-01,Direct,Open Auction - BFM,CTV,Octillion,Octillion,784.16,58779
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,Stirista,Stirista,778.5,238822
 2025-04-01,BidSwitch,Open Auction - Seedtag,Online Video,Sportradar,Sportradar,759.04,42943
-2026-07-01,Direct,Open Auction - BFM,CTV,DeepIntent,DeepIntent,712.38,60755
+2026-07-01,Direct,Open Auction - Seedtag,Online Video,Opera,Opera,729.92,2158353
+2026-07-01,Direct,Open Auction - BFM,CTV,DeepIntent,DeepIntent,714.36,60950
 2026-01-01,Direct,Open Auction - Seedtag,Online Video,Opera,Opera,680.12,1746018
-2026-07-01,Direct,Open Auction - Seedtag,Online Video,Opera,Opera,677.87,2120268
 2025-01-01,Direct,Select - BFM,CTV,JamLoop OpenRTB,JamLoop OpenRTB,666.74,49775
 2025-07-01,Direct,Open Auction - BFM,CTV,535Media,535Media,644.87,35841
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,Adtelligent,Adtelligent,618.61,68466
 2026-01-01,BidSwitch,Open Auction - BFM,CTV,Knorex,Knorex,615.69,48037
 2026-01-01,BidSwitch,Open Auction - Seedtag,Native,Madopi,Madopi,606.0,4900203
+2026-07-01,Direct,Select - BFM,CTV,Viant,Viant,592.08,26900
 2025-04-01,Direct,DSP Marketplace - BFM,Display,GroundTruth,GroundTruth,591.12,180952
-2026-07-01,Direct,Select - BFM,CTV,Viant,Viant,585.42,26595
 2025-07-01,BidSwitch,Open Auction - BFM,CTV,Samsung DSP,Samsung DSP,568.45,58011
+2026-07-01,Direct,Open Auction - Seedtag,Online Video,DeepIntent,DeepIntent,567.76,196920
 2026-04-01,BidSwitch,Open Auction - BFM,Display,DV360,DV360,567.09,437408
-2026-07-01,Direct,Open Auction - Seedtag,Online Video,DeepIntent,DeepIntent,564.22,195407
+2026-07-01,Direct,Open Auction - BFM,CTV,Lemma DSP,Lemma DSP,560.64,219223
+2026-07-01,Direct,Open Auction - BFM,Display,Walmart,Walmart,550.69,2662964
 2025-10-01,Direct,Select - BFM,CTV,SundaySky,SundaySky,542.03,178554
-2026-07-01,Direct,Open Auction - BFM,Display,Walmart,Walmart,537.47,2612992
-2026-07-01,Direct,Open Auction - BFM,CTV,Lemma DSP,Lemma DSP,521.89,205144
 2026-01-01,Direct,Open Auction - BFM,Display,Adtheorent,Adtheorent,500.17,338312
+2026-07-01,Direct,Open Auction - BFM,Display,Conversant,Epsilon (Conversant),499.86,804695
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,Streamworx Lda.,Streamworx Lda.,499.4,41673
-2026-07-01,Direct,Open Auction - BFM,Display,Conversant,Epsilon (Conversant),497.94,803006
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,Amobee,Amobee,486.86,40252
 2026-01-01,BidSwitch,Open Auction - BFM,CTV,OnSpot Data,OnSpot Data,485.73,66166
 2026-04-01,Direct,Open Auction - BFM,Display,Adtheorent,Adtheorent,461.36,402185
 2025-07-01,Direct,DSP Marketplace - BFM,CTV,Walmart,Walmart,456.68,39714
 2025-01-01,Direct,Open Auction - BFM,CTV,Metax,Metax,435.53,43229
+2026-07-01,BidSwitch,Open Auction - Seedtag,Online Video,Sportradar,Sportradar,434.88,932645
 2025-01-01,Direct,Open Auction - BFM,CTV,The Media Sense,The Media Sense,430.26,42077
-2026-07-01,Direct,Open Auction - Seedtag,Online Video,Beeswax,Beeswax,428.36,76936
+2026-07-01,Direct,Open Auction - Seedtag,Online Video,Beeswax,Beeswax,428.39,76944
 2026-01-01,BidSwitch,Open Auction - Seedtag,Display,Madopi,Madopi,419.21,1428869
 2025-04-01,BidSwitch,Open Auction - BFM,CTV,Quantcast,Quantcast,418.74,928255
-2026-07-01,BidSwitch,Open Auction - Seedtag,Online Video,Sportradar,Sportradar,415.5,915234
 2025-10-01,Direct,Open Auction - BFM,Display,SmartyAds,SmartyAds,410.05,375093
 2025-07-01,BidSwitch,Open Auction - Seedtag,Online Video,Sportradar,Sportradar,402.62,129123
 2025-10-01,Direct,Open Auction - BFM,CTV,Metax,Metax,401.85,39702
@@ -821,17 +821,18 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-07-01,Direct,Open Auction - BFM,Display,Yahoo DSP,Yahoo DSP,374.68,340150
 2026-01-01,Direct,Open Auction - BFM,CTV,Krush Media,Krush Media,373.41,107575
 2025-01-01,Direct,Open Auction - BFM,CTV,BidSwitch,Bidswitch,369.22,102492
+2026-07-01,Direct,PMP - Curation,Online Video,RtbHouse,RtbHouse,363.39,208311
 2025-04-01,BidSwitch,DSP Marketplace - BFM,CTV,DV360,DV360,360.51,31404
 2026-04-01,BidSwitch,Open Auction - BFM,CTV,Amazon DSP,Amazon DSP,358.53,440999
-2026-07-01,Direct,PMP - Curation,Online Video,RtbHouse,RtbHouse,358.34,197054
 2025-01-01,Direct,Open Auction - BFM,Display,IQM,IQM,351.72,175179
 2025-01-01,Direct,Open Auction - BFM,CTV,IQM,IQM,344.81,60271
 2026-04-01,Direct,Open Auction - BFM,CTV,Seedtag POC,Seedtag POC,341.24,31556
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,Amobee,Amobee,332.62,18569
 2025-04-01,Direct,Select - BFM,CTV,Xandr,AppNexus,328.17,12033
+2026-07-01,BidSwitch,PMP CTV - O&O,CTV,Amazon DSP,Amazon DSP,323.33,19840
 2025-01-01,BidSwitch,Open Auction - BFM,CTV,Samsung DSP,Samsung DSP,314.79,46234
-2026-07-01,BidSwitch,Open Auction - BFM,CTV,Infillion,Infillion,305.83,42574
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,Marketing Architects,Marketing Architects -RTB,302.97,53267
+2026-07-01,BidSwitch,Open Auction - BFM,CTV,Infillion,Infillion,306.21,42629
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,Marketing Architects,Marketing Architects -RTB,305.35,53664
 2025-01-01,Direct,DSP Marketplace - BFM,Display,Aceex,Aceex,300.19,96355
 2026-01-01,Direct,Open Auction - BFM,CTV,IQM,IQM,299.09,20467
 2026-04-01,Direct,Open Auction - BFM,CTV,IQM,IQM,297.43,29038
@@ -839,10 +840,9 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-07-01,Direct,Open Auction - BFM,CTV,Storygize,Storygize,290.35,242369
 2025-04-01,Direct,PMP Web - O&O,Native,TheTradeDesk,TheTradeDesk,290.3,270528
 2025-10-01,BidSwitch,Open Auction - Seedtag,Display,AdMixerBidswitch,AdMixerBidswitch,289.04,6937023
-2026-07-01,BidSwitch,PMP CTV - O&O,CTV,Amazon DSP,Amazon DSP,284.86,17432
 2026-01-01,BidSwitch,Open Auction - BFM,CTV,Madopi,Madopi,284.47,445155
 2025-01-01,Direct,Select - BFM,CTV,IQM,IQM,280.83,19635
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,SmartyAds,SmartyAds,279.3,48871
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,SmartyAds,SmartyAds,279.43,48888
 2025-04-01,BidSwitch,Open Auction - BFM,CTV,Samsung DSP,Samsung DSP,278.53,31727
 2026-01-01,BidSwitch,Open Auction - BFM,Display,DV360,DV360,267.3,133967
 2026-04-01,Direct,PMP Web - O&O,Native,RtbHouse,RtbHouse,258.64,318376
@@ -852,9 +852,9 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-01-01,Direct,Select - BFM,CTV,SundaySky,SundaySky,248.46,94053
 2025-10-01,Direct,Open Auction - BFM,CTV,IQM,IQM,245.03,21252
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,Walmart,Walmart,237.17,19066
+2026-07-01,BidSwitch,Open Auction - BFM,CTV,OnSpot Data,OnSpot Data,234.45,31537
 2025-10-01,Direct,PMP Web - O&O,Online Video,RtbHouse,RtbHouse,234.0,35912
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,Aceex,Aceex,233.06,14888
-2026-07-01,BidSwitch,Open Auction - BFM,CTV,OnSpot Data,OnSpot Data,231.93,31083
 2025-01-01,Direct,Select - BFM,CTV,SimpliFi,SimpliFi,228.65,14844
 2025-01-01,Direct,DSP Marketplace - BFM,Display,GroundTruth,GroundTruth,222.36,71781
 2025-01-01,Direct,Open Auction - BFM,CTV,DeepIntent,DeepIntent,220.64,55899
@@ -863,20 +863,20 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-01-01,BidSwitch,Open Auction - BFM,CTV,IPONWEB BidCore,IPONWEB BidCore,210.16,23950
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,SmartyAds,SmartyAds,209.92,34637
 2025-04-01,Direct,Open Auction - BFM,Display,GroundTruth,GroundTruth,209.91,135004
+2026-07-01,BidSwitch,Open Auction - BFM,CTV,Knorex,Knorex,208.83,10354
 2025-10-01,BidSwitch,Select - BFM,Display,DV360,DV360,207.61,23934
 2025-10-01,Direct,PMP CTV - O&O,CTV,Xandr,AppNexus,203.67,9419
 2025-07-01,Direct,Open Auction - BFM,CTV,DeepIntent,DeepIntent,203.56,17271
-2026-07-01,BidSwitch,Open Auction - BFM,CTV,Knorex,Knorex,201.43,10049
 2025-10-01,Direct,PMP Web - O&O,Online Video,Xandr,AppNexus,197.46,23052
+2026-07-01,BidSwitch,Open Auction - BFM,Display,AdElement,AdElement,195.91,293558
+2026-07-01,Direct,Open Auction - BFM,Display,Adtheorent,Adtheorent,193.76,108869
 2026-04-01,Direct,Open Auction - BFM,CTV,DeepIntent,DeepIntent,192.78,17061
 2026-01-01,Direct,PMP Web - O&O,Display,Xandr,AppNexus,189.36,37377
-2026-07-01,Direct,Open Auction - BFM,Display,Adtheorent,Adtheorent,189.3,106204
 2025-07-01,BidSwitch,Open Auction - BFM,CTV,Knorex,Knorex,186.68,21694
+2026-07-01,Direct,PMP - Curation,Display,TheTradeDesk,TheTradeDesk,182.66,266380
 2025-04-01,BidSwitch,PMP Web - O&O,Online Video,DV360,DBM,174.33,15746
-2026-07-01,BidSwitch,Open Auction - BFM,Display,AdElement,AdElement,174.11,267663
 2025-07-01,Direct,Open Auction - BFM,CTV,IQM,IQM,173.98,30179
 2025-04-01,Direct,DSP Marketplace - BFM,Display,Aceex,Aceex,169.96,55193
-2026-07-01,Direct,PMP - Curation,Display,TheTradeDesk,TheTradeDesk,169.35,247177
 2025-01-01,BidSwitch,Open Auction - BFM,CTV,Quantcast,Quantcast,168.47,127887
 2025-10-01,BidSwitch,Open Auction - BFM,Display,AdElement,AdElement,167.5,236711
 2026-04-01,BidSwitch,PMP Web - O&O,Online Video,Amazon DSP,AmazonBidswitch,167.06,59738
@@ -919,19 +919,19 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-01-01,BidSwitch,Open Auction - BFM,Display,Knorex,Knorex,97.21,22698
 2026-04-01,Direct,DSP Marketplace - BFM,Display,GroundTruth,GroundTruth,95.62,55760
 2026-01-01,Direct,Open Auction - BFM,CTV,Metax,Metax,91.88,9085
+2026-07-01,Direct,Open Auction - BFM,CTV,Octillion,Octillion,87.42,6491
 2025-01-01,BidSwitch,PMP CTV - O&O,CTV,DV360,DV360,86.06,3488
-2026-07-01,Direct,Open Auction - BFM,CTV,Octillion,Octillion,85.97,6282
 2026-01-01,Direct,Select - BFM,CTV,Beeswax,Beeswax,85.9,5797
 2025-04-01,Direct,Open Auction - BFM,CTV,Cepia,Cepia,77.74,77725
 2025-10-01,Direct,Open Auction - BFM,Display,DeepIntent,DeepIntent,77.41,13087
 2025-07-01,Direct,Open Auction - BFM,Display,DeepIntent,DeepIntent,74.29,18151
-2026-07-01,Direct,DSP Marketplace - BFM,CTV,Stirista,Stirista,69.38,7362
+2026-07-01,Direct,DSP Marketplace - BFM,CTV,Stirista,Stirista,71.41,7551
 2025-04-01,Direct,DSP Marketplace - BFM,Display,Beeswax,Beeswax,68.41,18546
 2025-01-01,Direct,Open Auction - BFM,Display,Krush Media,Krush Media,67.53,72388
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,BidSwitch,Bidswitch,66.73,12295
+2026-07-01,Direct,Open Auction - BFM,CTV,IQM,IQM,65.47,7218
 2025-04-01,BidSwitch,Open Auction - BFM,CTV,Knorex,Knorex,65.46,6987
 2025-10-01,Direct,Open Auction - BFM,Display,GroundTruth,GroundTruth,64.53,52224
-2026-07-01,Direct,Open Auction - BFM,CTV,IQM,IQM,63.6,7000
 2025-04-01,BidSwitch,Select - BFM,CTV,Sportradar,Sportradar,57.6,21396
 2026-04-01,Direct,Open Auction - BFM,Display,Krush Media,Krush Media,56.66,86230
 2026-04-01,BidSwitch,Open Auction - BFM,CTV,Samsung DSP,Samsung DSP,55.83,5185
@@ -950,8 +950,8 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-07-01,Direct,Open Auction - BFM,CTV,SmartClip,SmartClip,48.08,6003
 2026-01-01,BidSwitch,PMP Web - O&O,Online Video,Amazon DSP,AmazonBidswitch,44.98,15616
 2025-01-01,BidSwitch,Open Auction - BFM,Display,Streamworx Lda.,Streamworx Lda.,44.66,13172
+2026-07-01,Direct,PMP - Curation,Display,StackAdapt,StackAdaptDSP,43.7,189279
 2025-01-01,Direct,Open Auction - BFM,Display,DeepIntent,DeepIntent,42.48,20622
-2026-07-01,Direct,PMP - Curation,Display,StackAdapt,StackAdaptDSP,42.36,184175
 2025-04-01,Direct,Select - BFM,CTV,Stirista,Stirista,42.08,4434
 2025-07-01,Direct,DSP Marketplace - BFM,CTV,IQM,IQM,41.93,3010
 2025-01-01,Direct,DSP Marketplace - BFM,Display,Beeswax,Beeswax,40.81,13638
@@ -967,25 +967,25 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-04-01,BidSwitch,DSP Marketplace - BFM,CTV,DV360,DV360,32.07,2905
 2026-01-01,Direct,Open Auction - BFM,Display,Beeswax,Beeswax,31.6,25209
 2025-04-01,BidSwitch,Open Auction - BFM,Display,Inspiritum,Inspiritum,31.11,49199
-2026-07-01,Direct,Open Auction - Seedtag,Display,DeepIntent,DeepIntent,30.6,23370
+2026-07-01,Direct,Open Auction - Seedtag,Display,DeepIntent,DeepIntent,30.67,23413
 2026-01-01,Direct,Open Auction - BFM,Display,Krush Media,Krush Media,29.96,35334
 2025-07-01,Direct,Select - BFM,CTV,Beeswax,Beeswax,29.49,2105
+2026-07-01,Direct,Open Auction - BFM,Display,DeepIntent,DeepIntent,27.84,11630
 2025-01-01,Direct,Open Auction - BFM,CTV,Aceex,Aceex,27.61,4595
-2026-07-01,Direct,Open Auction - BFM,Display,DeepIntent,DeepIntent,27.59,11510
 2025-07-01,Direct,Select - BFM,CTV,SundaySky,SundaySky,27.47,6932
 2025-04-01,Direct,Open Auction - BFM,CTV,OMG,OMG,27.43,27431
+2026-07-01,Direct,Open Auction - BFM,CTV,Equativ,Equativ,26.06,3817
 2025-04-01,BidSwitch,Open Auction - BFM,Display,Knorex,Knorex,26.01,5858
 2026-01-01,Direct,Open Auction - Seedtag,Display,Conversant,Conversant,25.92,34168
 2026-04-01,BidSwitch,Open Auction - BFM,Display,AdElement,AdElement,25.35,45589
 2025-10-01,Direct,DSP Marketplace - BFM,Display,Adtheorent,Adtheorent,24.65,10140
-2026-07-01,Direct,DSP Marketplace - BFM,Display,GroundTruth,GroundTruth,23.95,15364
+2026-07-01,Direct,DSP Marketplace - BFM,Display,GroundTruth,GroundTruth,24.31,15601
+2026-07-01,Direct,Open Auction - BFM,CTV,Metax,Metax,23.86,1837
 2026-07-01,BidSwitch,DSP Marketplace - BFM,CTV,Infillion,Infillion,23.85,2457
-2026-07-01,Direct,Open Auction - BFM,CTV,Metax,Metax,23.36,1793
 2025-04-01,Direct,PMP Web - O&O,Online Video,Xandr,AppNexus,23.16,2747
-2026-07-01,Direct,Open Auction - BFM,Display,Krush Media,Krush Media,23.07,9329
+2026-07-01,Direct,Open Auction - BFM,Display,Krush Media,Krush Media,23.11,9471
 2025-10-01,BidSwitch,PMP CTV - O&O,CTV,Sportradar,Sportradar,22.9,5089
 2026-01-01,Direct,DSP Marketplace - BFM,Display,GroundTruth,GroundTruth,22.39,14635
-2026-07-01,Direct,Open Auction - BFM,CTV,Equativ,Equativ,21.86,3338
 2026-04-01,Direct,DSP Marketplace - BFM,Display,Stirista,Stirista,21.8,14901
 2025-04-01,Direct,Open Auction - BFM,CTV,The Media Sense,The Media Sense,20.72,2392
 2025-07-01,Direct,PMP Web - O&O,Online Video,Xandr,AppNexus,20.28,3462
@@ -1007,9 +1007,9 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-01-01,Direct,Open Auction - BFM,Display,GroundTruth,GroundTruth,14.02,11183
 2025-10-01,Direct,Open Auction - BFM,Display,Stirista,Stirista,13.98,8579
 2025-10-01,Direct,Select - BFM,CTV,Xandr,AppNexus,13.93,175
+2026-07-01,Direct,Open Auction - BFM,CTV,RtbHouse,RtbHouse,13.4,306
 2026-01-01,Direct,Open Auction - BFM,CTV,SmartClip,SmartClip,13.22,1652
 2025-07-01,BidSwitch,Open Auction - BFM,Display,Inspiritum,Inspiritum,13.01,19938
-2026-07-01,Direct,Open Auction - BFM,CTV,RtbHouse,RtbHouse,12.84,261
 2025-04-01,Direct,Open Auction - BFM,CTV,Stirista,Stirista,12.28,6890
 2025-10-01,BidSwitch,Open Auction - BFM,Display,Webeye,Webeye,12.11,20279
 2026-07-01,Direct,Select - BFM,CTV,Adtelligent,Adtelligent,12.01,736
@@ -1024,9 +1024,9 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-04-01,Direct,Open Auction - BFM,Display,IQM,IQM,10.27,7590
 2026-04-01,BidSwitch,Open Auction - BFM,Display,Webeye,Webeye,10.18,18698
 2025-04-01,BidSwitch,Open Auction - BFM,Display,Quantcast,Quantcast,10.16,43250
+2026-07-01,Direct,DSP Marketplace - BFM,Display,Stirista,Stirista,9.84,7159
 2025-01-01,BidSwitch,Open Auction - BFM,Display,Quantcast,Quantcast,9.84,15999
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,Madopi,Madopi,9.7,11749
-2026-07-01,Direct,DSP Marketplace - BFM,Display,Stirista,Stirista,9.7,7057
 2025-10-01,Direct,Select - BFM,CTV,StackAdapt,StackAdapt,9.34,2337
 2026-01-01,Direct,DSP Marketplace - BFM,CTV,IQM,IQM,9.33,399
 2025-07-01,BidSwitch,Open Auction - BFM,Display,Quantcast,Quantcast,9.05,12712
@@ -1040,67 +1040,67 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-01-01,BidSwitch,Open Auction - BFM,CTV,Streamworx Lda.,Streamworx Lda.,6.62,781
 2025-07-01,Direct,Open Auction - BFM,Display,Krush Media,Krush Media,6.2,10795
 2026-07-01,BidSwitch,Open Auction - BFM,CTV,Streamworx Lda.,Streamworx Lda.,5.86,260
-2026-07-01,Direct,Select - BFM,Display,Viant,Viant,5.72,5367
+2026-07-01,Direct,Select - BFM,Display,Viant,Viant,5.81,5445
 2026-04-01,Direct,PMP Web - O&O,Online Video,Xandr,AppNexus,5.68,996
-2026-07-01,BidSwitch,DSP Marketplace - BFM,CTV,Samsung DSP,Samsung DSP,5.53,555
+2026-07-01,BidSwitch,DSP Marketplace - BFM,CTV,Samsung DSP,Samsung DSP,5.65,569
 2026-04-01,BidSwitch,Open Auction - BFM,Display,Infillion,Infillion,5.37,7852
 2026-01-01,BidSwitch,Open Auction - BFM,Display,OnSpot Data,OnSpot Data,5.36,8097
 2026-07-01,BidSwitch,PMP - Curation,Online Video,DV360,DBM,5.33,405
 2025-04-01,Direct,DSP Marketplace - BFM,Display,Conversant,Epsilon (Conversant),4.93,2884
-2026-07-01,Direct,DSP Marketplace - BFM,Display,Adtheorent,Adtheorent,4.81,4545
+2026-07-01,Direct,DSP Marketplace - BFM,Display,Adtheorent,Adtheorent,4.93,4656
 2026-01-01,Direct,DSP Marketplace - BFM,Display,Stirista,Stirista,4.77,3151
 2025-04-01,BidSwitch,Open Auction - BFM,Display,OnSpot Data,OnSpot Data,4.6,3610
 2026-01-01,Direct,Open Auction - BFM,Display,DeepIntent,DeepIntent,4.53,1713
 2025-01-01,Direct,Open Auction - BFM,CTV,Stirista,Stirista,4.52,2630
 2025-04-01,Direct,Open Auction - BFM,Display,BidSwitch,Bidswitch,4.3,6223
 2025-10-01,BidSwitch,Open Auction - BFM,Display,Infillion,Infillion,4.2,12139
-2026-07-01,Direct,Open Auction - BFM,CTV,ZetaBidswitch,ZetaBidswitch,4.04,218
-2026-07-01,Direct,Open Auction - BFM,CTV,Krush Media,Krush Media,4.0,461
+2026-07-01,Direct,Open Auction - BFM,CTV,Krush Media,Krush Media,4.19,481
+2026-07-01,BidSwitch,Open Auction - Seedtag,Online Video,Madopi,Madopi,4.16,14110
+2026-07-01,Direct,Open Auction - BFM,CTV,ZetaBidswitch,ZetaBidswitch,4.11,223
 2026-04-01,Direct,PMP Web - O&O,Online Video,RtbHouse,RtbHouse,3.87,357
 2026-01-01,Direct,Open Auction - BFM,Display,IQM,IQM,3.7,1934
-2025-07-01,BidSwitch,Open Auction - BFM,Display,AdIngenious,AdIngenious,3.59,25802
 2026-04-01,BidSwitch,Open Auction - BFM,Display,Zeta DSP,Zeta DSP,3.59,5028
+2025-07-01,BidSwitch,Open Auction - BFM,Display,AdIngenious,AdIngenious,3.59,25802
+2026-07-01,BidSwitch,Open Auction - BFM,Display,OnSpot Data,OnSpot Data,3.49,4834
 2026-04-01,BidSwitch,Open Auction - BFM,Display,Knorex,Knorex,3.41,681
 2025-01-01,BidSwitch,Open Auction - BFM,Display,OnSpot Data,OnSpot Data,3.33,2846
 2026-01-01,Direct,DSP Marketplace - BFM,Display,Adtheorent,Adtheorent,3.28,3058
 2025-01-01,BidSwitch,DSP Marketplace - BFM,CTV,Samsung DSP,Samsung DSP,3.27,190
-2026-07-01,BidSwitch,Open Auction - BFM,Display,OnSpot Data,OnSpot Data,3.21,4517
+2026-07-01,Direct,Open Auction - BFM,CTV,Stirista,Stirista,3.22,523
 2026-01-01,Direct,Open Auction - BFM,Display,Stirista,Stirista,3.17,1949
 2025-10-01,BidSwitch,Open Auction - BFM,Display,OnSpot Data,OnSpot Data,3.14,4351
-2026-07-01,Direct,Open Auction - BFM,CTV,Stirista,Stirista,3.13,508
 2025-07-01,BidSwitch,Open Auction - BFM,Display,Knorex,Knorex,2.92,706
 2026-01-01,BidSwitch,Open Auction - BFM,Display,Infillion,Infillion,2.84,4780
 2025-07-01,Direct,Open Auction - BFM,Display,Stirista,Stirista,2.75,1795
-2026-07-01,BidSwitch,Open Auction - Seedtag,Online Video,Madopi,Madopi,2.63,10740
 2025-10-01,Direct,Open Auction - BFM,Display,IQM,IQM,2.59,1555
 2026-04-01,Direct,Open Auction - BFM,Display,IQM,IQM,2.57,2202
 2025-01-01,Direct,Open Auction - BFM,Display,BidSwitch,Bidswitch,2.52,2786
 2026-01-01,BidSwitch,Open Auction - BFM,Display,Knorex,Knorex,2.46,707
-2026-07-01,Direct,Open Auction - BFM,Display,GroundTruth,GroundTruth,2.34,1396
+2026-07-01,Direct,Open Auction - BFM,Display,GroundTruth,GroundTruth,2.41,1439
 2026-04-01,Direct,Select - BFM,CTV,Beeswax,Beeswax,2.23,162
 2025-04-01,BidSwitch,Open Auction - BFM,Display,Amazon DSP,Amazon DSP,2.17,1929
 2025-04-01,BidSwitch,Open Auction - BFM,Display,Adform,Adform,1.96,2204
 2025-10-01,Direct,Select - BFM,CTV,Adtelligent,Adtelligent,1.93,115
 2026-07-01,BidSwitch,Open Auction - BFM,CTV,IPONWEB BidCore,IPONWEB BidCore,1.93,173
 2025-07-01,Direct,DSP Marketplace - BFM,Display,Conversant,Epsilon (Conversant),1.84,1060
+2026-07-01,BidSwitch,Open Auction - BFM,Display,Infillion,Infillion,1.79,1836
+2026-07-01,Direct,Open Auction - BFM,Display,Beeswax,Beeswax,1.79,1682
 2025-07-01,BidSwitch,Open Auction - BFM,Display,Streamworx Lda.,Streamworx Lda.,1.78,831
-2026-07-01,Direct,Open Auction - BFM,Display,Beeswax,Beeswax,1.71,1605
-2026-07-01,BidSwitch,Open Auction - BFM,Display,Infillion,Infillion,1.62,1734
 2025-01-01,Direct,Open Auction - BFM,CTV,Media Pulse,Media Pulse,1.61,105
 2026-04-01,Direct,Open Auction - BFM,CTV,BidSwitch,Bidswitch,1.53,224
 2026-01-01,BidSwitch,Open Auction - BFM,Display,AdIngenious,AdIngenious,1.52,9261
 2026-07-01,Direct,PMP Web - O&O,Online Video,Viant,Viant,1.47,559
 2025-10-01,Direct,DSP Marketplace - BFM,CTV,IQM,IQM,1.42,55
-2026-07-01,BidSwitch,Open Auction - BFM,CTV,Samsung DSP,Samsung DSP,1.35,139
+2026-07-01,BidSwitch,Open Auction - BFM,CTV,Samsung DSP,Samsung DSP,1.37,141
 2025-07-01,Direct,Open Auction - BFM,CTV,Stirista,Stirista,1.23,277
-2026-07-01,Direct,Open Auction - BFM,Display,IQM,IQM,1.15,805
+2026-07-01,Direct,Open Auction - BFM,Display,IQM,IQM,1.15,821
 2025-04-01,Direct,Select - BFM,CTV,Adtelligent,Adtelligent,1.11,63
 2026-04-01,Direct,Open Auction - BFM,Display,SmartyAds,SmartyAds,1.07,5835
 2026-04-01,Direct,Open Auction - BFM,Display,BidSwitch,Bidswitch,1.06,584
+2026-07-01,BidSwitch,Open Auction - BFM,Display,AdIngenious,AdIngenious,1.02,3951
 2025-10-01,BidSwitch,Open Auction - BFM,Display,Quantcast,Quantcast,1.02,2295
-2026-07-01,BidSwitch,Open Auction - BFM,Display,AdIngenious,AdIngenious,0.99,3830
-2025-07-01,Direct,DSP Marketplace - BFM,Display,Yahoo DSP,Yahoo DSP,0.98,489
 2025-04-01,BidSwitch,Open Auction - BFM,Display,AdElement,AdElement,0.98,2625
+2025-07-01,Direct,DSP Marketplace - BFM,Display,Yahoo DSP,Yahoo DSP,0.98,489
 2026-01-01,BidSwitch,Open Auction - BFM,Display,Quantcast,Quantcast,0.94,3070
 2025-10-01,BidSwitch,Open Auction - BFM,Display,AdIngenious,AdIngenious,0.93,6711
 2026-04-01,Direct,DSP Marketplace - BFM,CTV,IQM,IQM,0.93,49
@@ -1109,7 +1109,7 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,DSP Not Found,Other,0.88,53
 2025-04-01,Direct,Open Auction - BFM,CTV,Media Pulse,Media Pulse,0.84,55
 2025-01-01,Direct,Select - BFM,CTV,MadHive,MadHive,0.82,51
-2026-07-01,Direct,Open Auction - BFM,CTV,Zeasn,Zeasn,0.77,101
+2026-07-01,Direct,Open Auction - BFM,CTV,Zeasn,Zeasn,0.78,102
 2025-04-01,BidSwitch,Open Auction - BFM,CTV,Between Exchange,Between Exchange,0.77,991
 2026-01-01,Direct,Open Auction - BFM,CTV,Zeasn,Zeasn,0.76,123
 2025-10-01,BidSwitch,Open Auction - BFM,Display,Knorex,Knorex,0.71,378
@@ -1117,7 +1117,7 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2025-04-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.64,25
 2025-04-01,BidSwitch,Open Auction - BFM,Display,Aroscop,Aroscop,0.63,951
 2026-04-01,BidSwitch,Open Auction - BFM,CTV,IPONWEB BidCore,IPONWEB BidCore,0.61,67
-2026-07-01,BidSwitch,Open Auction - BFM,Display,Marketperf,Marketperf,0.59,2037
+2026-07-01,BidSwitch,Open Auction - BFM,Display,Marketperf,Marketperf,0.59,2061
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,4INFO,4INFO,0.57,2238991
 2026-01-01,Direct,Open Auction - BFM,CTV,Stirista,Stirista,0.54,121
 2025-04-01,Direct,PMP Web - O&O,Online Video,RtbHouse,RtbHouse,0.53,37
@@ -1127,23 +1127,23 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-04-01,Direct,Select - BFM,CTV,SmartyAds,SmartyAds,0.41,27
 2025-07-01,BidSwitch,Select - BFM,CTV,Sportradar,Sportradar,0.39,7
 2026-04-01,Direct,Open Auction - BFM,Display,Stirista,Stirista,0.36,361
-2026-07-01,BidSwitch,Open Auction - BFM,Display,Knorex,Knorex,0.35,74
+2026-07-01,BidSwitch,Open Auction - BFM,Display,Knorex,Knorex,0.35,75
 2026-04-01,BidSwitch,Open Auction - BFM,Display,Quantcast,Quantcast,0.32,1540
-2025-01-01,Direct,DSP Marketplace - BFM,CTV,SmartyAds,SmartyAds,0.31,8
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.31,13
-2025-07-01,BidSwitch,Open Auction - BFM,Display,Samsung DSP,Samsung DSP,0.3,85
+2025-01-01,Direct,DSP Marketplace - BFM,CTV,SmartyAds,SmartyAds,0.31,8
 2025-07-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.3,27
+2025-07-01,BidSwitch,Open Auction - BFM,Display,Samsung DSP,Samsung DSP,0.3,85
 2026-04-01,BidSwitch,Open Auction - BFM,Display,Between Exchange,Between Exchange,0.29,29
 2025-10-01,BidSwitch,Open Auction - BFM,Display,Excelate,Excelate,0.28,154
 2025-04-01,Direct,DSP Marketplace - BFM,Display,Yahoo DSP,Yahoo DSP,0.26,134
 2025-01-01,BidSwitch,Open Auction - BFM,Display,AdElement,AdElement,0.25,713
 2026-01-01,Direct,Open Auction - BFM,CTV,Cepia,Cepia,0.22,219
 2025-04-01,Direct,Open Auction - BFM,CTV,BidSwitch,Bidswitch,0.21,55
-2025-10-01,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,IPONWEB BidCore,0.2,169
 2025-07-01,BidSwitch,Open Auction - BFM,CTV,Adform,Adform,0.2,43
+2025-10-01,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,IPONWEB BidCore,0.2,169
 2025-01-01,Direct,DSP Marketplace - BFM,Display,Yahoo DSP,Yahoo DSP,0.2,96
-2026-04-01,BidSwitch,Open Auction - BFM,Display,Aroscop,Aroscop,0.19,64
 2025-07-01,Direct,Open Auction - BFM,Display,BidSwitch,Bidswitch,0.19,129
+2026-04-01,BidSwitch,Open Auction - BFM,Display,Aroscop,Aroscop,0.19,64
 2025-07-01,Direct,DSP Marketplace - BFM,CTV,4INFO,4INFO,0.18,9015525
 2026-04-01,Direct,Open Auction - BFM,CTV,Stirista,Stirista,0.18,54
 2025-04-01,Direct,DSP Marketplace - BFM,CTV,SmartyAds,SmartyAds,0.17,4
@@ -1152,51 +1152,54 @@ quarter,connection_type,business_line,product_category,dsp_group_name,channel_id
 2026-01-01,Direct,Open Auction - BFM,CTV,4INFO,4INFO,0.13,17
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,Adform,Adform,0.13,19
 2026-07-01,BidSwitch,Open Auction - BFM,CTV,Madopi,Madopi,0.13,15
-2026-07-01,Direct,Open Auction - BFM,CTV,SamsungBidswitch,SamsungBidswitch,0.12,11
 2025-07-01,BidSwitch,Open Auction - BFM,Display,Between Exchange,Between Exchange,0.12,117
 2026-07-01,BidSwitch,Open Auction - BFM,Display,Zeta DSP,Zeta DSP,0.12,100
-2025-04-01,BidSwitch,Open Auction - BFM,CTV,Adform,Adform,0.11,42
+2026-07-01,Direct,Open Auction - BFM,CTV,SamsungBidswitch,SamsungBidswitch,0.12,11
 2026-01-01,BidSwitch,Open Auction - BFM,CTV,Adform,Adform,0.11,236
+2025-04-01,BidSwitch,Open Auction - BFM,CTV,Adform,Adform,0.11,42
 2025-07-01,Direct,DSP Marketplace - BFM,Display,Beeswax,Beeswax,0.11,120
 2026-04-01,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,IPONWEB BidCore,0.1,62
 2026-04-01,Direct,Open Auction - BFM,CTV,Equativ,Equativ,0.09,8
 2025-07-01,BidSwitch,Open Auction - BFM,Display,Amazon DSP,Amazon DSP,0.08,144
-2025-07-01,BidSwitch,Open Auction - BFM,CTV,Between Exchange,Between Exchange,0.07,83
 2026-07-01,Direct,Open Auction - BFM,Display,BidSwitch,Bidswitch,0.07,330
+2025-07-01,BidSwitch,Open Auction - BFM,CTV,Between Exchange,Between Exchange,0.07,83
 2025-01-01,Direct,Select - BFM,CTV,Adtelligent,Adtelligent,0.07,4
 2026-07-01,BidSwitch,Open Auction - BFM,Display,Aroscop,Aroscop,0.07,31
 2026-01-01,BidSwitch,Open Auction - BFM,Display,Madopi,Madopi,0.07,359
+2026-07-01,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,IPONWEB BidCore,0.07,97
 2026-04-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.07,3
-2026-07-01,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,IPONWEB BidCore,0.06,86
 2026-04-01,BidSwitch,PMP CTV - O&O,CTV,Amazon DSP,Amazon DSP,0.05,1
 2025-01-01,BidSwitch,Open Auction - BFM,Display,Amazon DSP,Amazon DSP,0.05,123
-2025-01-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.04,3
 2025-10-01,BidSwitch,Open Auction - BFM,CTV,Between Exchange,Between Exchange,0.04,36
+2025-01-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.04,3
 2026-01-01,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,IPONWEB BidCore,0.04,25
+2025-10-01,Direct,Open Auction - BFM,CTV,Stirista,Stirista,0.03,4
+2026-07-01,BidSwitch,Open Auction - BFM,Display,Webeye,Webeye,0.03,72
+2026-07-01,Direct,Open Auction - BFM,Display,Stirista,Stirista,0.03,43
 2025-01-01,BidSwitch,Open Auction - BFM,Display,Adform,Adform,0.03,421
 2026-01-01,Direct,Open Auction - BFM,Display,BidSwitch,Bidswitch,0.03,185
-2026-07-01,BidSwitch,Open Auction - BFM,Display,Webeye,Webeye,0.03,72
-2025-10-01,Direct,Open Auction - BFM,CTV,Stirista,Stirista,0.03,4
-2026-07-01,Direct,Open Auction - BFM,Display,Stirista,Stirista,0.03,43
 2026-04-01,Direct,DSP Marketplace - BFM,Display,Conversant,Epsilon (Conversant),0.03,4
 2026-04-01,BidSwitch,Open Auction - BFM,CTV,Quantcast,Quantcast,0.03,4
+2025-07-01,BidSwitch,Open Auction - BFM,Display,Adform,Adform,0.02,77
 2026-01-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.02,3
-2026-01-01,BidSwitch,Open Auction - BFM,CTV,Excelate,Excelate,0.02,9
 2025-04-01,BidSwitch,Open Auction - BFM,Display,Lift,Lift,0.02,11
 2025-01-01,Direct,Select - BFM,CTV,Xandr,AppNexus,0.02,2
-2025-07-01,BidSwitch,Open Auction - BFM,Display,Adform,Adform,0.02,77
 2025-10-01,BidSwitch,Open Auction - BFM,Display,Adform,Adform,0.02,5
+2026-01-01,BidSwitch,Open Auction - BFM,CTV,Excelate,Excelate,0.02,9
 2026-07-01,Direct,Open Auction - BFM,CTV,BidSwitch,Bidswitch,0.02,7
 2025-10-01,BidSwitch,Open Auction - Seedtag,Online Video,AdMixerBidswitch,AdMixerBidswitch,0.02,36
-2025-01-01,BidSwitch,Select - BFM,CTV,Infillion,Infillion,0.01,1
-2026-07-01,BidSwitch,Open Auction - BFM,Display,Madopi,Madopi,0.01,6
 2026-04-01,BidSwitch,Open Auction - BFM,CTV,Between Exchange,Between Exchange,0.01,1
-2026-07-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.01,1
-2025-10-01,Direct,DSP Marketplace - BFM,Display,Conversant,Epsilon (Conversant),0.01,38
+2026-07-01,BidSwitch,Open Auction - BFM,Display,Streamworx Lda.,Streamworx Lda.,0.01,18
+2026-07-01,BidSwitch,Open Auction - BFM,Display,Madopi,Madopi,0.01,10
+2025-04-01,BidSwitch,Open Auction - BFM,Display,Zeta DSP,Zeta DSP,0.01,142
 2025-10-01,BidSwitch,Open Auction - BFM,Display,Streamworx Lda.,Streamworx Lda.,0.01,9
 2025-10-01,Direct,DSP Marketplace - BFM,Display,TheTradeDesk,TheTradeDesk,0.01,1
-2025-04-01,BidSwitch,Open Auction - BFM,Display,Zeta DSP,Zeta DSP,0.01,142
+2026-07-01,BidSwitch,Open Auction - BFM,CTV,Webeye,Webeye,0.01,1
+2025-10-01,Direct,DSP Marketplace - BFM,Display,Conversant,Epsilon (Conversant),0.01,38
+2026-07-01,Direct,Open Auction - BFM,CTV,AdmaticBidswitch,AdmaticBidswitch,0.01,1
+2025-01-01,BidSwitch,Select - BFM,CTV,Infillion,Infillion,0.01,1
 2026-01-01,Direct,DSP Marketplace - BFM,Display,Conversant,Epsilon (Conversant),0.01,1
 2025-07-01,BidSwitch,Open Auction - Seedtag,Native,StackAdapt,StackAdapt,0.01,2
+2026-07-01,Direct,PMP - Curation,Online Video,Viant,Viant,0.0,1
 2025-01-01,Direct,DSP Marketplace - BFM,CTV,4INFO,4INFO,0.0,23399905
 2025-04-01,Direct,Select - BFM,CTV,Marketing Architects,Marketing Architects -RTB,0.0,2993
