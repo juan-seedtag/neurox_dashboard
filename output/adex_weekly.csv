@@ -1,332 +1,339 @@
 period,connection_type,business_line,product_category,dsp_group_name,clearvu_account,channel_id,rev_gross
-previous_week,BidSwitch,Open Auction - Seedtag,Display,DV360,,DBM,219286.98
-current_week,BidSwitch,Open Auction - Seedtag,Display,DV360,,DBM,189772.67
-previous_week,Direct,Open Auction - Seedtag,Display,MSAN,,AppNexus,182174.91
-previous_week,BidSwitch,PMP Web - O&O,Display,DV360,,DBM,179937.53
-previous_week,BidSwitch,PMP Web - O&O,Online Video,DV360,,DBM,168396.11
-previous_week,Direct,Open Auction - Seedtag,Native,MSAN,,AppNexus,166936.27
-current_week,BidSwitch,PMP Web - O&O,Display,DV360,,DBM,164614.71
-current_week,Direct,Open Auction - Seedtag,Display,MSAN,,AppNexus,154883.6
-current_week,Direct,Open Auction - Seedtag,Native,MSAN,,AppNexus,137999.78
-previous_week,Direct,Open Auction - BFM,CTV,StackAdapt,,StackAdapt,114319.15
-previous_week,Direct,Open Auction - Seedtag,Native,RtbHouse,,RtbHouse,97951.2
-current_week,Direct,Open Auction - BFM,CTV,StackAdapt,,StackAdapt,90521.83
-current_week,Direct,PMP Web - O&O,Display,TheTradeDesk,,TheTradeDesk,86789.52
-previous_week,Direct,PMP CTV - O&O,CTV,TheTradeDesk,,TheTradeDesk,77777.66
-current_week,Direct,Open Auction - Seedtag,Native,RtbHouse,,RtbHouse,77697.47
-previous_week,Direct,Open Auction - BFM,CTV,Amobee,,Amobee,76339.59
-previous_week,BidSwitch,Open Auction - Seedtag,Online Video,DV360,,DBM,74255.64
-current_week,BidSwitch,PMP Web - O&O,Online Video,DV360,,DBM,72511.96
-previous_week,Direct,PMP Web - O&O,Online Video,TheTradeDesk,,TheTradeDesk,59549.01
-current_week,BidSwitch,Open Auction - Seedtag,Online Video,DV360,,DBM,58774.39
-previous_week,Direct,Open Auction - Seedtag,Display,StackAdapt,,StackAdaptDSP,55984.13
-current_week,Direct,PMP CTV - O&O,CTV,TheTradeDesk,,TheTradeDesk,55473.24
-previous_week,Direct,PMP Web - O&O,Display,TheTradeDesk,,TheTradeDesk,55190.13
-current_week,Direct,Open Auction - BFM,CTV,Pubmatic,,Pubmatic,52940.09
-previous_week,Direct,Open Auction - BFM,CTV,Beeswax,,Beeswax,52067.52
-previous_week,Direct,Open Auction - Seedtag,Online Video,TheTradeDesk,,TheTradeDesk,49758.7
-previous_week,Direct,Open Auction - Seedtag,Display,RtbHouse,,RtbHouse,46954.54
-current_week,Direct,Open Auction - Seedtag,Display,StackAdapt,,StackAdaptDSP,46821.15
-previous_week,Direct,Open Auction - Seedtag,Native,StackAdapt,,StackAdaptDSP,45762.73
-previous_week,Direct,Open Auction - BFM,CTV,Pubmatic,,Pubmatic,42921.45
-previous_week,Direct,Open Auction - Seedtag,Display,TheTradeDesk,,TheTradeDesk,42895.24
-current_week,Direct,PMP Web - O&O,Online Video,TheTradeDesk,,TheTradeDesk,42241.33
-previous_week,Direct,Open Auction - Seedtag,Online Video,StackAdapt,,StackAdaptDSP,41353.1
-current_week,Direct,Open Auction - Seedtag,Display,RtbHouse,,RtbHouse,37886.99
-current_week,Direct,Open Auction - Seedtag,Native,StackAdapt,,StackAdaptDSP,36887.0
-current_week,Direct,Open Auction - Seedtag,Online Video,TheTradeDesk,,TheTradeDesk,35939.48
-current_week,Direct,Open Auction - BFM,CTV,Beeswax,,Beeswax,34417.65
-previous_week,Direct,Open Auction - BFM,CTV,Viant,,Viant,34188.41
-previous_week,Direct,Open Auction - BFM,CTV,TheTradeDesk,,TheTradeDesk,34002.44
-current_week,Direct,Open Auction - BFM,CTV,Amobee,,Amobee,33923.87
-current_week,Direct,Open Auction - Seedtag,Display,TheTradeDesk,,TheTradeDesk,33480.74
-current_week,BidSwitch,PMP CTV - O&O,CTV,DV360,,DV360,33282.99
-current_week,Direct,Open Auction - BFM,CTV,Viant,,Viant,32744.92
-previous_week,BidSwitch,PMP CTV - O&O,CTV,DV360,,DV360,32422.53
-current_week,Direct,Open Auction - Seedtag,Native,Outbrain/Teads,,Outbrain,32025.62
-previous_week,Direct,Open Auction - Seedtag,Display,Nexxen,,Nexxen,31617.34
-current_week,Direct,Open Auction - Seedtag,Display,Nexxen,,Nexxen,30532.9
-current_week,Direct,Open Auction - BFM,CTV,TheTradeDesk,,TheTradeDesk,29498.27
-previous_week,Direct,Open Auction - Seedtag,Native,Outbrain/Teads,,Outbrain,28515.09
-current_week,Direct,DSP Marketplace - BFM,CTV,StackAdapt,,StackAdapt,27256.51
-current_week,Direct,Open Auction - Seedtag,Display,Outbrain/Teads,,Outbrain,25033.18
-current_week,Direct,Open Auction - Seedtag,Online Video,StackAdapt,,StackAdaptDSP,24505.59
-previous_week,Direct,Open Auction - Seedtag,Online Video,Nexxen,,Nexxen,24382.01
-previous_week,Direct,Open Auction - Seedtag,Display,Outbrain/Teads,,Outbrain,20461.55
-previous_week,Direct,DSP Marketplace - BFM,CTV,TheTradeDesk,,TheTradeDesk,19510.6
-previous_week,Direct,PMP CTV - O&O,CTV,Amobee,,Amobee,17413.11
-previous_week,Direct,Open Auction - Seedtag,Native,Opera,,Opera,16248.91
-previous_week,Direct,DSP Marketplace - BFM,CTV,StackAdapt,,StackAdapt,15704.48
-previous_week,BidSwitch,Open Auction - Seedtag,Display,NextRoll,,NextRoll,15153.7
-current_week,BidSwitch,Open Auction - Seedtag,Display,NextRoll,,NextRoll,13645.01
-previous_week,Direct,Select - BFM,CTV,Yahoo DSP,Camelot,Yahoo DSP,13153.86
-current_week,Direct,Open Auction - Seedtag,Native,Opera,,Opera,12661.91
-previous_week,Direct,DSP Marketplace - BFM,CTV,Conversant,,Epsilon (Conversant),10700.62
-previous_week,Direct,DSP Marketplace - BFM,CTV,Viant,,Viant,10537.9
-current_week,Direct,DSP Marketplace - BFM,CTV,Conversant,,Epsilon (Conversant),9563.06
-current_week,Direct,DSP Marketplace - BFM,CTV,TheTradeDesk,,TheTradeDesk,9474.26
-current_week,Direct,PMP CTV - O&O,CTV,Viant,,Viant,9239.79
-previous_week,Direct,DSP Marketplace - BFM,CTV,Yahoo DSP,,Yahoo DSP,9157.18
-previous_week,BidSwitch,Open Auction - Seedtag,Display,Sportradar,,Sportradar,8386.61
-previous_week,Direct,PMP CTV - O&O,CTV,Viant,,Viant,8326.91
-current_week,Direct,Open Auction - BFM,CTV,Yahoo DSP,,Yahoo DSP,7692.41
-previous_week,Direct,PMP - Curation,Display,RtbHouse,,RtbHouse,7651.41
-previous_week,Direct,Open Auction - Seedtag,Display,Conversant,,Conversant,7365.28
-previous_week,Direct,Open Auction - Seedtag,Online Video,Conversant,,Conversant,7237.83
-current_week,Direct,Select - BFM,CTV,TheTradeDesk,Aki,TheTradeDesk,7070.47
-previous_week,Direct,Open Auction - BFM,CTV,Yahoo DSP,,Yahoo DSP,7056.95
-current_week,BidSwitch,Open Auction - Seedtag,Display,Sportradar,,Sportradar,6852.19
-current_week,Direct,Open Auction - Seedtag,Online Video,Conversant,,Conversant,6795.14
-current_week,Direct,Open Auction - Seedtag,Online Video,Nexxen,,Nexxen,6249.2
-current_week,Direct,Open Auction - Seedtag,Display,Conversant,,Conversant,5993.35
-previous_week,Direct,Open Auction - BFM,CTV,Basis Technologies,,Basis Technologies,5976.54
-previous_week,Direct,Open Auction - Seedtag,Online Video,Outbrain/Teads,,Outbrain,5935.6
-current_week,Direct,Open Auction - BFM,CTV,Basis Technologies,,Basis Technologies,5846.25
-previous_week,BidSwitch,Open Auction - Seedtag,Display,DV360,,GDN,5812.87
-current_week,Direct,PMP - Curation,Online Video,TheTradeDesk,,TheTradeDesk,5646.07
-previous_week,Direct,Open Auction - Seedtag,Display,Xandr,,AppNexus,5512.84
-previous_week,Direct,PMP Web - O&O,Display,Viant,,Viant,4993.87
-previous_week,Direct,DSP Marketplace - BFM,CTV,Octillion,,Octillion,4667.85
-current_week,Direct,Open Auction - Seedtag,Display,Xandr,,AppNexus,4569.99
-previous_week,Direct,DSP Marketplace - BFM,CTV,MadHive,,MadHive,4458.27
-current_week,Direct,PMP - Curation,Display,RtbHouse,,RtbHouse,4137.43
-current_week,Direct,Open Auction - Seedtag,Online Video,Outbrain/Teads,,Outbrain,4014.48
-previous_week,Direct,Open Auction - BFM,CTV,Sharethrough,,Sharethrough,3919.42
-previous_week,Direct,DSP Marketplace - BFM,CTV,GroundTruth,,GroundTruth,3793.11
-current_week,Direct,DSP Marketplace - BFM,CTV,Octillion,,Octillion,3704.24
-current_week,Direct,DSP Marketplace - BFM,CTV,Viant,,Viant,3626.57
-current_week,Direct,Open Auction - BFM,CTV,Sharethrough,,Sharethrough,3569.48
-previous_week,Direct,DSP Marketplace - BFM,CTV,Basis Technologies,,Basis Technologies,3555.24
-previous_week,Direct,PMP - Curation,Online Video,TheTradeDesk,,TheTradeDesk,3372.3
-current_week,BidSwitch,Open Auction - Seedtag,Display,DV360,,GDN,3366.4
-previous_week,Direct,Open Auction - Seedtag,Display,Opera,,Opera,3331.1
-previous_week,Direct,Select - BFM,CTV,TheTradeDesk,Aki,TheTradeDesk,3257.16
-previous_week,BidSwitch,Open Auction - BFM,CTV,DV360,,DV360,3175.81
-current_week,Direct,DSP Marketplace - BFM,CTV,GroundTruth,,GroundTruth,3149.0
-previous_week,Direct,Open Auction - BFM,CTV,LoopMe,,LoopMe,3050.5
-current_week,Direct,DSP Marketplace - BFM,CTV,Yahoo DSP,,Yahoo DSP,3007.75
-previous_week,Direct,Open Auction - Seedtag,Native,TheTradeDesk,,TheTradeDesk,3007.15
-current_week,Direct,PMP Web - O&O,Display,Viant,,Viant,2815.11
-current_week,Direct,DSP Marketplace - BFM,CTV,Walmart,,Walmart,2791.78
-previous_week,Direct,Open Auction - Seedtag,Online Video,RtbHouse,,RtbHouse,2770.94
-current_week,Direct,Open Auction - Seedtag,Native,TheTradeDesk,,TheTradeDesk,2739.27
-current_week,Direct,PMP CTV - O&O,CTV,Amobee,,Amobee,2703.38
-current_week,Direct,DSP Marketplace - BFM,CTV,Basis Technologies,,Basis Technologies,2582.56
-current_week,Direct,Open Auction - BFM,CTV,LoopMe,,LoopMe,2540.69
-previous_week,Direct,Open Auction - BFM,CTV,Adtelligent,,Adtelligent,2516.28
-previous_week,Direct,Open Auction - Seedtag,Online Video,Viant,,Viant,2499.16
-current_week,Direct,Open Auction - BFM,CTV,Adtelligent,,Adtelligent,2363.86
-current_week,BidSwitch,Open Auction - BFM,CTV,Zeta DSP,,Zeta DSP,2292.1
-current_week,Direct,Open Auction - Seedtag,Display,Opera,,Opera,2292.07
-current_week,Direct,Open Auction - Seedtag,Online Video,RtbHouse,,RtbHouse,2222.48
-previous_week,Direct,Open Auction - BFM,CTV,Adtheorent,,Adtheorent,2138.99
-previous_week,BidSwitch,Open Auction - BFM,CTV,Zeta DSP,,Zeta DSP,2060.28
-previous_week,Direct,Open Auction - Seedtag,Display,Illumin,,Illumin,1997.66
-previous_week,Direct,DSP Marketplace - BFM,CTV,Walmart,,Walmart,1958.19
-current_week,Direct,Open Auction - BFM,CTV,Marketing Architects,,Marketing Architects -RTB,1912.46
-current_week,Direct,Open Auction - Seedtag,Online Video,Viant,,Viant,1771.18
-previous_week,Direct,Open Auction - BFM,Display,TheTradeDesk,,TheTradeDesk,1682.61
-previous_week,Direct,Open Auction - BFM,CTV,Xandr,,AppNexus,1529.09
-previous_week,Direct,Open Auction - Seedtag,Display,Beeswax,,Beeswax,1497.74
-previous_week,Direct,PMP CTV - O&O,CTV,Walmart,,Walmart,1494.58
-current_week,Direct,DSP Marketplace - BFM,CTV,Beeswax,,Beeswax,1447.76
-current_week,BidSwitch,Open Auction - BFM,CTV,DV360,,DV360,1422.26
-current_week,Direct,Select - BFM,CTV,Yahoo DSP,Camelot,Yahoo DSP,1408.67
-current_week,Direct,Open Auction - Seedtag,Display,Beeswax,,Beeswax,1402.71
-current_week,Direct,PMP CTV - O&O,CTV,Walmart,,Walmart,1395.6
-previous_week,Direct,Open Auction - Seedtag,Native,Xandr,,AppNexus,1395.48
-previous_week,Direct,Select - BFM,CTV,JamLoop OpenRTB,TEGNA,JamLoop OpenRTB,1375.93
-current_week,Direct,Open Auction - Seedtag,Display,Illumin,,Illumin,1368.31
-current_week,Direct,Open Auction - BFM,CTV,Adtheorent,,Adtheorent,1352.87
-current_week,Direct,Open Auction - BFM,Display,TheTradeDesk,,TheTradeDesk,1348.69
-previous_week,Direct,DSP Marketplace - BFM,CTV,Beeswax,,Beeswax,1342.39
-previous_week,Direct,Open Auction - Seedtag,Online Video,Illumin,,Illumin,1228.76
-previous_week,Direct,Open Auction - Seedtag,Display,Viant,,Viant,1210.55
-previous_week,Direct,Open Auction - Seedtag,Native,Nexxen,,Nexxen,1099.87
-previous_week,Direct,Select - BFM,CTV,TheTradeDesk,IRIS,TheTradeDesk,1098.2
-current_week,Direct,DSP Marketplace - BFM,CTV,MadHive,,MadHive,1087.14
-previous_week,Direct,Select - BFM,CTV,TheTradeDesk,Strategus,TheTradeDesk,1056.73
-current_week,Direct,PMP - Curation,Native,RtbHouse,,RtbHouse,1020.76
-previous_week,Direct,DSP Marketplace - BFM,CTV,JamLoop OpenRTB,,JamLoop OpenRTB,977.15
-previous_week,Direct,Open Auction - Seedtag,Online Video,Xandr,,AppNexus,946.62
-current_week,Direct,Open Auction - Seedtag,Native,Nexxen,,Nexxen,929.5
-previous_week,Direct,Open Auction - Seedtag,Online Video,MSAN,,AppNexus,878.14
-previous_week,Direct,DSP Marketplace - BFM,CTV,Amobee,,Amobee,829.45
-current_week,Direct,Select - BFM,CTV,TheTradeDesk,Strategus,TheTradeDesk,826.4
-current_week,Direct,Open Auction - Seedtag,Native,Xandr,,AppNexus,803.13
-previous_week,Direct,Open Auction - BFM,CTV,DSP Not Found,,Other,772.48
-current_week,Direct,Open Auction - Seedtag,Online Video,Xandr,,AppNexus,720.45
-current_week,Direct,Open Auction - Seedtag,Online Video,MSAN,,AppNexus,686.37
-current_week,Direct,Open Auction - Seedtag,Online Video,Illumin,,Illumin,680.92
-current_week,Direct,Select - BFM,CTV,TheTradeDesk,IRIS,TheTradeDesk,663.71
-current_week,Direct,Select - BFM,CTV,JamLoop OpenRTB,TEGNA,JamLoop OpenRTB,652.41
-previous_week,Direct,PMP Web - O&O,Display,StackAdapt,,StackAdaptDSP,639.85
-current_week,BidSwitch,Open Auction - Seedtag,Display,Madopi,,Madopi,638.11
-current_week,BidSwitch,DSP Marketplace - BFM,CTV,DV360,,DV360,616.71
-previous_week,BidSwitch,DSP Marketplace - BFM,CTV,DV360,,DV360,611.42
-current_week,Direct,PMP Web - O&O,Display,StackAdapt,,StackAdaptDSP,593.81
-previous_week,Direct,Open Auction - BFM,CTV,DBM,,DBM,591.18
-current_week,Direct,Open Auction - Seedtag,Display,Viant,,Viant,577.2
-previous_week,Direct,Open Auction - BFM,CTV,DeepIntent,,DeepIntent,564.71
-previous_week,Direct,Open Auction - BFM,CTV,Marketing Architects,,Marketing Architects -RTB,558.71
-current_week,Direct,Open Auction - BFM,CTV,DSP Not Found,,Other,553.24
-current_week,Direct,Open Auction - BFM,Display,Yahoo DSP,,Yahoo DSP,530.31
-previous_week,Direct,Open Auction - BFM,CTV,Conversant,,Epsilon (Conversant),487.91
-previous_week,BidSwitch,Open Auction - BFM,Display,DV360,,DV360,486.59
-previous_week,Direct,Open Auction - BFM,Display,Viant,,Viant,462.36
-previous_week,Direct,DSP Marketplace - BFM,CTV,Adtelligent,,Adtelligent,459.68
-current_week,Direct,DSP Marketplace - BFM,CTV,Amobee,,Amobee,450.66
-previous_week,BidSwitch,Open Auction - Seedtag,Display,Madopi,,Madopi,437.69
-current_week,Direct,DSP Marketplace - BFM,CTV,JamLoop OpenRTB,,JamLoop OpenRTB,398.71
-current_week,Direct,DSP Marketplace - BFM,CTV,Adtelligent,,Adtelligent,380.43
-current_week,Direct,PMP - Curation,Online Video,RtbHouse,,RtbHouse,363.39
-previous_week,Direct,Select - BFM,CTV,Walmart,Chief Media,Walmart,342.02
-previous_week,Direct,Select - BFM,CTV,TheTradeDesk,Chief Media,TheTradeDesk,325.7
-current_week,Direct,Open Auction - BFM,CTV,Conversant,,Epsilon (Conversant),310.48
-previous_week,BidSwitch,PMP - Curation,Display,DV360,,DBM,308.17
-previous_week,BidSwitch,Open Auction - BFM,CTV,Amazon DSP,,Amazon DSP,307.37
-previous_week,Direct,Select - BFM,CTV,Basis Technologies,IRIS,Basis Technologies,301.78
-current_week,Direct,Open Auction - BFM,Display,Viant,,Viant,289.9
-previous_week,BidSwitch,DSP Marketplace - BFM,CTV,Zeta DSP,,Zeta DSP,288.44
-previous_week,Direct,Open Auction - BFM,Display,Yahoo DSP,,Yahoo DSP,288.22
-current_week,Direct,Open Auction - BFM,CTV,DBM,,DBM,276.93
-previous_week,BidSwitch,Open Auction - Seedtag,Native,Madopi,,Madopi,258.18
-previous_week,Direct,Open Auction - BFM,CTV,Walmart,,Walmart,258.01
-current_week,Direct,Select - BFM,CTV,Basis Technologies,IRIS,Basis Technologies,254.56
-previous_week,Direct,Open Auction - BFM,Display,Basis Technologies,,Basis Technologies,238.94
-current_week,BidSwitch,Open Auction - Seedtag,Native,Madopi,,Madopi,231.16
-current_week,BidSwitch,Open Auction - BFM,Display,DV360,,DV360,228.96
-current_week,Direct,Open Auction - Seedtag,Online Video,Opera,,Opera,221.53
-previous_week,BidSwitch,Open Auction - Seedtag,Display,AdMixerBidswitch,,AdMixerBidswitch,190.51
-previous_week,Direct,Open Auction - BFM,CTV,SmartyAds,,SmartyAds,169.18
-current_week,BidSwitch,Open Auction - BFM,CTV,Amazon DSP,,Amazon DSP,168.05
-current_week,Direct,DSP Marketplace - BFM,CTV,DeepIntent,,DeepIntent,143.32
-previous_week,Direct,Open Auction - Seedtag,Online Video,Opera,,Opera,124.28
-current_week,BidSwitch,Open Auction - Seedtag,Display,AdMixerBidswitch,,AdMixerBidswitch,122.88
-previous_week,Direct,Open Auction - BFM,CTV,Demandbase,,Demandbase,119.97
-previous_week,Direct,Open Auction - BFM,Display,Walmart,,Walmart,107.71
-current_week,Direct,Open Auction - BFM,Display,Basis Technologies,,Basis Technologies,106.75
-current_week,Direct,Select - BFM,CTV,TheTradeDesk,Chief Media,TheTradeDesk,105.59
-previous_week,Direct,DSP Marketplace - BFM,CTV,DeepIntent,,DeepIntent,101.97
-previous_week,Direct,PMP - Curation,Native,RtbHouse,,RtbHouse,101.2
-current_week,Direct,Open Auction - BFM,CTV,Xandr,,AppNexus,94.93
-current_week,Direct,Open Auction - BFM,CTV,GroundTruth,,GroundTruth,92.65
-current_week,Direct,Select - BFM,CTV,Walmart,Chief Media,Walmart,91.82
-previous_week,Direct,Open Auction - Seedtag,Online Video,Beeswax,,Beeswax,86.99
-current_week,Direct,Open Auction - BFM,CTV,Lemma DSP,,Lemma DSP,86.01
-current_week,Direct,Open Auction - BFM,Display,Walmart,,Walmart,85.33
-current_week,Direct,Open Auction - BFM,CTV,SmartyAds,,SmartyAds,81.14
-current_week,Direct,Open Auction - BFM,CTV,Demandbase,,Demandbase,75.08
-current_week,BidSwitch,PMP CTV - O&O,CTV,Amazon DSP,,Amazon DSP,70.81
-current_week,BidSwitch,PMP - Curation,Display,DV360,,DBM,70.32
-current_week,BidSwitch,Open Auction - Seedtag,Online Video,Sportradar,,Sportradar,62.27
-previous_week,Direct,Open Auction - BFM,CTV,GroundTruth,,GroundTruth,61.8
-previous_week,Direct,Select - BFM,CTV,Viant,Viant,Viant,60.26
-previous_week,BidSwitch,Open Auction - Seedtag,Online Video,Sportradar,,Sportradar,57.06
-current_week,BidSwitch,DSP Marketplace - BFM,CTV,Zeta DSP,,Zeta DSP,48.37
-current_week,BidSwitch,Open Auction - BFM,CTV,Knorex,,Knorex,47.57
-current_week,Direct,Select - BFM,CTV,Viant,Viant,Viant,41.22
-previous_week,BidSwitch,Open Auction - BFM,CTV,Infillion,,Infillion,40.34
-previous_week,Direct,Open Auction - Seedtag,Online Video,DeepIntent,,DeepIntent,37.01
-previous_week,Direct,Open Auction - BFM,Display,Conversant,,Epsilon (Conversant),35.95
-previous_week,BidSwitch,Open Auction - BFM,CTV,OnSpot Data,,OnSpot Data,35.74
-previous_week,Direct,Open Auction - BFM,Display,Adtheorent,,Adtheorent,35.32
-current_week,BidSwitch,Open Auction - BFM,Display,AdElement,,AdElement,34.75
-previous_week,Direct,DSP Marketplace - BFM,CTV,Marketing Architects,,Marketing Architects -RTB,33.47
-previous_week,Direct,DSP Marketplace - BFM,CTV,SmartyAds,,SmartyAds,33.21
-previous_week,Direct,Open Auction - BFM,CTV,Lemma DSP,,Lemma DSP,32.64
-current_week,Direct,DSP Marketplace - BFM,CTV,Stirista,,Stirista,30.4
-current_week,Direct,Open Auction - BFM,CTV,Walmart,,Walmart,27.74
-current_week,Direct,Open Auction - BFM,Display,Adtheorent,,Adtheorent,27.3
-current_week,BidSwitch,Open Auction - BFM,CTV,OnSpot Data,,OnSpot Data,25.54
-current_week,Direct,Open Auction - BFM,CTV,Equativ,,Equativ,24.77
-current_week,Direct,Open Auction - Seedtag,Online Video,DeepIntent,,DeepIntent,22.51
-previous_week,BidSwitch,Open Auction - BFM,CTV,Knorex,,Knorex,21.62
-current_week,Direct,DSP Marketplace - BFM,CTV,Marketing Architects,,Marketing Architects -RTB,17.43
-previous_week,Direct,Open Auction - BFM,Display,Krush Media,,Krush Media,16.89
-previous_week,Direct,Open Auction - BFM,CTV,Octillion,,Octillion,16.78
-previous_week,Direct,Open Auction - BFM,CTV,IQM,,IQM,15.16
-current_week,Direct,Open Auction - BFM,Display,Conversant,,Epsilon (Conversant),13.77
-current_week,Direct,Open Auction - BFM,CTV,DeepIntent,,DeepIntent,13.75
-current_week,Direct,PMP - Curation,Display,TheTradeDesk,,TheTradeDesk,13.32
-previous_week,Direct,DSP Marketplace - BFM,CTV,Stirista,,Stirista,12.04
-current_week,Direct,Open Auction - BFM,CTV,RtbHouse,,RtbHouse,11.35
-previous_week,Direct,PMP - Curation,Display,StackAdapt,,StackAdaptDSP,10.62
-current_week,Direct,Open Auction - BFM,CTV,IQM,,IQM,10.01
-previous_week,BidSwitch,PMP CTV - O&O,CTV,Amazon DSP,,Amazon DSP,9.04
-current_week,BidSwitch,Open Auction - BFM,CTV,Infillion,,Infillion,7.54
-current_week,Direct,PMP - Curation,Display,StackAdapt,,StackAdaptDSP,7.2
-previous_week,Direct,Select - BFM,CTV,JamLoop OpenRTB,Hearst News,JamLoop OpenRTB,5.29
-previous_week,Direct,Open Auction - BFM,CTV,Metax,,Metax,4.92
-previous_week,Direct,Open Auction - BFM,CTV,SmartClip,,SmartClip,4.53
-current_week,Direct,DSP Marketplace - BFM,CTV,SmartyAds,,SmartyAds,4.38
-current_week,Direct,Open Auction - BFM,CTV,Octillion,,Octillion,3.58
-current_week,Direct,Open Auction - BFM,CTV,Metax,,Metax,3.04
-current_week,BidSwitch,Open Auction - Seedtag,Online Video,Madopi,,Madopi,2.99
-previous_week,Direct,DSP Marketplace - BFM,Display,GroundTruth,,GroundTruth,2.72
-current_week,Direct,Select - BFM,CTV,JamLoop OpenRTB,Hearst News,JamLoop OpenRTB,2.33
-previous_week,Direct,Open Auction - Seedtag,Display,DeepIntent,,DeepIntent,2.28
-current_week,Direct,DSP Marketplace - BFM,Display,GroundTruth,,GroundTruth,2.24
-previous_week,BidSwitch,DSP Marketplace - BFM,CTV,Samsung DSP,,Samsung DSP,2.15
-current_week,BidSwitch,DSP Marketplace - BFM,CTV,Samsung DSP,,Samsung DSP,1.77
-current_week,Direct,Open Auction - BFM,Display,Krush Media,,Krush Media,1.39
-current_week,Direct,Open Auction - BFM,Display,DeepIntent,,DeepIntent,1.36
-previous_week,Direct,DSP Marketplace - BFM,Display,Stirista,,Stirista,1.32
-previous_week,Direct,Open Auction - BFM,Display,DeepIntent,,DeepIntent,1.3
-previous_week,Direct,Open Auction - BFM,CTV,Equativ,,Equativ,1.29
-previous_week,Direct,Open Auction - BFM,CTV,ZetaBidswitch,,ZetaBidswitch,1.28
-previous_week,Direct,Select - BFM,CTV,Adtelligent,A+E Networks,Adtelligent,1.25
-previous_week,Direct,Open Auction - BFM,CTV,RtbHouse,,RtbHouse,1.24
-current_week,Direct,DSP Marketplace - BFM,Display,Stirista,,Stirista,1.18
-current_week,BidSwitch,Open Auction - BFM,Display,OnSpot Data,,OnSpot Data,1.1
-previous_week,BidSwitch,Open Auction - BFM,Display,AdElement,,AdElement,1.07
-previous_week,BidSwitch,Open Auction - Seedtag,Online Video,Madopi,,Madopi,1.07
-previous_week,Direct,DSP Marketplace - BFM,Display,Adtheorent,,Adtheorent,1.0
-current_week,Direct,Open Auction - BFM,CTV,Krush Media,,Krush Media,0.96
-current_week,Direct,Open Auction - BFM,CTV,SmartClip,,SmartClip,0.81
-current_week,Direct,Open Auction - Seedtag,Display,DeepIntent,,DeepIntent,0.81
-previous_week,Direct,Open Auction - BFM,CTV,Krush Media,,Krush Media,0.75
+previous_week,BidSwitch,Open Auction - Seedtag,Display,DV360,,DBM,211850.04
+current_week,BidSwitch,Open Auction - Seedtag,Display,DV360,,DBM,194339.48
+previous_week,Direct,Open Auction - Seedtag,Display,MSAN,,AppNexus,182875.62
+previous_week,BidSwitch,PMP Web - O&O,Display,DV360,,DBM,180643.2
+current_week,BidSwitch,PMP Web - O&O,Display,DV360,,DBM,173178.55
+previous_week,Direct,Open Auction - Seedtag,Native,MSAN,,AppNexus,166007.53
+current_week,Direct,Open Auction - Seedtag,Display,MSAN,,AppNexus,154497.22
+previous_week,BidSwitch,PMP Web - O&O,Online Video,DV360,,DBM,143995.24
+current_week,Direct,Open Auction - Seedtag,Native,MSAN,,AppNexus,137529.49
+previous_week,Direct,Open Auction - BFM,CTV,StackAdapt,,StackAdapt,104138.3
+current_week,Direct,Open Auction - BFM,CTV,StackAdapt,,StackAdapt,100055.48
+previous_week,Direct,Open Auction - Seedtag,Native,RtbHouse,,RtbHouse,94793.01
+current_week,Direct,PMP Web - O&O,Display,TheTradeDesk,,TheTradeDesk,92779.0
+previous_week,Direct,Open Auction - BFM,CTV,Amobee,,Amobee,79282.0
+current_week,Direct,Open Auction - Seedtag,Native,RtbHouse,,RtbHouse,77146.5
+previous_week,Direct,PMP CTV - O&O,CTV,TheTradeDesk,,TheTradeDesk,77126.51
+previous_week,BidSwitch,Open Auction - Seedtag,Online Video,DV360,,DBM,75028.68
+current_week,BidSwitch,PMP Web - O&O,Online Video,DV360,,DBM,71508.38
+current_week,BidSwitch,Open Auction - Seedtag,Online Video,DV360,,DBM,62040.59
+current_week,Direct,Open Auction - BFM,CTV,Pubmatic,,Pubmatic,58024.1
+previous_week,Direct,PMP Web - O&O,Display,TheTradeDesk,,TheTradeDesk,57621.26
+previous_week,Direct,PMP Web - O&O,Online Video,TheTradeDesk,,TheTradeDesk,57213.4
+current_week,Direct,PMP CTV - O&O,CTV,TheTradeDesk,,TheTradeDesk,56764.36
+previous_week,Direct,Open Auction - BFM,CTV,Beeswax,,Beeswax,56306.58
+previous_week,Direct,Open Auction - Seedtag,Display,StackAdapt,,StackAdaptDSP,54428.27
+current_week,Direct,Open Auction - Seedtag,Display,StackAdapt,,StackAdaptDSP,48429.8
+previous_week,Direct,Open Auction - Seedtag,Online Video,TheTradeDesk,,TheTradeDesk,47722.37
+previous_week,Direct,Open Auction - Seedtag,Native,StackAdapt,,StackAdaptDSP,46167.71
+previous_week,Direct,Open Auction - Seedtag,Display,RtbHouse,,RtbHouse,45572.3
+current_week,Direct,PMP Web - O&O,Online Video,TheTradeDesk,,TheTradeDesk,43533.95
+previous_week,Direct,Open Auction - BFM,CTV,Pubmatic,,Pubmatic,41803.9
+previous_week,Direct,Open Auction - Seedtag,Online Video,StackAdapt,,StackAdaptDSP,41559.72
+previous_week,Direct,Open Auction - Seedtag,Display,TheTradeDesk,,TheTradeDesk,41454.14
+current_week,Direct,Open Auction - Seedtag,Display,RtbHouse,,RtbHouse,38496.01
+current_week,Direct,Open Auction - Seedtag,Native,StackAdapt,,StackAdaptDSP,36155.18
+current_week,Direct,Open Auction - BFM,CTV,Amobee,,Amobee,34834.16
+current_week,Direct,Open Auction - Seedtag,Online Video,TheTradeDesk,,TheTradeDesk,34733.03
+previous_week,Direct,Open Auction - BFM,CTV,TheTradeDesk,,TheTradeDesk,33977.9
+previous_week,Direct,Open Auction - BFM,CTV,Viant,,Viant,33974.99
+current_week,Direct,Open Auction - Seedtag,Display,TheTradeDesk,,TheTradeDesk,33658.75
+current_week,Direct,Open Auction - BFM,CTV,Viant,,Viant,33519.26
+previous_week,BidSwitch,PMP CTV - O&O,CTV,DV360,,DV360,33191.18
+current_week,BidSwitch,PMP CTV - O&O,CTV,DV360,,DV360,32911.57
+previous_week,Direct,Open Auction - Seedtag,Display,Nexxen,,Nexxen,32367.66
+current_week,Direct,Open Auction - Seedtag,Native,Outbrain/Teads,,Outbrain,32318.33
+current_week,Direct,Open Auction - BFM,CTV,Beeswax,,Beeswax,31381.6
+current_week,Direct,Open Auction - BFM,CTV,TheTradeDesk,,TheTradeDesk,30854.16
+current_week,Direct,Open Auction - Seedtag,Display,Nexxen,,Nexxen,30097.6
+previous_week,Direct,Open Auction - Seedtag,Native,Outbrain/Teads,,Outbrain,28944.52
+current_week,Direct,DSP Marketplace - BFM,CTV,StackAdapt,,StackAdapt,28566.78
+current_week,Direct,Open Auction - Seedtag,Display,Outbrain/Teads,,Outbrain,26780.96
+current_week,Direct,Open Auction - Seedtag,Online Video,StackAdapt,,StackAdaptDSP,23126.08
+previous_week,Direct,Open Auction - Seedtag,Online Video,Nexxen,,Nexxen,22529.25
+previous_week,Direct,Open Auction - Seedtag,Display,Outbrain/Teads,,Outbrain,20352.32
+previous_week,Direct,DSP Marketplace - BFM,CTV,TheTradeDesk,,TheTradeDesk,16926.27
+previous_week,Direct,Open Auction - Seedtag,Native,Opera,,Opera,16114.24
+previous_week,BidSwitch,Open Auction - Seedtag,Display,NextRoll,,NextRoll,15257.49
+previous_week,Direct,PMP CTV - O&O,CTV,Amobee,,Amobee,15029.04
+previous_week,Direct,DSP Marketplace - BFM,CTV,StackAdapt,,StackAdapt,14532.65
+current_week,BidSwitch,Open Auction - Seedtag,Display,NextRoll,,NextRoll,13622.51
+previous_week,Direct,Select - BFM,CTV,Yahoo DSP,Camelot,Yahoo DSP,12613.57
+current_week,Direct,Open Auction - Seedtag,Native,Opera,,Opera,12378.98
+previous_week,Direct,DSP Marketplace - BFM,CTV,Yahoo DSP,,Yahoo DSP,10518.56
+previous_week,Direct,DSP Marketplace - BFM,CTV,Conversant,,Epsilon (Conversant),10282.19
+current_week,Direct,DSP Marketplace - BFM,CTV,Conversant,,Epsilon (Conversant),9915.17
+current_week,Direct,PMP CTV - O&O,CTV,Viant,,Viant,9207.36
+current_week,Direct,DSP Marketplace - BFM,CTV,TheTradeDesk,,TheTradeDesk,8948.69
+previous_week,Direct,PMP CTV - O&O,CTV,Viant,,Viant,8938.39
+previous_week,Direct,DSP Marketplace - BFM,CTV,Viant,,Viant,8798.5
+previous_week,BidSwitch,Open Auction - Seedtag,Display,Sportradar,,Sportradar,8116.49
+current_week,Direct,Open Auction - BFM,CTV,Yahoo DSP,,Yahoo DSP,7846.41
+current_week,Direct,Select - BFM,CTV,TheTradeDesk,Aki,TheTradeDesk,7695.36
+previous_week,Direct,Open Auction - BFM,CTV,Yahoo DSP,,Yahoo DSP,7491.65
+previous_week,Direct,Open Auction - Seedtag,Online Video,Conversant,,Conversant,7357.47
+current_week,Direct,Open Auction - Seedtag,Online Video,Conversant,,Conversant,7262.28
+previous_week,Direct,Open Auction - Seedtag,Display,Conversant,,Conversant,7170.83
+previous_week,Direct,PMP - Curation,Display,RtbHouse,,RtbHouse,6937.99
+current_week,BidSwitch,Open Auction - Seedtag,Display,Sportradar,,Sportradar,6780.68
+current_week,Direct,DSP Marketplace - BFM,CTV,Amobee,,Amobee,6700.89
+current_week,Direct,Open Auction - Seedtag,Display,Conversant,,Conversant,6447.5
+current_week,Direct,Open Auction - BFM,CTV,Basis Technologies,,Basis Technologies,6193.64
+previous_week,Direct,Open Auction - BFM,CTV,Basis Technologies,,Basis Technologies,6147.66
+current_week,Direct,Open Auction - Seedtag,Online Video,Nexxen,,Nexxen,6083.81
+previous_week,Direct,Open Auction - Seedtag,Online Video,Outbrain/Teads,,Outbrain,5836.08
+previous_week,BidSwitch,Open Auction - Seedtag,Display,DV360,,GDN,5631.21
+current_week,Direct,PMP - Curation,Online Video,TheTradeDesk,,TheTradeDesk,5463.26
+previous_week,Direct,Open Auction - Seedtag,Display,Xandr,,AppNexus,5409.79
+current_week,Direct,Open Auction - Seedtag,Display,Xandr,,AppNexus,4611.64
+previous_week,Direct,DSP Marketplace - BFM,CTV,Octillion,,Octillion,4449.85
+previous_week,Direct,PMP - Curation,Online Video,TheTradeDesk,,TheTradeDesk,4449.54
+previous_week,Direct,PMP Web - O&O,Display,Viant,,Viant,4306.23
+previous_week,Direct,Open Auction - BFM,CTV,Sharethrough,,Sharethrough,4199.69
+previous_week,Direct,DSP Marketplace - BFM,CTV,MadHive,,MadHive,4149.34
+current_week,Direct,PMP - Curation,Display,RtbHouse,,RtbHouse,4050.25
+current_week,Direct,Open Auction - Seedtag,Online Video,Outbrain/Teads,,Outbrain,4038.93
+previous_week,Direct,Select - BFM,CTV,TheTradeDesk,Aki,TheTradeDesk,3819.85
+previous_week,Direct,DSP Marketplace - BFM,CTV,GroundTruth,,GroundTruth,3799.57
+current_week,Direct,DSP Marketplace - BFM,CTV,Viant,,Viant,3688.43
+current_week,Direct,DSP Marketplace - BFM,CTV,GroundTruth,,GroundTruth,3538.22
+previous_week,Direct,Open Auction - BFM,CTV,LoopMe,,LoopMe,3531.33
+current_week,Direct,DSP Marketplace - BFM,CTV,Yahoo DSP,,Yahoo DSP,3474.03
+current_week,Direct,Open Auction - BFM,CTV,Sharethrough,,Sharethrough,3417.46
+previous_week,Direct,Open Auction - Seedtag,Display,Opera,,Opera,3395.78
+previous_week,Direct,DSP Marketplace - BFM,CTV,Basis Technologies,,Basis Technologies,3359.89
+current_week,BidSwitch,Open Auction - Seedtag,Display,DV360,,GDN,3248.11
+current_week,Direct,DSP Marketplace - BFM,CTV,Octillion,,Octillion,3199.38
+current_week,Direct,DSP Marketplace - BFM,CTV,Walmart,,Walmart,3027.48
+previous_week,Direct,Open Auction - Seedtag,Native,TheTradeDesk,,TheTradeDesk,2936.0
+previous_week,BidSwitch,Open Auction - BFM,CTV,DV360,,DV360,2855.34
+current_week,Direct,Open Auction - Seedtag,Native,TheTradeDesk,,TheTradeDesk,2850.45
+current_week,Direct,PMP CTV - O&O,CTV,Amobee,,Amobee,2849.01
+current_week,Direct,PMP Web - O&O,Display,Viant,,Viant,2843.14
+current_week,BidSwitch,Open Auction - BFM,CTV,Zeta DSP,,Zeta DSP,2774.78
+current_week,Direct,DSP Marketplace - BFM,CTV,Basis Technologies,,Basis Technologies,2698.98
+current_week,Direct,Open Auction - BFM,CTV,LoopMe,,LoopMe,2419.68
+current_week,Direct,Open Auction - BFM,CTV,Adtelligent,,Adtelligent,2407.86
+previous_week,Direct,Open Auction - Seedtag,Online Video,Viant,,Viant,2368.4
+previous_week,Direct,Open Auction - BFM,CTV,Adtelligent,,Adtelligent,2332.56
+previous_week,Direct,DSP Marketplace - BFM,CTV,Walmart,,Walmart,2142.86
+current_week,Direct,Select - BFM,CTV,Yahoo DSP,Camelot,Yahoo DSP,2113.47
+previous_week,Direct,Open Auction - Seedtag,Display,Illumin,,Illumin,2083.01
+previous_week,Direct,Open Auction - BFM,CTV,Adtheorent,,Adtheorent,2044.96
+current_week,Direct,Open Auction - Seedtag,Online Video,RtbHouse,,RtbHouse,2033.78
+current_week,Direct,Open Auction - Seedtag,Display,Opera,,Opera,2032.53
+previous_week,BidSwitch,Open Auction - BFM,CTV,Zeta DSP,,Zeta DSP,1944.86
+current_week,Direct,Open Auction - BFM,CTV,Marketing Architects,,Marketing Architects -RTB,1877.28
+current_week,Direct,Open Auction - BFM,CTV,Adtheorent,,Adtheorent,1697.59
+current_week,Direct,Open Auction - Seedtag,Online Video,Viant,,Viant,1648.9
+previous_week,Direct,Open Auction - BFM,Display,TheTradeDesk,,TheTradeDesk,1635.91
+previous_week,Direct,Open Auction - Seedtag,Online Video,RtbHouse,,RtbHouse,1570.44
+previous_week,Direct,Open Auction - Seedtag,Display,Beeswax,,Beeswax,1536.36
+previous_week,Direct,PMP CTV - O&O,CTV,Walmart,,Walmart,1529.68
+current_week,Direct,DSP Marketplace - BFM,CTV,Beeswax,,Beeswax,1527.17
+current_week,Direct,PMP CTV - O&O,CTV,Walmart,,Walmart,1476.89
+previous_week,Direct,Select - BFM,CTV,JamLoop OpenRTB,TEGNA,JamLoop OpenRTB,1440.02
+previous_week,Direct,Open Auction - BFM,CTV,Xandr,,AppNexus,1425.55
+current_week,BidSwitch,Open Auction - BFM,CTV,DV360,,DV360,1353.85
+previous_week,Direct,DSP Marketplace - BFM,CTV,Beeswax,,Beeswax,1342.6
+current_week,Direct,DSP Marketplace - BFM,CTV,MadHive,,MadHive,1325.06
+current_week,Direct,Open Auction - BFM,Display,TheTradeDesk,,TheTradeDesk,1306.71
+previous_week,Direct,Open Auction - Seedtag,Native,Xandr,,AppNexus,1301.77
+previous_week,Direct,Open Auction - Seedtag,Online Video,Illumin,,Illumin,1263.25
+current_week,Direct,Open Auction - Seedtag,Display,Beeswax,,Beeswax,1262.26
+current_week,Direct,Open Auction - Seedtag,Display,Illumin,,Illumin,1230.69
+previous_week,Direct,Open Auction - Seedtag,Display,Viant,,Viant,1108.66
+previous_week,Direct,Open Auction - Seedtag,Native,Nexxen,,Nexxen,1040.74
+previous_week,Direct,Select - BFM,CTV,TheTradeDesk,Strategus,TheTradeDesk,991.77
+previous_week,Direct,Select - BFM,CTV,TheTradeDesk,IRIS,TheTradeDesk,969.8
+previous_week,Direct,Open Auction - Seedtag,Online Video,Xandr,,AppNexus,950.95
+previous_week,Direct,DSP Marketplace - BFM,CTV,JamLoop OpenRTB,,JamLoop OpenRTB,928.82
+current_week,Direct,Open Auction - Seedtag,Native,Nexxen,,Nexxen,893.93
+current_week,Direct,PMP - Curation,Native,RtbHouse,,RtbHouse,874.78
+previous_week,Direct,Open Auction - Seedtag,Online Video,MSAN,,AppNexus,874.02
+current_week,Direct,Select - BFM,CTV,TheTradeDesk,Strategus,TheTradeDesk,859.38
+current_week,Direct,Open Auction - Seedtag,Native,Xandr,,AppNexus,792.79
+previous_week,Direct,Open Auction - BFM,CTV,Marketing Architects,,Marketing Architects -RTB,769.9
+current_week,Direct,Select - BFM,CTV,TheTradeDesk,IRIS,TheTradeDesk,762.49
+current_week,BidSwitch,Open Auction - Seedtag,Display,Madopi,,Madopi,759.1
+current_week,Direct,Open Auction - Seedtag,Online Video,Xandr,,AppNexus,741.01
+previous_week,Direct,Open Auction - BFM,CTV,DSP Not Found,,Other,730.49
+previous_week,Direct,DSP Marketplace - BFM,CTV,Amobee,,Amobee,718.31
+current_week,Direct,Open Auction - Seedtag,Online Video,MSAN,,AppNexus,687.85
+previous_week,Direct,PMP Web - O&O,Display,StackAdapt,,StackAdaptDSP,640.31
+current_week,Direct,Open Auction - Seedtag,Display,Viant,,Viant,631.3
+current_week,BidSwitch,DSP Marketplace - BFM,CTV,DV360,,DV360,618.08
+current_week,Direct,Open Auction - BFM,Display,Yahoo DSP,,Yahoo DSP,592.96
+current_week,Direct,Open Auction - Seedtag,Online Video,Illumin,,Illumin,582.34
+current_week,Direct,Open Auction - BFM,CTV,DSP Not Found,,Other,580.96
+previous_week,Direct,Open Auction - BFM,CTV,DBM,,DBM,525.85
+current_week,Direct,PMP Web - O&O,Display,StackAdapt,,StackAdaptDSP,510.21
+previous_week,BidSwitch,Open Auction - Seedtag,Display,Madopi,,Madopi,500.79
+previous_week,BidSwitch,Open Auction - BFM,Display,DV360,,DV360,481.11
+previous_week,Direct,DSP Marketplace - BFM,CTV,Adtelligent,,Adtelligent,449.78
+previous_week,Direct,Open Auction - BFM,CTV,Conversant,,Epsilon (Conversant),449.34
+current_week,Direct,Select - BFM,CTV,JamLoop OpenRTB,TEGNA,JamLoop OpenRTB,448.7
+previous_week,Direct,Open Auction - BFM,Display,Viant,,Viant,433.21
+previous_week,BidSwitch,DSP Marketplace - BFM,CTV,DV360,,DV360,431.72
+current_week,Direct,DSP Marketplace - BFM,CTV,Adtelligent,,Adtelligent,381.17
+current_week,Direct,Open Auction - BFM,CTV,Conversant,,Epsilon (Conversant),376.32
+current_week,Direct,DSP Marketplace - BFM,CTV,JamLoop OpenRTB,,JamLoop OpenRTB,376.1
+previous_week,Direct,PMP - Curation,Native,RtbHouse,,RtbHouse,351.8
+previous_week,Direct,Open Auction - BFM,CTV,DeepIntent,,DeepIntent,347.19
+previous_week,BidSwitch,Open Auction - BFM,CTV,Amazon DSP,,Amazon DSP,341.01
+current_week,Direct,Open Auction - BFM,CTV,DBM,,DBM,309.17
+current_week,Direct,Open Auction - BFM,Display,Viant,,Viant,308.06
+previous_week,Direct,Select - BFM,CTV,Walmart,Chief Media,Walmart,304.66
+previous_week,Direct,Select - BFM,CTV,TheTradeDesk,Chief Media,TheTradeDesk,298.85
+previous_week,Direct,Select - BFM,CTV,Basis Technologies,IRIS,Basis Technologies,298.28
+current_week,BidSwitch,Open Auction - BFM,Display,DV360,,DV360,269.4
+previous_week,Direct,Open Auction - BFM,Display,Yahoo DSP,,Yahoo DSP,268.28
+previous_week,Direct,PMP - Curation,Online Video,RtbHouse,,RtbHouse,259.02
+current_week,Direct,Select - BFM,CTV,Basis Technologies,IRIS,Basis Technologies,254.98
+previous_week,BidSwitch,Open Auction - Seedtag,Native,Madopi,,Madopi,240.1
+previous_week,Direct,Open Auction - BFM,Display,Basis Technologies,,Basis Technologies,239.07
+current_week,BidSwitch,Open Auction - Seedtag,Native,Madopi,,Madopi,228.26
+previous_week,BidSwitch,DSP Marketplace - BFM,CTV,Zeta DSP,,Zeta DSP,226.19
+current_week,Direct,Open Auction - Seedtag,Online Video,Opera,,Opera,214.46
+previous_week,BidSwitch,Open Auction - Seedtag,Display,AdMixerBidswitch,,AdMixerBidswitch,212.16
+previous_week,BidSwitch,PMP - Curation,Display,DV360,,DBM,203.39
+previous_week,Direct,Open Auction - BFM,CTV,Walmart,,Walmart,191.84
+current_week,Direct,DSP Marketplace - BFM,CTV,DeepIntent,,DeepIntent,178.1
+current_week,Direct,Open Auction - BFM,CTV,Xandr,,AppNexus,159.3
+current_week,BidSwitch,Open Auction - BFM,CTV,Amazon DSP,,Amazon DSP,142.54
+previous_week,Direct,Open Auction - BFM,CTV,SmartyAds,,SmartyAds,142.27
+previous_week,Direct,Open Auction - Seedtag,Online Video,Opera,,Opera,128.27
+current_week,Direct,Open Auction - BFM,CTV,Lemma DSP,,Lemma DSP,119.32
+previous_week,Direct,Open Auction - BFM,CTV,Demandbase,,Demandbase,119.07
+current_week,BidSwitch,PMP CTV - O&O,CTV,Amazon DSP,,Amazon DSP,117.76
+current_week,BidSwitch,PMP - Curation,Display,DV360,,DBM,116.2
+current_week,Direct,Open Auction - BFM,Display,Basis Technologies,,Basis Technologies,107.41
+current_week,Direct,Select - BFM,CTV,Walmart,Chief Media,Walmart,107.06
+current_week,Direct,PMP - Curation,Online Video,RtbHouse,,RtbHouse,106.48
+current_week,Direct,Select - BFM,CTV,TheTradeDesk,Chief Media,TheTradeDesk,106.32
+previous_week,Direct,Open Auction - BFM,Display,Walmart,,Walmart,103.07
+current_week,BidSwitch,Open Auction - Seedtag,Display,AdMixerBidswitch,,AdMixerBidswitch,96.01
+previous_week,Direct,DSP Marketplace - BFM,CTV,DeepIntent,,DeepIntent,85.51
+current_week,Direct,Open Auction - BFM,CTV,GroundTruth,,GroundTruth,84.15
+current_week,Direct,Open Auction - BFM,Display,Walmart,,Walmart,83.88
+current_week,Direct,Open Auction - BFM,CTV,Demandbase,,Demandbase,83.07
+previous_week,Direct,Open Auction - BFM,CTV,GroundTruth,,GroundTruth,77.96
+current_week,BidSwitch,Open Auction - Seedtag,Online Video,Sportradar,,Sportradar,76.4
+previous_week,Direct,Open Auction - Seedtag,Online Video,Beeswax,,Beeswax,73.07
+current_week,BidSwitch,Open Auction - BFM,CTV,Knorex,,Knorex,72.91
+current_week,BidSwitch,Open Auction - BFM,Display,AdElement,,AdElement,64.69
+previous_week,Direct,Select - BFM,CTV,Viant,Viant,Viant,56.16
+previous_week,BidSwitch,Open Auction - Seedtag,Online Video,Sportradar,,Sportradar,55.62
+current_week,BidSwitch,DSP Marketplace - BFM,CTV,Zeta DSP,,Zeta DSP,46.39
+current_week,Direct,Select - BFM,CTV,Viant,Viant,Viant,40.04
+current_week,Direct,Open Auction - BFM,CTV,SmartyAds,,SmartyAds,37.09
+previous_week,Direct,Open Auction - BFM,Display,Adtheorent,,Adtheorent,32.58
+previous_week,BidSwitch,Open Auction - BFM,CTV,OnSpot Data,,OnSpot Data,31.94
+current_week,Direct,Open Auction - BFM,CTV,Equativ,,Equativ,31.75
+current_week,Direct,DSP Marketplace - BFM,CTV,Stirista,,Stirista,31.64
+previous_week,Direct,Open Auction - BFM,Display,Conversant,,Epsilon (Conversant),31.48
+previous_week,Direct,Open Auction - BFM,CTV,Lemma DSP,,Lemma DSP,31.24
+previous_week,Direct,DSP Marketplace - BFM,CTV,Marketing Architects,,Marketing Architects -RTB,31.21
+current_week,Direct,Open Auction - BFM,CTV,RtbHouse,,RtbHouse,30.99
+current_week,Direct,Open Auction - Seedtag,Online Video,DeepIntent,,DeepIntent,29.84
+current_week,Direct,Open Auction - BFM,Display,Adtheorent,,Adtheorent,29.66
+previous_week,Direct,Open Auction - Seedtag,Online Video,DeepIntent,,DeepIntent,28.92
+current_week,Direct,PMP - Curation,Display,TheTradeDesk,,TheTradeDesk,26.11
+current_week,BidSwitch,Open Auction - BFM,CTV,OnSpot Data,,OnSpot Data,25.98
+current_week,Direct,Open Auction - BFM,CTV,Walmart,,Walmart,24.75
+previous_week,BidSwitch,Open Auction - BFM,CTV,Knorex,,Knorex,20.82
+previous_week,BidSwitch,Open Auction - BFM,CTV,Infillion,,Infillion,19.48
+previous_week,Direct,Open Auction - BFM,Display,Krush Media,,Krush Media,16.73
+previous_week,Direct,Open Auction - BFM,CTV,Octillion,,Octillion,16.19
+current_week,Direct,DSP Marketplace - BFM,CTV,Marketing Architects,,Marketing Architects -RTB,15.3
+previous_week,Direct,Open Auction - BFM,CTV,IQM,,IQM,14.79
+current_week,Direct,Open Auction - BFM,Display,Conversant,,Epsilon (Conversant),13.84
+current_week,Direct,Open Auction - BFM,CTV,DeepIntent,,DeepIntent,12.94
+previous_week,Direct,DSP Marketplace - BFM,CTV,SmartyAds,,SmartyAds,11.99
+previous_week,Direct,DSP Marketplace - BFM,CTV,Stirista,,Stirista,11.22
+current_week,Direct,Open Auction - BFM,CTV,IQM,,IQM,10.22
+current_week,BidSwitch,PMP - Curation,Online Video,DV360,,DBM,10.12
+previous_week,Direct,PMP - Curation,Display,StackAdapt,,StackAdaptDSP,9.48
+current_week,Direct,PMP - Curation,Display,StackAdapt,,StackAdaptDSP,7.63
+current_week,BidSwitch,Open Auction - BFM,CTV,Infillion,,Infillion,6.93
+previous_week,BidSwitch,PMP CTV - O&O,CTV,Amazon DSP,,Amazon DSP,6.16
+current_week,Direct,DSP Marketplace - BFM,CTV,SmartyAds,,SmartyAds,6.01
+previous_week,Direct,Select - BFM,CTV,JamLoop OpenRTB,Hearst News,JamLoop OpenRTB,5.77
+current_week,Direct,Open Auction - BFM,CTV,Octillion,,Octillion,5.1
+previous_week,Direct,Open Auction - BFM,CTV,Metax,,Metax,4.51
+current_week,Direct,Open Auction - BFM,CTV,Metax,,Metax,4.18
+previous_week,Direct,Open Auction - BFM,CTV,SmartClip,,SmartClip,3.61
+current_week,Direct,Open Auction - Seedtag,Online Video,Beeswax,,Beeswax,3.51
+current_week,BidSwitch,Open Auction - Seedtag,Online Video,Madopi,,Madopi,3.45
+previous_week,Direct,Open Auction - BFM,CTV,Equativ,,Equativ,3.44
+previous_week,Direct,DSP Marketplace - BFM,Display,GroundTruth,,GroundTruth,2.45
+previous_week,BidSwitch,DSP Marketplace - BFM,CTV,Samsung DSP,,Samsung DSP,2.29
+current_week,Direct,Open Auction - BFM,Display,DeepIntent,,DeepIntent,2.18
+current_week,Direct,DSP Marketplace - BFM,Display,GroundTruth,,GroundTruth,2.15
+current_week,Direct,Select - BFM,CTV,JamLoop OpenRTB,Hearst News,JamLoop OpenRTB,2.09
+current_week,BidSwitch,DSP Marketplace - BFM,CTV,Samsung DSP,,Samsung DSP,1.64
+previous_week,Direct,Open Auction - Seedtag,Display,DeepIntent,,DeepIntent,1.54
+current_week,Direct,Open Auction - BFM,Display,Krush Media,,Krush Media,1.44
+previous_week,Direct,DSP Marketplace - BFM,Display,Stirista,,Stirista,1.31
+current_week,BidSwitch,Open Auction - BFM,Display,OnSpot Data,,OnSpot Data,1.24
+current_week,Direct,Open Auction - Seedtag,Display,DeepIntent,,DeepIntent,1.21
+previous_week,BidSwitch,Open Auction - Seedtag,Online Video,Madopi,,Madopi,1.21
+previous_week,Direct,Open Auction - BFM,CTV,ZetaBidswitch,,ZetaBidswitch,1.15
+current_week,Direct,DSP Marketplace - BFM,Display,Stirista,,Stirista,1.15
+previous_week,Direct,Open Auction - BFM,CTV,RtbHouse,,RtbHouse,1.14
+previous_week,Direct,DSP Marketplace - BFM,Display,Adtheorent,,Adtheorent,1.06
+current_week,Direct,Open Auction - BFM,CTV,Krush Media,,Krush Media,1.02
+current_week,Direct,Select - BFM,Display,Viant,Quorum,Viant,0.9
+previous_week,Direct,Select - BFM,CTV,Adtelligent,A+E Networks,Adtelligent,0.83
+previous_week,Direct,Select - BFM,Display,Viant,Quorum,Viant,0.74
 previous_week,BidSwitch,Open Auction - BFM,Display,OnSpot Data,,OnSpot Data,0.73
-previous_week,Direct,Select - BFM,Display,Viant,Quorum,Viant,0.71
-current_week,Direct,Select - BFM,Display,Viant,Quorum,Viant,0.71
-current_week,Direct,DSP Marketplace - BFM,Display,Adtheorent,,Adtheorent,0.63
-current_week,Direct,Open Auction - BFM,CTV,ZetaBidswitch,,ZetaBidswitch,0.6
-previous_week,Direct,Open Auction - BFM,CTV,Equative,,Equative,0.57
-previous_week,Direct,Open Auction - BFM,Display,Beeswax,,Beeswax,0.56
-current_week,BidSwitch,Open Auction - BFM,CTV,Samsung DSP,,Samsung DSP,0.55
-current_week,Direct,Open Auction - BFM,Display,GroundTruth,,GroundTruth,0.53
-previous_week,Direct,Open Auction - BFM,Display,IQM,,IQM,0.44
-current_week,Direct,Open Auction - BFM,Display,Beeswax,,Beeswax,0.43
+current_week,BidSwitch,Open Auction - BFM,Display,Infillion,,Infillion,0.7
+previous_week,Direct,Open Auction - BFM,Display,DeepIntent,,DeepIntent,0.66
+previous_week,Direct,Open Auction - BFM,CTV,Krush Media,,Krush Media,0.63
+current_week,Direct,Open Auction - BFM,CTV,ZetaBidswitch,,ZetaBidswitch,0.61
+current_week,Direct,Open Auction - BFM,CTV,SmartClip,,SmartClip,0.61
+current_week,Direct,DSP Marketplace - BFM,Display,Adtheorent,,Adtheorent,0.6
+previous_week,Direct,Open Auction - BFM,Display,Beeswax,,Beeswax,0.57
+current_week,Direct,Open Auction - BFM,Display,GroundTruth,,GroundTruth,0.55
+current_week,BidSwitch,Open Auction - BFM,CTV,Samsung DSP,,Samsung DSP,0.53
+current_week,Direct,Open Auction - BFM,CTV,Stirista,,Stirista,0.47
+previous_week,Direct,Open Auction - BFM,Display,GroundTruth,,GroundTruth,0.44
+previous_week,Direct,Open Auction - BFM,CTV,Equative,,Equative,0.43
 previous_week,BidSwitch,Open Auction - BFM,Display,AdIngenious,,AdIngenious,0.43
-current_week,Direct,Open Auction - Seedtag,Online Video,Beeswax,,Beeswax,0.41
-current_week,Direct,Open Auction - BFM,CTV,Stirista,,Stirista,0.41
-current_week,BidSwitch,Open Auction - BFM,Display,Infillion,,Infillion,0.41
-previous_week,Direct,Open Auction - BFM,CTV,Stirista,,Stirista,0.4
-previous_week,Direct,Open Auction - BFM,Display,GroundTruth,,GroundTruth,0.38
-current_week,BidSwitch,PMP - Curation,Online Video,DV360,,DBM,0.37
-previous_week,BidSwitch,Open Auction - BFM,CTV,Samsung DSP,,Samsung DSP,0.33
-previous_week,BidSwitch,Open Auction - BFM,CTV,IPONWEB BidCore,,IPONWEB BidCore,0.29
-current_week,BidSwitch,Open Auction - BFM,Display,AdIngenious,,AdIngenious,0.23
-current_week,Direct,Select - BFM,CTV,Adtelligent,A+E Networks,Adtelligent,0.22
-current_week,BidSwitch,Open Auction - BFM,Display,Marketperf,,Marketperf,0.17
-previous_week,BidSwitch,Open Auction - BFM,Display,Marketperf,,Marketperf,0.16
-previous_week,BidSwitch,Open Auction - BFM,Display,Infillion,,Infillion,0.13
-previous_week,Direct,Open Auction - BFM,CTV,Zeasn,,Zeasn,0.13
-current_week,Direct,Open Auction - BFM,Display,IQM,,IQM,0.12
+current_week,Direct,Open Auction - BFM,Display,Beeswax,,Beeswax,0.43
+previous_week,Direct,Open Auction - BFM,Display,IQM,,IQM,0.42
+previous_week,BidSwitch,Open Auction - BFM,Display,AdElement,,AdElement,0.4
+current_week,BidSwitch,Open Auction - BFM,CTV,IPONWEB BidCore,,IPONWEB BidCore,0.36
+previous_week,Direct,Open Auction - BFM,CTV,Stirista,,Stirista,0.32
+previous_week,BidSwitch,Open Auction - BFM,CTV,Samsung DSP,,Samsung DSP,0.31
+current_week,BidSwitch,Open Auction - BFM,Display,AdIngenious,,AdIngenious,0.26
+previous_week,BidSwitch,Open Auction - BFM,CTV,IPONWEB BidCore,,IPONWEB BidCore,0.25
+current_week,Direct,Select - BFM,CTV,Adtelligent,A+E Networks,Adtelligent,0.21
+previous_week,BidSwitch,Open Auction - BFM,Display,Marketperf,,Marketperf,0.21
+current_week,Direct,PMP CTV - O&O,CTV,StackAdapt,,StackAdapt,0.19
 previous_week,BidSwitch,Open Auction - BFM,Display,Knorex,,Knorex,0.11
-current_week,Direct,Open Auction - BFM,CTV,SamsungBidswitch,,SamsungBidswitch,0.08
+previous_week,Direct,Open Auction - BFM,CTV,Zeasn,,Zeasn,0.11
+previous_week,BidSwitch,PMP - Curation,Online Video,DV360,,DBM,0.1
+current_week,Direct,Open Auction - BFM,Display,IQM,,IQM,0.1
+previous_week,BidSwitch,Open Auction - BFM,Display,Infillion,,Infillion,0.1
+current_week,BidSwitch,Open Auction - BFM,Display,Marketperf,,Marketperf,0.09
+previous_week,Direct,Open Auction - BFM,CTV,SamsungBidswitch,,SamsungBidswitch,0.08
 current_week,Direct,Open Auction - BFM,CTV,Zeasn,,Zeasn,0.07
-current_week,BidSwitch,Open Auction - BFM,Display,Knorex,,Knorex,0.04
-previous_week,Direct,Open Auction - BFM,CTV,SamsungBidswitch,,SamsungBidswitch,0.03
-current_week,BidSwitch,Open Auction - BFM,CTV,Madopi,,Madopi,0.03
+current_week,BidSwitch,Open Auction - BFM,Display,Knorex,,Knorex,0.05
+current_week,BidSwitch,Open Auction - BFM,CTV,Madopi,,Madopi,0.05
+current_week,BidSwitch,Open Auction - BFM,Display,Aroscop,,Aroscop,0.03
+current_week,BidSwitch,Open Auction - BFM,Display,Madopi,,Madopi,0.03
+current_week,BidSwitch,Open Auction - BFM,Display,Zeta DSP,,Zeta DSP,0.02
+current_week,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,,IPONWEB BidCore,0.02
 previous_week,Direct,Select - BFM,CTV,Viant,Plex,Viant,0.02
-previous_week,BidSwitch,Open Auction - BFM,CTV,Madopi,,Madopi,0.02
-previous_week,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,,IPONWEB BidCore,0.01
-previous_week,BidSwitch,Open Auction - BFM,Display,Madopi,,Madopi,0.01
-current_week,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,,IPONWEB BidCore,0.01
+current_week,Direct,Open Auction - BFM,CTV,SamsungBidswitch,,SamsungBidswitch,0.02
 previous_week,BidSwitch,Open Auction - BFM,Display,Aroscop,,Aroscop,0.01
+previous_week,BidSwitch,Open Auction - BFM,Display,Madopi,,Madopi,0.01
+current_week,Direct,Open Auction - BFM,Display,BidSwitch,,Bidswitch,0.01
 current_week,Direct,Open Auction - BFM,CTV,AdmaticBidswitch,,AdmaticBidswitch,0.01
+previous_week,BidSwitch,Open Auction - BFM,Display,IPONWEB BidCore,,IPONWEB BidCore,0.01
 current_week,BidSwitch,Open Auction - BFM,Display,Streamworx Lda.,,Streamworx Lda.,0.01
-current_week,BidSwitch,Open Auction - BFM,Display,Aroscop,,Aroscop,0.01
 previous_week,Direct,Open Auction - BFM,CTV,BidSwitch,,Bidswitch,0.01
+previous_week,BidSwitch,Open Auction - BFM,CTV,Madopi,,Madopi,0.01
 current_week,Direct,PMP - Curation,Online Video,Viant,,Viant,0.0
